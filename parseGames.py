@@ -63,7 +63,7 @@ def main():
 
         # Save current year
         df = pd.DataFrame(data, columns = ["Date","HomeTeam","AwayTeam","FTHG","FTAG","FTR"])
-        df.to_csv("output/slo_prva_liga_" + str((i - 1)) + "-" + str(i) + ".csv", index=None)
+        df.to_csv("output/games/slo_prva_liga_" + str((i - 1)) + "-" + str(i) + ".csv", index=None)
 
 
 if __name__ == "__main__":
