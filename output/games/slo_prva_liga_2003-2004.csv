@@ -1,49 +1,49 @@
 Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 18/08/91,Rudar Velenje,Slovan Mavrica,2,0,H
-18/08/91,DomÅ¾ale,Belvedur Izola,0,2,A
+18/08/91,Domžale,Belvedur Izola,0,2,A
 18/08/91,Publikum,Primorje,3,1,H
 18/08/91,Liqui Moly Svoboda,Jadran Lama,4,1,H
 18/08/91,Steklar,Mura,3,1,H
 18/08/91,Elektroelement Zagorje,Medvode Loka,4,0,H
-18/08/91,PotroÅ¡nik Beltinci,Nafta Lendava,6,4,H
+18/08/91,Potrošnik Beltinci,Nafta Lendava,6,4,H
 18/08/91,Koper,Eurospekter Ljubljana,1,0,H
-18/08/91,Å½ivila Naklo,Oria Rudar Trbovlje,7,1,H
+18/08/91,Živila Naklo,Oria Rudar Trbovlje,7,1,H
 18/08/91,SAOP Gorica,Maribor Branik,3,0,H
 25/08/91,Slovan Mavrica,SAOP Gorica,0,2,A
 25/08/91,Nafta Lendava,Rudar Velenje,2,0,H
 25/08/91,Maribor Branik,Koper,5,0,H
-25/08/91,Oria Rudar Trbovlje,PotroÅ¡nik Beltinci,0,1,A
-25/08/91,Medvode Loka,Å½ivila Naklo,1,2,A
+25/08/91,Oria Rudar Trbovlje,Potrošnik Beltinci,0,1,A
+25/08/91,Medvode Loka,Živila Naklo,1,2,A
 25/08/91,Mura,Elektroelement Zagorje,1,1,D
 25/08/91,Jadran Lama,Steklar,0,1,A
 25/08/91,Primorje,Liqui Moly Svoboda,2,3,A
 25/08/91,Belvedur Izola,Publikum,5,1,H
-25/08/91,SCT Olimpija,DomÅ¾ale,3,0,H
+25/08/91,SCT Olimpija,Domžale,3,0,H
 28/08/91,Publikum,SCT Olimpija,0,0,D
 28/08/91,Liqui Moly Svoboda,Belvedur Izola,0,3,A
 28/08/91,Steklar,Primorje,2,1,H
 28/08/91,Elektroelement Zagorje,Jadran Lama,2,0,H
-28/08/91,Å½ivila Naklo,Mura,1,1,D
+28/08/91,Živila Naklo,Mura,1,1,D
 28/08/91,SAOP Gorica,Nafta Lendava,5,1,H
 28/08/91,Koper,Slovan Mavrica,0,1,A
 28/08/91,Eurospekter Ljubljana,Maribor Branik,2,2,D
-28/08/91,PotroÅ¡nik Beltinci,Medvode Loka,2,2,D
+28/08/91,Potrošnik Beltinci,Medvode Loka,2,2,D
 28/08/91,Rudar Velenje,Oria Rudar Trbovlje,1,0,H
 31/08/91,SCT Olimpija,Liqui Moly Svoboda,3,2,H
-01/09/91,DomÅ¾ale,Publikum,0,0,D
+01/09/91,Domžale,Publikum,0,0,D
 01/09/91,Slovan Mavrica,Eurospekter Ljubljana,0,0,D
 01/09/91,Medvode Loka,Rudar Velenje,1,1,D
 01/09/91,Nafta Lendava,Koper,1,1,D
 01/09/91,Oria Rudar Trbovlje,SAOP Gorica,3,2,H
-01/09/91,Mura,PotroÅ¡nik Beltinci,5,1,H
-01/09/91,Jadran Lama,Å½ivila Naklo,2,3,A
+01/09/91,Mura,Potrošnik Beltinci,5,1,H
+01/09/91,Jadran Lama,Živila Naklo,2,3,A
 01/09/91,Primorje,Elektroelement Zagorje,2,1,H
 01/09/91,Belvedur Izola,Steklar,3,0,H
-08/09/91,Liqui Moly Svoboda,DomÅ¾ale,2,0,H
+08/09/91,Liqui Moly Svoboda,Domžale,2,0,H
 08/09/91,Steklar,SCT Olimpija,0,0,D
 08/09/91,Elektroelement Zagorje,Belvedur Izola,0,0,D
-08/09/91,Å½ivila Naklo,Primorje,2,0,H
-08/09/91,PotroÅ¡nik Beltinci,Jadran Lama,3,1,H
+08/09/91,Živila Naklo,Primorje,2,0,H
+08/09/91,Potrošnik Beltinci,Jadran Lama,3,1,H
 08/09/91,Rudar Velenje,Mura,0,2,A
 08/09/91,SAOP Gorica,Medvode Loka,6,0,H
 08/09/91,Koper,Oria Rudar Trbovlje,1,0,H
@@ -55,16 +55,16 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 11/09/91,Oria Rudar Trbovlje,Eurospekter Ljubljana,0,2,A
 11/09/91,Medvode Loka,Koper,0,1,A
 11/09/91,Mura,SAOP Gorica,2,1,H
-11/09/91,Primorje,PotroÅ¡nik Beltinci,1,1,D
-11/09/91,Belvedur Izola,Å½ivila Naklo,1,0,H
+11/09/91,Primorje,Potrošnik Beltinci,1,1,D
+11/09/91,Belvedur Izola,Živila Naklo,1,0,H
 11/09/91,SCT Olimpija,Elektroelement Zagorje,2,0,H
-11/09/91,DomÅ¾ale,Steklar,2,2,D
+11/09/91,Domžale,Steklar,2,2,D
 14/09/91,Slovan Mavrica,Nafta Lendava,2,0,H
 15/09/91,Steklar,Publikum,0,4,A
-15/09/91,PotroÅ¡nik Beltinci,Belvedur Izola,1,2,A
-15/09/91,Å½ivila Naklo,SCT Olimpija,2,1,H
+15/09/91,Potrošnik Beltinci,Belvedur Izola,1,2,A
+15/09/91,Živila Naklo,SCT Olimpija,2,1,H
 15/09/91,Rudar Velenje,Primorje,3,0,H
-15/09/91,Elektroelement Zagorje,DomÅ¾ale,3,0,H
+15/09/91,Elektroelement Zagorje,Domžale,3,0,H
 15/09/91,SAOP Gorica,Jadran Lama,5,0,H
 15/09/91,Koper,Mura,2,1,H
 15/09/91,Eurospekter Ljubljana,Medvode Loka,1,0,H
@@ -75,13 +75,13 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 22/09/91,Medvode Loka,Maribor Branik,2,4,A
 22/09/91,Publikum,Elektroelement Zagorje,2,1,H
 22/09/91,Primorje,SAOP Gorica,1,1,D
-22/09/91,SCT Olimpija,PotroÅ¡nik Beltinci,6,0,H
-22/09/91,DomÅ¾ale,Å½ivila Naklo,0,0,D
+22/09/91,SCT Olimpija,Potrošnik Beltinci,6,0,H
+22/09/91,Domžale,Živila Naklo,0,0,D
 22/09/91,Mura,Eurospekter Ljubljana,3,0,H
 22/09/91,Jadran Lama,Koper,1,0,H
-25/09/91,Å½ivila Naklo,Publikum,0,0,D
+25/09/91,Živila Naklo,Publikum,0,0,D
 25/09/91,Elektroelement Zagorje,Liqui Moly Svoboda,2,0,H
-25/09/91,PotroÅ¡nik Beltinci,DomÅ¾ale,2,0,H
+25/09/91,Potrošnik Beltinci,Domžale,2,0,H
 25/09/91,Rudar Velenje,SCT Olimpija,0,1,A
 25/09/91,SAOP Gorica,Belvedur Izola,2,2,D
 25/09/91,Koper,Primorje,1,0,H
@@ -90,40 +90,40 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 25/09/91,Slovan Mavrica,Medvode Loka,0,1,A
 25/09/91,Nafta Lendava,Oria Rudar Trbovlje,3,2,H
 28/09/91,Jadran Lama,Maribor Branik,1,3,A
-29/09/91,Liqui Moly Svoboda,Å½ivila Naklo,0,1,A
+29/09/91,Liqui Moly Svoboda,Živila Naklo,0,1,A
 29/09/91,Steklar,Elektroelement Zagorje,4,2,H
 29/09/91,Primorje,Eurospekter Ljubljana,1,0,H
 29/09/91,Belvedur Izola,Koper,1,0,H
 29/09/91,SCT Olimpija,SAOP Gorica,1,1,D
-29/09/91,DomÅ¾ale,Rudar Velenje,1,1,D
-29/09/91,Publikum,PotroÅ¡nik Beltinci,3,0,H
+29/09/91,Domžale,Rudar Velenje,1,1,D
+29/09/91,Publikum,Potrošnik Beltinci,3,0,H
 29/09/91,Medvode Loka,Nafta Lendava,2,1,H
 29/09/91,Mura,Slovan Mavrica,1,2,A
-06/10/91,PotroÅ¡nik Beltinci,Liqui Moly Svoboda,3,0,H
+06/10/91,Potrošnik Beltinci,Liqui Moly Svoboda,3,0,H
 06/10/91,Slovan Mavrica,Jadran Lama,5,0,H
 06/10/91,Rudar Velenje,Publikum,3,1,H
-06/10/91,Å½ivila Naklo,Steklar,2,1,H
-06/10/91,SAOP Gorica,DomÅ¾ale,1,0,H
+06/10/91,Živila Naklo,Steklar,2,1,H
+06/10/91,SAOP Gorica,Domžale,1,0,H
 06/10/91,Koper,SCT Olimpija,1,1,D
 06/10/91,Maribor Branik,Primorje,6,2,H
 06/10/91,Oria Rudar Trbovlje,Medvode Loka,2,1,H
 06/10/91,Nafta Lendava,Mura,2,3,A
 06/10/91,Eurospekter Ljubljana,Belvedur Izola,2,1,H
 12/10/91,Liqui Moly Svoboda,Rudar Velenje,1,0,H
-13/10/91,Steklar,PotroÅ¡nik Beltinci,2,1,H
-13/10/91,Elektroelement Zagorje,Å½ivila Naklo,1,0,H
+13/10/91,Steklar,Potrošnik Beltinci,2,1,H
+13/10/91,Elektroelement Zagorje,Živila Naklo,1,0,H
 13/10/91,Publikum,SAOP Gorica,0,0,D
 13/10/91,Mura,Oria Rudar Trbovlje,1,0,H
 13/10/91,Jadran Lama,Nafta Lendava,0,1,A
 13/10/91,Primorje,Slovan Mavrica,0,5,A
 13/10/91,Belvedur Izola,Maribor Branik,1,0,H
 13/10/91,SCT Olimpija,Eurospekter Ljubljana,3,0,H
-13/10/91,DomÅ¾ale,Koper,0,1,A
+13/10/91,Domžale,Koper,0,1,A
 16/10/91,Koper,Publikum,4,1,H
-16/10/91,PotroÅ¡nik Beltinci,Elektroelement Zagorje,3,2,H
+16/10/91,Potrošnik Beltinci,Elektroelement Zagorje,3,2,H
 16/10/91,Rudar Velenje,Steklar,6,2,H
 16/10/91,SAOP Gorica,Liqui Moly Svoboda,2,2,D
-16/10/91,Eurospekter Ljubljana,DomÅ¾ale,2,1,H
+16/10/91,Eurospekter Ljubljana,Domžale,2,1,H
 16/10/91,Maribor Branik,SCT Olimpija,2,1,H
 16/10/91,Slovan Mavrica,Belvedur Izola,1,1,D
 16/10/91,Nafta Lendava,Primorje,2,1,H
@@ -132,90 +132,90 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 19/10/91,Liqui Moly Svoboda,Koper,1,0,H
 20/10/91,Steklar,SAOP Gorica,0,0,D
 20/10/91,Elektroelement Zagorje,Rudar Velenje,4,0,H
-20/10/91,Å½ivila Naklo,PotroÅ¡nik Beltinci,1,0,H
+20/10/91,Živila Naklo,Potrošnik Beltinci,1,0,H
 20/10/91,Publikum,Eurospekter Ljubljana,2,1,H
 20/10/91,Jadran Lama,Medvode Loka,1,0,H
 20/10/91,Primorje,Oria Rudar Trbovlje,2,1,H
 20/10/91,Belvedur Izola,Nafta Lendava,4,0,H
 20/10/91,SCT Olimpija,Slovan Mavrica,1,0,H
-20/10/91,DomÅ¾ale,Maribor Branik,0,1,A
-27/10/91,Slovan Mavrica,DomÅ¾ale,1,0,H
+20/10/91,Domžale,Maribor Branik,0,1,A
+27/10/91,Slovan Mavrica,Domžale,1,0,H
 27/10/91,Nafta Lendava,SCT Olimpija,1,0,H
 27/10/91,Oria Rudar Trbovlje,Belvedur Izola,1,0,H
 27/10/91,Medvode Loka,Primorje,1,0,H
 27/10/91,Mura,Jadran Lama,0,0,D
 27/10/91,Maribor Branik,Publikum,3,0,H
-27/10/91,Rudar Velenje,Å½ivila Naklo,1,3,A
+27/10/91,Rudar Velenje,Živila Naklo,1,3,A
 27/10/91,Koper,Steklar,2,1,H
 27/10/91,SAOP Gorica,Elektroelement Zagorje,2,1,H
 27/10/91,Eurospekter Ljubljana,Liqui Moly Svoboda,0,0,D
 02/11/91,Liqui Moly Svoboda,Maribor Branik,3,5,A
 03/11/91,Steklar,Eurospekter Ljubljana,1,1,D
 03/11/91,Elektroelement Zagorje,Koper,0,1,A
-03/11/91,PotroÅ¡nik Beltinci,Rudar Velenje,2,2,D
+03/11/91,Potrošnik Beltinci,Rudar Velenje,2,2,D
 03/11/91,Publikum,Slovan Mavrica,1,0,H
 03/11/91,Primorje,Mura,4,0,H
 03/11/91,Belvedur Izola,Medvode Loka,1,0,H
 03/11/91,SCT Olimpija,Oria Rudar Trbovlje,2,0,H
-03/11/91,DomÅ¾ale,Nafta Lendava,2,0,H
-03/11/91,Å½ivila Naklo,SAOP Gorica,2,2,D
+03/11/91,Domžale,Nafta Lendava,2,0,H
+03/11/91,Živila Naklo,SAOP Gorica,2,2,D
 10/11/91,Slovan Mavrica,Liqui Moly Svoboda,3,0,H
-10/11/91,Oria Rudar Trbovlje,DomÅ¾ale,6,2,H
+10/11/91,Oria Rudar Trbovlje,Domžale,6,2,H
 10/11/91,Medvode Loka,SCT Olimpija,1,5,A
 10/11/91,Mura,Belvedur Izola,2,0,H
 10/11/91,Jadran Lama,Primorje,0,0,D
 10/11/91,Nafta Lendava,Publikum,2,2,D
-10/11/91,SAOP Gorica,PotroÅ¡nik Beltinci,2,1,H
-10/11/91,Koper,Å½ivila Naklo,0,1,A
+10/11/91,SAOP Gorica,Potrošnik Beltinci,2,1,H
+10/11/91,Koper,Živila Naklo,0,1,A
 10/11/91,Eurospekter Ljubljana,Elektroelement Zagorje,3,1,H
 10/11/91,Maribor Branik,Steklar,1,0,H
 16/11/91,Publikum,Oria Rudar Trbovlje,2,1,H
 17/11/91,Belvedur Izola,Jadran Lama,2,1,H
 17/11/91,SCT Olimpija,Mura,4,1,H
-17/11/91,DomÅ¾ale,Medvode Loka,2,0,H
+17/11/91,Domžale,Medvode Loka,2,0,H
 17/11/91,Liqui Moly Svoboda,Nafta Lendava,3,0,H
 17/11/91,Steklar,Slovan Mavrica,1,1,D
 17/11/91,Elektroelement Zagorje,Maribor Branik,2,0,H
-17/11/91,Å½ivila Naklo,Eurospekter Ljubljana,1,0,H
-17/11/91,PotroÅ¡nik Beltinci,Koper,1,3,A
+17/11/91,Živila Naklo,Eurospekter Ljubljana,1,0,H
+17/11/91,Potrošnik Beltinci,Koper,1,3,A
 17/11/91,Rudar Velenje,SAOP Gorica,4,3,H
 24/11/91,Medvode Loka,Publikum,3,1,H
 24/11/91,Koper,Rudar Velenje,2,0,H
-24/11/91,Eurospekter Ljubljana,PotroÅ¡nik Beltinci,3,0,H
-24/11/91,Maribor Branik,Å½ivila Naklo,4,1,H
+24/11/91,Eurospekter Ljubljana,Potrošnik Beltinci,3,0,H
+24/11/91,Maribor Branik,Živila Naklo,4,1,H
 24/11/91,Slovan Mavrica,Elektroelement Zagorje,1,1,D
 24/11/91,Nafta Lendava,Steklar,0,1,A
 24/11/91,Oria Rudar Trbovlje,Liqui Moly Svoboda,3,3,D
-24/11/91,Mura,DomÅ¾ale,1,0,H
+24/11/91,Mura,Domžale,1,0,H
 24/11/91,Jadran Lama,SCT Olimpija,0,4,A
 27/11/91,Primorje,Belvedur Izola,1,1,D
 01/12/91,Publikum,Mura,1,0,H
 01/12/91,SCT Olimpija,Primorje,5,0,H
-01/12/91,DomÅ¾ale,Jadran Lama,2,0,H
+01/12/91,Domžale,Jadran Lama,2,0,H
 01/12/91,Liqui Moly Svoboda,Medvode Loka,4,0,H
 01/12/91,Steklar,Oria Rudar Trbovlje,5,2,H
 01/12/91,Elektroelement Zagorje,Nafta Lendava,3,2,H
-01/12/91,Å½ivila Naklo,Slovan Mavrica,3,1,H
-01/12/91,PotroÅ¡nik Beltinci,Maribor Branik,0,0,D
+01/12/91,Živila Naklo,Slovan Mavrica,3,1,H
+01/12/91,Potrošnik Beltinci,Maribor Branik,0,0,D
 01/12/91,Rudar Velenje,Eurospekter Ljubljana,1,1,D
 01/12/91,SAOP Gorica,Koper,0,0,D
 07/12/91,Jadran Lama,Publikum,2,3,A
 07/12/91,Mura,Liqui Moly Svoboda,4,0,H
-08/12/91,Primorje,DomÅ¾ale,2,1,H
+08/12/91,Primorje,Domžale,2,1,H
 08/12/91,Belvedur Izola,SCT Olimpija,1,1,D
 08/12/91,Eurospekter Ljubljana,SAOP Gorica,1,1,D
 08/12/91,Maribor Branik,Rudar Velenje,5,2,H
-08/12/91,Slovan Mavrica,PotroÅ¡nik Beltinci,5,0,H
-08/12/91,Nafta Lendava,Å½ivila Naklo,1,1,D
+08/12/91,Slovan Mavrica,Potrošnik Beltinci,5,0,H
+08/12/91,Nafta Lendava,Živila Naklo,1,1,D
 08/12/91,Oria Rudar Trbovlje,Elektroelement Zagorje,0,1,A
 08/12/91,Medvode Loka,Steklar,0,3,A
 01/03/92,Primorje,Publikum,0,0,D
 01/03/92,Jadran Lama,Liqui Moly Svoboda,0,1,A
-01/03/92,Belvedur Izola,DomÅ¾ale,3,0,H
+01/03/92,Belvedur Izola,Domžale,3,0,H
 01/03/92,Mura,Steklar,5,1,H
 01/03/92,Medvode Loka,Elektroelement Zagorje,1,0,H
-01/03/92,Oria Rudar Trbovlje,Å½ivila Naklo,2,0,H
-01/03/92,Nafta Lendava,PotroÅ¡nik Beltinci,1,1,D
+01/03/92,Oria Rudar Trbovlje,Živila Naklo,2,0,H
+01/03/92,Nafta Lendava,Potrošnik Beltinci,1,1,D
 01/03/92,Slovan Mavrica,Rudar Velenje,2,2,D
 01/03/92,Maribor Branik,SAOP Gorica,1,1,D
 01/03/92,Eurospekter Ljubljana,Koper,0,1,A
@@ -223,56 +223,56 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 08/03/92,Koper,Maribor Branik,0,1,A
 08/03/92,SAOP Gorica,Slovan Mavrica,1,0,H
 08/03/92,Rudar Velenje,Nafta Lendava,3,2,H
-08/03/92,PotroÅ¡nik Beltinci,Oria Rudar Trbovlje,1,1,D
-08/03/92,Å½ivila Naklo,Medvode Loka,0,0,D
+08/03/92,Potrošnik Beltinci,Oria Rudar Trbovlje,1,1,D
+08/03/92,Živila Naklo,Medvode Loka,0,0,D
 08/03/92,Elektroelement Zagorje,Mura,1,2,A
 08/03/92,Steklar,Jadran Lama,2,0,H
 08/03/92,Liqui Moly Svoboda,Primorje,0,2,A
-08/03/92,DomÅ¾ale,SCT Olimpija,0,1,A
+08/03/92,Domžale,SCT Olimpija,0,1,A
 14/03/92,Slovan Mavrica,Koper,0,0,D
 15/03/92,Maribor Branik,Eurospekter Ljubljana,4,0,H
 15/03/92,SCT Olimpija,Publikum,6,0,H
 15/03/92,Belvedur Izola,Liqui Moly Svoboda,1,1,D
 15/03/92,Primorje,Steklar,1,1,D
 15/03/92,Jadran Lama,Elektroelement Zagorje,0,0,D
-15/03/92,Mura,Å½ivila Naklo,1,1,D
-15/03/92,Medvode Loka,PotroÅ¡nik Beltinci,0,2,A
+15/03/92,Mura,Živila Naklo,1,1,D
+15/03/92,Medvode Loka,Potrošnik Beltinci,0,2,A
 15/03/92,Oria Rudar Trbovlje,Rudar Velenje,2,0,H
 15/03/92,Nafta Lendava,SAOP Gorica,1,0,H
 21/03/92,Eurospekter Ljubljana,Slovan Mavrica,0,0,D
 22/03/92,Koper,Nafta Lendava,1,1,D
 22/03/92,SAOP Gorica,Oria Rudar Trbovlje,2,2,D
 22/03/92,Rudar Velenje,Medvode Loka,1,1,D
-22/03/92,PotroÅ¡nik Beltinci,Mura,2,0,H
-22/03/92,Å½ivila Naklo,Jadran Lama,1,1,D
+22/03/92,Potrošnik Beltinci,Mura,2,0,H
+22/03/92,Živila Naklo,Jadran Lama,1,1,D
 22/03/92,Steklar,Belvedur Izola,0,0,D
 22/03/92,Liqui Moly Svoboda,SCT Olimpija,0,1,A
 22/03/92,Elektroelement Zagorje,Primorje,0,0,D
-22/03/92,Publikum,DomÅ¾ale,1,1,D
+22/03/92,Publikum,Domžale,1,1,D
 28/03/92,SCT Olimpija,Steklar,4,1,H
 29/03/92,Belvedur Izola,Elektroelement Zagorje,2,0,H
-29/03/92,Primorje,Å½ivila Naklo,1,1,D
-29/03/92,Jadran Lama,PotroÅ¡nik Beltinci,3,1,H
+29/03/92,Primorje,Živila Naklo,1,1,D
+29/03/92,Jadran Lama,Potrošnik Beltinci,3,1,H
 29/03/92,Mura,Rudar Velenje,2,3,A
 29/03/92,Medvode Loka,SAOP Gorica,1,0,H
 29/03/92,Oria Rudar Trbovlje,Koper,1,1,D
 29/03/92,Nafta Lendava,Eurospekter Ljubljana,3,0,H
 29/03/92,Slovan Mavrica,Maribor Branik,0,0,D
-29/03/92,DomÅ¾ale,Liqui Moly Svoboda,0,0,D
+29/03/92,Domžale,Liqui Moly Svoboda,0,0,D
 01/04/92,Maribor Branik,Nafta Lendava,4,0,H
 01/04/92,Eurospekter Ljubljana,Oria Rudar Trbovlje,3,2,H
 01/04/92,Koper,Medvode Loka,4,0,H
 01/04/92,SAOP Gorica,Mura,3,0,H
 01/04/92,Rudar Velenje,Jadran Lama,3,1,H
-01/04/92,PotroÅ¡nik Beltinci,Primorje,1,1,D
-01/04/92,Å½ivila Naklo,Belvedur Izola,0,0,D
+01/04/92,Potrošnik Beltinci,Primorje,1,1,D
+01/04/92,Živila Naklo,Belvedur Izola,0,0,D
 01/04/92,Elektroelement Zagorje,SCT Olimpija,0,1,A
-01/04/92,Steklar,DomÅ¾ale,3,1,H
+01/04/92,Steklar,Domžale,3,1,H
 01/04/92,Liqui Moly Svoboda,Publikum,0,0,D
 05/04/92,Publikum,Steklar,3,1,H
-05/04/92,DomÅ¾ale,Elektroelement Zagorje,3,2,H
-05/04/92,SCT Olimpija,Å½ivila Naklo,3,1,H
-05/04/92,Belvedur Izola,PotroÅ¡nik Beltinci,1,0,H
+05/04/92,Domžale,Elektroelement Zagorje,3,2,H
+05/04/92,SCT Olimpija,Živila Naklo,3,1,H
+05/04/92,Belvedur Izola,Potrošnik Beltinci,1,0,H
 05/04/92,Primorje,Rudar Velenje,2,0,H
 05/04/92,Jadran Lama,SAOP Gorica,1,1,D
 05/04/92,Mura,Koper,0,0,D
@@ -285,13 +285,13 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 12/04/92,Koper,Jadran Lama,1,0,H
 12/04/92,SAOP Gorica,Primorje,2,1,H
 12/04/92,Rudar Velenje,Belvedur Izola,1,5,A
-12/04/92,PotroÅ¡nik Beltinci,SCT Olimpija,0,1,A
-12/04/92,Å½ivila Naklo,DomÅ¾ale,0,0,D
+12/04/92,Potrošnik Beltinci,SCT Olimpija,0,1,A
+12/04/92,Živila Naklo,Domžale,0,0,D
 12/04/92,Steklar,Liqui Moly Svoboda,0,1,A
 12/04/92,Elektroelement Zagorje,Publikum,1,0,H
-15/04/92,Publikum,Å½ivila Naklo,1,1,D
+15/04/92,Publikum,Živila Naklo,1,1,D
 15/04/92,Liqui Moly Svoboda,Elektroelement Zagorje,0,0,D
-15/04/92,DomÅ¾ale,PotroÅ¡nik Beltinci,0,0,D
+15/04/92,Domžale,Potrošnik Beltinci,0,0,D
 15/04/92,SCT Olimpija,Rudar Velenje,2,0,H
 15/04/92,Belvedur Izola,SAOP Gorica,2,0,H
 15/04/92,Primorje,Koper,1,0,H
@@ -304,28 +304,28 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 19/04/92,Eurospekter Ljubljana,Primorje,2,0,H
 19/04/92,Koper,Belvedur Izola,1,1,D
 19/04/92,SAOP Gorica,SCT Olimpija,0,2,A
-19/04/92,Rudar Velenje,DomÅ¾ale,5,0,H
-19/04/92,Å½ivila Naklo,Liqui Moly Svoboda,0,1,A
+19/04/92,Rudar Velenje,Domžale,5,0,H
+19/04/92,Živila Naklo,Liqui Moly Svoboda,0,1,A
 19/04/92,Elektroelement Zagorje,Steklar,2,2,D
-19/04/92,PotroÅ¡nik Beltinci,Publikum,2,1,H
+19/04/92,Potrošnik Beltinci,Publikum,2,1,H
 19/04/92,Nafta Lendava,Medvode Loka,1,0,H
-25/04/92,Liqui Moly Svoboda,PotroÅ¡nik Beltinci,1,0,H
-26/04/92,DomÅ¾ale,SAOP Gorica,2,2,D
+25/04/92,Liqui Moly Svoboda,Potrošnik Beltinci,1,0,H
+26/04/92,Domžale,SAOP Gorica,2,2,D
 26/04/92,SCT Olimpija,Koper,3,1,H
 26/04/92,Belvedur Izola,Eurospekter Ljubljana,1,1,D
 26/04/92,Primorje,Maribor Branik,0,0,D
 26/04/92,Jadran Lama,Slovan Mavrica,3,2,H
 26/04/92,Mura,Nafta Lendava,2,2,D
 26/04/92,Medvode Loka,Oria Rudar Trbovlje,0,1,A
-26/04/92,Steklar,Å½ivila Naklo,1,1,D
+26/04/92,Steklar,Živila Naklo,1,1,D
 26/04/92,Publikum,Rudar Velenje,1,2,A
 02/05/92,Slovan Mavrica,Primorje,1,3,A
 03/05/92,Maribor Branik,Belvedur Izola,2,1,H
 03/05/92,Eurospekter Ljubljana,SCT Olimpija,0,1,A
-03/05/92,Koper,DomÅ¾ale,1,1,D
+03/05/92,Koper,Domžale,1,1,D
 03/05/92,Rudar Velenje,Liqui Moly Svoboda,1,1,D
-03/05/92,PotroÅ¡nik Beltinci,Steklar,3,0,H
-03/05/92,Å½ivila Naklo,Elektroelement Zagorje,1,1,D
+03/05/92,Potrošnik Beltinci,Steklar,3,0,H
+03/05/92,Živila Naklo,Elektroelement Zagorje,1,1,D
 03/05/92,SAOP Gorica,Publikum,2,0,H
 03/05/92,Oria Rudar Trbovlje,Mura,0,1,A
 03/05/92,Nafta Lendava,Jadran Lama,3,0,H
@@ -334,10 +334,10 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 06/05/92,Jadran Lama,Oria Rudar Trbovlje,0,1,A
 06/05/92,Mura,Medvode Loka,3,0,H
 06/05/92,Publikum,Koper,1,0,H
-06/05/92,Elektroelement Zagorje,PotroÅ¡nik Beltinci,2,0,H
+06/05/92,Elektroelement Zagorje,Potrošnik Beltinci,2,0,H
 06/05/92,Steklar,Rudar Velenje,4,2,H
 06/05/92,Liqui Moly Svoboda,SAOP Gorica,1,0,H
-06/05/92,DomÅ¾ale,Eurospekter Ljubljana,0,1,A
+06/05/92,Domžale,Eurospekter Ljubljana,0,1,A
 06/05/92,SCT Olimpija,Maribor Branik,2,0,H
 10/05/92,Rudar Velenje,Elektroelement Zagorje,2,0,H
 10/05/92,Eurospekter Ljubljana,Publikum,3,0,H
@@ -345,194 +345,194 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 10/05/92,Oria Rudar Trbovlje,Primorje,4,2,H
 10/05/92,Nafta Lendava,Belvedur Izola,1,0,H
 10/05/92,Slovan Mavrica,SCT Olimpija,1,1,D
-10/05/92,Maribor Branik,DomÅ¾ale,3,1,H
+10/05/92,Maribor Branik,Domžale,3,1,H
 10/05/92,Koper,Liqui Moly Svoboda,1,1,D
 10/05/92,SAOP Gorica,Steklar,1,0,H
-10/05/92,PotroÅ¡nik Beltinci,Å½ivila Naklo,2,1,H
+10/05/92,Potrošnik Beltinci,Živila Naklo,2,1,H
 16/05/92,Liqui Moly Svoboda,Eurospekter Ljubljana,1,2,A
-17/05/92,DomÅ¾ale,Slovan Mavrica,1,0,H
+17/05/92,Domžale,Slovan Mavrica,1,0,H
 17/05/92,SCT Olimpija,Nafta Lendava,2,0,H
 17/05/92,Belvedur Izola,Oria Rudar Trbovlje,2,0,H
 17/05/92,Primorje,Medvode Loka,1,2,A
 17/05/92,Jadran Lama,Mura,0,1,A
 17/05/92,Publikum,Maribor Branik,0,0,D
-17/05/92,Å½ivila Naklo,Rudar Velenje,3,2,H
+17/05/92,Živila Naklo,Rudar Velenje,3,2,H
 17/05/92,Elektroelement Zagorje,SAOP Gorica,0,2,A
 17/05/92,Steklar,Koper,0,0,D
 20/05/92,Slovan Mavrica,Publikum,1,0,H
 20/05/92,Mura,Primorje,1,1,D
 20/05/92,Medvode Loka,Belvedur Izola,0,2,A
 20/05/92,Oria Rudar Trbovlje,SCT Olimpija,0,3,A
-20/05/92,Nafta Lendava,DomÅ¾ale,1,1,D
+20/05/92,Nafta Lendava,Domžale,1,1,D
 20/05/92,Maribor Branik,Liqui Moly Svoboda,3,1,H
 20/05/92,Eurospekter Ljubljana,Steklar,9,2,H
 20/05/92,Koper,Elektroelement Zagorje,2,1,H
-20/05/92,SAOP Gorica,Å½ivila Naklo,0,0,D
-20/05/92,Rudar Velenje,PotroÅ¡nik Beltinci,1,1,D
+20/05/92,SAOP Gorica,Živila Naklo,0,0,D
+20/05/92,Rudar Velenje,Potrošnik Beltinci,1,1,D
 24/05/92,Publikum,Nafta Lendava,1,0,H
-24/05/92,PotroÅ¡nik Beltinci,SAOP Gorica,1,0,H
-24/05/92,Å½ivila Naklo,Koper,0,0,D
+24/05/92,Potrošnik Beltinci,SAOP Gorica,1,0,H
+24/05/92,Živila Naklo,Koper,0,0,D
 24/05/92,Elektroelement Zagorje,Eurospekter Ljubljana,2,1,H
 24/05/92,Steklar,Maribor Branik,0,0,D
 24/05/92,Liqui Moly Svoboda,Slovan Mavrica,1,1,D
-24/05/92,DomÅ¾ale,Oria Rudar Trbovlje,1,1,D
+24/05/92,Domžale,Oria Rudar Trbovlje,1,1,D
 24/05/92,SCT Olimpija,Medvode Loka,6,0,H
 24/05/92,Belvedur Izola,Mura,2,1,H
 24/05/92,Primorje,Jadran Lama,1,0,H
 30/05/92,Mura,SCT Olimpija,2,1,H
 30/05/92,Slovan Mavrica,Steklar,5,2,H
 30/05/92,Maribor Branik,Elektroelement Zagorje,0,0,D
-30/05/92,Koper,PotroÅ¡nik Beltinci,1,2,A
+30/05/92,Koper,Potrošnik Beltinci,1,2,A
 30/05/92,SAOP Gorica,Rudar Velenje,1,1,D
 30/05/92,Jadran Lama,Belvedur Izola,1,3,A
-31/05/92,Eurospekter Ljubljana,Å½ivila Naklo,2,2,D
-31/05/92,Medvode Loka,DomÅ¾ale,1,0,H
+31/05/92,Eurospekter Ljubljana,Živila Naklo,2,2,D
+31/05/92,Medvode Loka,Domžale,1,0,H
 31/05/92,Nafta Lendava,Liqui Moly Svoboda,4,2,H
 31/05/92,Oria Rudar Trbovlje,Publikum,0,0,D
 07/06/92,Publikum,Medvode Loka,3,1,H
 07/06/92,Rudar Velenje,Koper,1,1,D
-07/06/92,PotroÅ¡nik Beltinci,Eurospekter Ljubljana,0,0,D
-07/06/92,Å½ivila Naklo,Maribor Branik,1,0,H
+07/06/92,Potrošnik Beltinci,Eurospekter Ljubljana,0,0,D
+07/06/92,Živila Naklo,Maribor Branik,1,0,H
 07/06/92,Elektroelement Zagorje,Slovan Mavrica,3,1,H
 07/06/92,Steklar,Nafta Lendava,1,4,A
 07/06/92,Liqui Moly Svoboda,Oria Rudar Trbovlje,1,3,A
-07/06/92,DomÅ¾ale,Mura,0,0,D
+07/06/92,Domžale,Mura,0,0,D
 07/06/92,SCT Olimpija,Jadran Lama,12,0,H
 07/06/92,Belvedur Izola,Primorje,2,0,H
 14/06/92,Mura,Publikum,3,1,H
 14/06/92,Primorje,SCT Olimpija,0,2,A
-14/06/92,Jadran Lama,DomÅ¾ale,1,1,D
-14/06/92,Maribor Branik,PotroÅ¡nik Beltinci,1,0,H
+14/06/92,Jadran Lama,Domžale,1,1,D
+14/06/92,Maribor Branik,Potrošnik Beltinci,1,0,H
 14/06/92,Medvode Loka,Liqui Moly Svoboda,0,4,A
 14/06/92,Oria Rudar Trbovlje,Steklar,2,1,H
 14/06/92,Nafta Lendava,Elektroelement Zagorje,1,0,H
-14/06/92,Slovan Mavrica,Å½ivila Naklo,2,1,H
+14/06/92,Slovan Mavrica,Živila Naklo,2,1,H
 14/06/92,Eurospekter Ljubljana,Rudar Velenje,3,1,H
 14/06/92,Koper,SAOP Gorica,1,2,A
 21/06/92,Publikum,Jadran Lama,2,0,H
 21/06/92,SAOP Gorica,Eurospekter Ljubljana,2,2,D
 21/06/92,Rudar Velenje,Maribor Branik,1,0,H
-21/06/92,PotroÅ¡nik Beltinci,Slovan Mavrica,1,0,H
-21/06/92,Å½ivila Naklo,Nafta Lendava,1,1,D
+21/06/92,Potrošnik Beltinci,Slovan Mavrica,1,0,H
+21/06/92,Živila Naklo,Nafta Lendava,1,1,D
 21/06/92,Elektroelement Zagorje,Oria Rudar Trbovlje,0,0,D
 21/06/92,Steklar,Medvode Loka,4,0,H
 21/06/92,Liqui Moly Svoboda,Mura,2,1,H
-21/06/92,DomÅ¾ale,Primorje,0,3,A
+21/06/92,Domžale,Primorje,0,3,A
 21/06/92,SCT Olimpija,Belvedur Izola,4,0,H
 15/08/92,Maribor Branik,Nafta,1,1,D
 15/08/92,SCT Olimpija,Rudar Velenje,5,0,H
-16/08/92,Publikum,Å½elezniÄar Maribor,2,1,H
+16/08/92,Publikum,Železničar Maribor,2,1,H
 16/08/92,Gorica,Koper,0,0,D
-16/08/92,PotroÅ¡nik Beltinci,AM Cosmos Ljubljana,1,5,A
+16/08/92,Potrošnik Beltinci,AM Cosmos Ljubljana,1,5,A
 16/08/92,Studio D Novo mesto,Slovan Mavrica,1,0,H
 16/08/92,Kompas Holidays Svoboda,Mura,0,2,A
 16/08/92,Belvedur Izola,Steklar,3,3,D
-16/08/92,Å½ivila Naklo,Elektroelement Zagorje,0,2,A
-22/08/92,Å½elezniÄar Maribor,Å½ivila Naklo,1,1,D
+16/08/92,Živila Naklo,Elektroelement Zagorje,0,2,A
+22/08/92,Železničar Maribor,Živila Naklo,1,1,D
 22/08/92,AM Cosmos Ljubljana,Studio D Novo mesto,1,0,H
-23/08/92,Koper,PotroÅ¡nik Beltinci,1,0,H
+23/08/92,Koper,Potrošnik Beltinci,1,0,H
 23/08/92,Maribor Branik,Gorica,3,0,H
 23/08/92,Mura,Belvedur Izola,0,0,D
 23/08/92,Rudar Velenje,Kompas Holidays Svoboda,4,0,H
 23/08/92,Slovan Mavrica,SCT Olimpija,1,4,A
 23/08/92,Steklar,Publikum,1,1,D
 23/08/92,Nafta,Elektroelement Zagorje,3,0,H
-29/08/92,PotroÅ¡nik Beltinci,Maribor Branik,2,2,D
+29/08/92,Potrošnik Beltinci,Maribor Branik,2,2,D
 29/08/92,SCT Olimpija,AM Cosmos Ljubljana,5,1,H
 30/08/92,Kompas Holidays Svoboda,Slovan Mavrica,1,0,H
 30/08/92,Belvedur Izola,Rudar Velenje,0,1,A
-30/08/92,Å½ivila Naklo,Steklar,3,0,H
-30/08/92,Elektroelement Zagorje,Å½elezniÄar Maribor,3,1,H
+30/08/92,Živila Naklo,Steklar,3,0,H
+30/08/92,Elektroelement Zagorje,Železničar Maribor,3,1,H
 30/08/92,Studio D Novo mesto,Koper,0,0,D
 30/08/92,Publikum,Mura,0,1,A
 30/08/92,Gorica,Nafta,1,2,A
 02/09/92,AM Cosmos Ljubljana,Kompas Holidays Svoboda,2,1,H
 06/09/92,Koper,SCT Olimpija,1,1,D
 06/09/92,Maribor Branik,Studio D Novo mesto,1,0,H
-06/09/92,Gorica,PotroÅ¡nik Beltinci,1,0,H
+06/09/92,Gorica,Potrošnik Beltinci,1,0,H
 06/09/92,Rudar Velenje,Publikum,2,0,H
-06/09/92,Nafta,Å½elezniÄar Maribor,3,0,H
+06/09/92,Nafta,Železničar Maribor,3,0,H
 06/09/92,Steklar,Elektroelement Zagorje,0,0,D
-06/09/92,Mura,Å½ivila Naklo,0,1,A
+06/09/92,Mura,Živila Naklo,0,1,A
 06/09/92,Slovan Mavrica,Belvedur Izola,0,1,A
 12/09/92,SCT Olimpija,Maribor Branik,3,0,H
 12/09/92,Belvedur Izola,AM Cosmos Ljubljana,1,1,D
-13/09/92,Å½ivila Naklo,Rudar Velenje,3,1,H
+13/09/92,Živila Naklo,Rudar Velenje,3,1,H
 13/09/92,Elektroelement Zagorje,Mura,1,1,D
-13/09/92,Å½elezniÄar Maribor,Steklar,3,1,H
+13/09/92,Železničar Maribor,Steklar,3,1,H
 13/09/92,Kompas Holidays Svoboda,Koper,0,0,D
 13/09/92,Publikum,Slovan Mavrica,1,0,H
-13/09/92,PotroÅ¡nik Beltinci,Nafta,2,0,H
+13/09/92,Potrošnik Beltinci,Nafta,2,0,H
 13/09/92,Studio D Novo mesto,Gorica,2,2,D
 19/09/92,AM Cosmos Ljubljana,Publikum,1,0,H
 20/09/92,Nafta,Steklar,0,0,D
-20/09/92,Mura,Å½elezniÄar Maribor,1,0,H
+20/09/92,Mura,Železničar Maribor,1,0,H
 20/09/92,Rudar Velenje,Elektroelement Zagorje,2,1,H
-20/09/92,Slovan Mavrica,Å½ivila Naklo,3,2,H
+20/09/92,Slovan Mavrica,Živila Naklo,3,2,H
 20/09/92,Koper,Belvedur Izola,0,0,D
 20/09/92,Maribor Branik,Kompas Holidays Svoboda,1,1,D
 20/09/92,Gorica,SCT Olimpija,2,2,D
-20/09/92,PotroÅ¡nik Beltinci,Studio D Novo mesto,0,2,A
+20/09/92,Potrošnik Beltinci,Studio D Novo mesto,0,2,A
 26/09/92,Belvedur Izola,Maribor Branik,0,1,A
-26/09/92,SCT Olimpija,PotroÅ¡nik Beltinci,6,0,H
+26/09/92,SCT Olimpija,Potrošnik Beltinci,6,0,H
 27/09/92,Kompas Holidays Svoboda,Gorica,3,0,H
-27/09/92,Å½ivila Naklo,AM Cosmos Ljubljana,2,1,H
+27/09/92,Živila Naklo,AM Cosmos Ljubljana,2,1,H
 27/09/92,Elektroelement Zagorje,Slovan Mavrica,1,1,D
-27/09/92,Å½elezniÄar Maribor,Rudar Velenje,3,0,H
+27/09/92,Železničar Maribor,Rudar Velenje,3,0,H
 27/09/92,Steklar,Mura,1,1,D
 27/09/92,Publikum,Koper,3,0,H
 27/09/92,Studio D Novo mesto,Nafta,1,1,D
-03/10/92,PotroÅ¡nik Beltinci,Kompas Holidays Svoboda,1,4,A
+03/10/92,Potrošnik Beltinci,Kompas Holidays Svoboda,1,4,A
 03/10/92,AM Cosmos Ljubljana,Elektroelement Zagorje,1,0,H
-04/10/92,Koper,Å½ivila Naklo,0,0,D
+04/10/92,Koper,Živila Naklo,0,0,D
 04/10/92,Gorica,Belvedur Izola,1,0,H
 04/10/92,Studio D Novo mesto,SCT Olimpija,1,0,H
 04/10/92,Maribor Branik,Publikum,4,0,H
 04/10/92,Nafta,Mura,2,4,A
 04/10/92,Rudar Velenje,Steklar,4,1,H
-04/10/92,Slovan Mavrica,Å½elezniÄar Maribor,2,1,H
+04/10/92,Slovan Mavrica,Železničar Maribor,2,1,H
 07/10/92,Publikum,Gorica,3,1,H
 07/10/92,SCT Olimpija,Nafta,4,0,H
 07/10/92,Kompas Holidays Svoboda,Studio D Novo mesto,0,0,D
-07/10/92,Belvedur Izola,PotroÅ¡nik Beltinci,3,3,D
-07/10/92,Å½ivila Naklo,Maribor Branik,0,3,A
+07/10/92,Belvedur Izola,Potrošnik Beltinci,3,3,D
+07/10/92,Živila Naklo,Maribor Branik,0,3,A
 07/10/92,Elektroelement Zagorje,Koper,2,0,H
-07/10/92,Å½elezniÄar Maribor,AM Cosmos Ljubljana,1,1,D
+07/10/92,Železničar Maribor,AM Cosmos Ljubljana,1,1,D
 07/10/92,Steklar,Slovan Mavrica,3,2,H
 07/10/92,Mura,Rudar Velenje,3,0,H
-11/10/92,PotroÅ¡nik Beltinci,Publikum,2,2,D
+11/10/92,Potrošnik Beltinci,Publikum,2,2,D
 11/10/92,Nafta,Rudar Velenje,0,3,A
 11/10/92,Slovan Mavrica,Mura,5,1,H
 11/10/92,AM Cosmos Ljubljana,Steklar,3,0,H
-11/10/92,Koper,Å½elezniÄar Maribor,1,0,H
+11/10/92,Koper,Železničar Maribor,1,0,H
 11/10/92,Maribor Branik,Elektroelement Zagorje,3,1,H
-11/10/92,Gorica,Å½ivila Naklo,5,2,H
+11/10/92,Gorica,Živila Naklo,5,2,H
 11/10/92,Studio D Novo mesto,Belvedur Izola,2,1,H
 11/10/92,SCT Olimpija,Kompas Holidays Svoboda,0,0,D
 18/10/92,Kompas Holidays Svoboda,Nafta,3,0,H
 18/10/92,Belvedur Izola,SCT Olimpija,1,2,A
-18/10/92,Å½ivila Naklo,PotroÅ¡nik Beltinci,3,1,H
+18/10/92,Živila Naklo,Potrošnik Beltinci,3,1,H
 18/10/92,Elektroelement Zagorje,Gorica,1,0,H
-18/10/92,Å½elezniÄar Maribor,Maribor Branik,0,0,D
+18/10/92,Železničar Maribor,Maribor Branik,0,0,D
 18/10/92,Steklar,Koper,2,2,D
 18/10/92,Mura,AM Cosmos Ljubljana,0,0,D
 18/10/92,Rudar Velenje,Slovan Mavrica,0,0,D
 18/10/92,Publikum,Studio D Novo mesto,0,1,A
 24/10/92,AM Cosmos Ljubljana,Rudar Velenje,2,0,H
-25/10/92,Studio D Novo mesto,Å½ivila Naklo,1,1,D
+25/10/92,Studio D Novo mesto,Živila Naklo,1,1,D
 25/10/92,Kompas Holidays Svoboda,Belvedur Izola,2,0,H
 25/10/92,Koper,Mura,1,3,A
 25/10/92,Maribor Branik,Steklar,1,1,D
-25/10/92,Gorica,Å½elezniÄar Maribor,5,0,H
-25/10/92,PotroÅ¡nik Beltinci,Elektroelement Zagorje,1,2,A
+25/10/92,Gorica,Železničar Maribor,5,0,H
+25/10/92,Potrošnik Beltinci,Elektroelement Zagorje,1,2,A
 25/10/92,SCT Olimpija,Publikum,3,0,H
 25/10/92,Nafta,Slovan Mavrica,2,2,D
 31/10/92,Slovan Mavrica,AM Cosmos Ljubljana,1,1,D
 31/10/92,Publikum,Kompas Holidays Svoboda,2,1,H
 31/10/92,Belvedur Izola,Nafta,2,0,H
-31/10/92,Å½ivila Naklo,SCT Olimpija,1,0,H
+31/10/92,Živila Naklo,SCT Olimpija,1,0,H
 31/10/92,Elektroelement Zagorje,Studio D Novo mesto,0,0,D
-31/10/92,Å½elezniÄar Maribor,PotroÅ¡nik Beltinci,1,0,H
+31/10/92,Železničar Maribor,Potrošnik Beltinci,1,0,H
 31/10/92,Steklar,Gorica,0,0,D
 31/10/92,Mura,Maribor Branik,2,0,H
 31/10/92,Rudar Velenje,Koper,6,3,H
@@ -541,151 +541,151 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 08/11/92,Koper,Slovan Mavrica,1,1,D
 08/11/92,Maribor Branik,Rudar Velenje,2,0,H
 08/11/92,Gorica,Mura,0,1,A
-08/11/92,PotroÅ¡nik Beltinci,Steklar,1,3,A
-08/11/92,Kompas Holidays Svoboda,Å½ivila Naklo,3,1,H
-08/11/92,Studio D Novo mesto,Å½elezniÄar Maribor,2,0,H
+08/11/92,Potrošnik Beltinci,Steklar,1,3,A
+08/11/92,Kompas Holidays Svoboda,Živila Naklo,3,1,H
+08/11/92,Studio D Novo mesto,Železničar Maribor,2,0,H
 08/11/92,SCT Olimpija,Elektroelement Zagorje,2,1,H
-14/11/92,Mura,PotroÅ¡nik Beltinci,0,2,A
+14/11/92,Mura,Potrošnik Beltinci,0,2,A
 14/11/92,Rudar Velenje,Gorica,3,1,H
 14/11/92,Slovan Mavrica,Maribor Branik,1,1,D
-14/11/92,Å½ivila Naklo,Belvedur Izola,3,1,H
+14/11/92,Živila Naklo,Belvedur Izola,3,1,H
 14/11/92,Elektroelement Zagorje,Kompas Holidays Svoboda,2,2,D
-15/11/92,Å½elezniÄar Maribor,SCT Olimpija,0,0,D
+15/11/92,Železničar Maribor,SCT Olimpija,0,0,D
 15/11/92,Steklar,Studio D Novo mesto,1,2,A
 15/11/92,AM Cosmos Ljubljana,Koper,1,1,D
 15/11/92,Publikum,Nafta,1,0,H
-22/11/92,Kompas Holidays Svoboda,Å½elezniÄar Maribor,2,0,H
+22/11/92,Kompas Holidays Svoboda,Železničar Maribor,2,0,H
 22/11/92,Belvedur Izola,Elektroelement Zagorje,2,0,H
-22/11/92,Publikum,Å½ivila Naklo,2,2,D
+22/11/92,Publikum,Živila Naklo,2,2,D
 22/11/92,Nafta,Koper,0,0,D
 22/11/92,Maribor Branik,AM Cosmos Ljubljana,3,0,H
 22/11/92,Gorica,Slovan Mavrica,2,1,H
-22/11/92,PotroÅ¡nik Beltinci,Rudar Velenje,2,0,H
+22/11/92,Potrošnik Beltinci,Rudar Velenje,2,0,H
 22/11/92,SCT Olimpija,Steklar,8,0,H
 22/11/92,Studio D Novo mesto,Mura,1,1,D
 28/11/92,Mura,SCT Olimpija,1,1,D
-28/11/92,Slovan Mavrica,PotroÅ¡nik Beltinci,6,2,H
+28/11/92,Slovan Mavrica,Potrošnik Beltinci,6,2,H
 29/11/92,AM Cosmos Ljubljana,Gorica,3,0,H
 29/11/92,Koper,Maribor Branik,2,1,H
 29/11/92,Rudar Velenje,Studio D Novo mesto,2,0,H
 29/11/92,Elektroelement Zagorje,Publikum,1,0,H
-29/11/92,Å½ivila Naklo,Nafta,3,1,H
-29/11/92,Å½elezniÄar Maribor,Belvedur Izola,3,1,H
+29/11/92,Živila Naklo,Nafta,3,1,H
+29/11/92,Železničar Maribor,Belvedur Izola,3,1,H
 29/11/92,Steklar,Kompas Holidays Svoboda,0,1,A
-06/03/93,AM Cosmos Ljubljana,PotroÅ¡nik Beltinci,0,2,A
+06/03/93,AM Cosmos Ljubljana,Potrošnik Beltinci,0,2,A
 07/03/93,Slovan Mavrica,Studio D Novo mesto,2,1,H
 07/03/93,Rudar Velenje,SCT Olimpija,0,3,A
 07/03/93,Steklar,Belvedur Izola,3,2,H
-07/03/93,Elektroelement Zagorje,Å½ivila Naklo,1,2,A
-07/03/93,Å½elezniÄar Maribor,Publikum,3,0,H
+07/03/93,Elektroelement Zagorje,Živila Naklo,1,2,A
+07/03/93,Železničar Maribor,Publikum,3,0,H
 07/03/93,Nafta,Maribor Branik,0,1,A
 07/03/93,Koper,Gorica,4,1,H
 07/03/93,Mura,Kompas Holidays Svoboda,1,1,D
 13/03/93,Kompas Holidays Svoboda,Rudar Velenje,2,0,H
 14/03/93,Belvedur Izola,Mura,2,1,H
-14/03/93,Å½ivila Naklo,Å½elezniÄar Maribor,2,0,H
+14/03/93,Živila Naklo,Železničar Maribor,2,0,H
 14/03/93,Elektroelement Zagorje,Nafta,3,1,H
 14/03/93,Publikum,Steklar,4,2,H
 14/03/93,Gorica,Maribor Branik,0,0,D
-14/03/93,PotroÅ¡nik Beltinci,Koper,0,1,A
+14/03/93,Potrošnik Beltinci,Koper,0,1,A
 14/03/93,Studio D Novo mesto,AM Cosmos Ljubljana,0,0,D
 14/03/93,SCT Olimpija,Slovan Mavrica,1,1,D
 20/03/93,Slovan Mavrica,Kompas Holidays Svoboda,2,0,H
-20/03/93,Å½elezniÄar Maribor,Elektroelement Zagorje,1,1,D
-21/03/93,Maribor Branik,PotroÅ¡nik Beltinci,1,1,D
+20/03/93,Železničar Maribor,Elektroelement Zagorje,1,1,D
+21/03/93,Maribor Branik,Potrošnik Beltinci,1,1,D
 21/03/93,Koper,Studio D Novo mesto,1,0,H
 21/03/93,Rudar Velenje,Belvedur Izola,1,1,D
-21/03/93,Steklar,Å½ivila Naklo,0,0,D
+21/03/93,Steklar,Živila Naklo,0,0,D
 21/03/93,Mura,Publikum,3,0,H
 21/03/93,Nafta,Gorica,1,2,A
 21/03/93,AM Cosmos Ljubljana,SCT Olimpija,1,0,H
 28/03/93,Kompas Holidays Svoboda,AM Cosmos Ljubljana,0,2,A
 28/03/93,SCT Olimpija,Koper,1,0,H
 28/03/93,Studio D Novo mesto,Maribor Branik,0,0,D
-28/03/93,PotroÅ¡nik Beltinci,Gorica,3,1,H
+28/03/93,Potrošnik Beltinci,Gorica,3,1,H
 28/03/93,Publikum,Rudar Velenje,0,0,D
-28/03/93,Å½elezniÄar Maribor,Nafta,1,1,D
+28/03/93,Železničar Maribor,Nafta,1,1,D
 28/03/93,Elektroelement Zagorje,Steklar,0,0,D
-28/03/93,Å½ivila Naklo,Mura,1,1,D
+28/03/93,Živila Naklo,Mura,1,1,D
 28/03/93,Belvedur Izola,Slovan Mavrica,2,0,H
 03/04/93,AM Cosmos Ljubljana,Belvedur Izola,1,1,D
 04/04/93,Koper,Kompas Holidays Svoboda,0,0,D
 04/04/93,Maribor Branik,SCT Olimpija,1,0,H
 04/04/93,Gorica,Studio D Novo mesto,0,1,A
-04/04/93,Nafta,PotroÅ¡nik Beltinci,2,0,H
+04/04/93,Nafta,Potrošnik Beltinci,2,0,H
 04/04/93,Slovan Mavrica,Publikum,0,0,D
-04/04/93,Steklar,Å½elezniÄar Maribor,1,1,D
+04/04/93,Steklar,Železničar Maribor,1,1,D
 04/04/93,Mura,Elektroelement Zagorje,2,0,H
-04/04/93,Rudar Velenje,Å½ivila Naklo,4,4,D
+04/04/93,Rudar Velenje,Živila Naklo,4,4,D
 10/04/93,SCT Olimpija,Gorica,2,0,H
-10/04/93,Studio D Novo mesto,PotroÅ¡nik Beltinci,2,3,A
+10/04/93,Studio D Novo mesto,Potrošnik Beltinci,2,3,A
 10/04/93,Publikum,AM Cosmos Ljubljana,3,1,H
 10/04/93,Steklar,Nafta,2,0,H
-10/04/93,Å½elezniÄar Maribor,Mura,0,2,A
+10/04/93,Železničar Maribor,Mura,0,2,A
 10/04/93,Elektroelement Zagorje,Rudar Velenje,1,0,H
-10/04/93,Å½ivila Naklo,Slovan Mavrica,0,0,D
+10/04/93,Živila Naklo,Slovan Mavrica,0,0,D
 10/04/93,Belvedur Izola,Koper,1,3,A
 10/04/93,Kompas Holidays Svoboda,Maribor Branik,1,0,H
 14/04/93,Koper,Publikum,1,3,A
 14/04/93,Nafta,Studio D Novo mesto,0,0,D
-14/04/93,PotroÅ¡nik Beltinci,SCT Olimpija,1,1,D
+14/04/93,Potrošnik Beltinci,SCT Olimpija,1,1,D
 14/04/93,Gorica,Kompas Holidays Svoboda,0,0,D
 14/04/93,Maribor Branik,Belvedur Izola,2,0,H
-14/04/93,AM Cosmos Ljubljana,Å½ivila Naklo,1,2,A
+14/04/93,AM Cosmos Ljubljana,Živila Naklo,1,2,A
 14/04/93,Slovan Mavrica,Elektroelement Zagorje,2,0,H
-14/04/93,Rudar Velenje,Å½elezniÄar Maribor,3,0,H
+14/04/93,Rudar Velenje,Železničar Maribor,3,0,H
 14/04/93,Mura,Steklar,4,0,H
 18/04/93,Publikum,Maribor Branik,1,1,D
 18/04/93,Mura,Nafta,4,1,H
 18/04/93,Steklar,Rudar Velenje,1,1,D
-18/04/93,Å½elezniÄar Maribor,Slovan Mavrica,0,0,D
+18/04/93,Železničar Maribor,Slovan Mavrica,0,0,D
 18/04/93,Elektroelement Zagorje,AM Cosmos Ljubljana,1,0,H
 18/04/93,Belvedur Izola,Gorica,1,1,D
-18/04/93,Å½ivila Naklo,Koper,2,2,D
-18/04/93,Kompas Holidays Svoboda,PotroÅ¡nik Beltinci,1,0,H
+18/04/93,Živila Naklo,Koper,2,2,D
+18/04/93,Kompas Holidays Svoboda,Potrošnik Beltinci,1,0,H
 18/04/93,SCT Olimpija,Studio D Novo mesto,6,1,H
 25/04/93,Gorica,Publikum,0,0,D
 25/04/93,Studio D Novo mesto,Kompas Holidays Svoboda,0,0,D
 25/04/93,Nafta,SCT Olimpija,1,2,A
-25/04/93,PotroÅ¡nik Beltinci,Belvedur Izola,5,2,H
-25/04/93,Maribor Branik,Å½ivila Naklo,1,0,H
+25/04/93,Potrošnik Beltinci,Belvedur Izola,5,2,H
+25/04/93,Maribor Branik,Živila Naklo,1,0,H
 25/04/93,Koper,Elektroelement Zagorje,1,0,H
-25/04/93,AM Cosmos Ljubljana,Å½elezniÄar Maribor,2,1,H
+25/04/93,AM Cosmos Ljubljana,Železničar Maribor,2,1,H
 25/04/93,Slovan Mavrica,Steklar,1,1,D
 25/04/93,Rudar Velenje,Mura,0,1,A
-02/05/93,Publikum,PotroÅ¡nik Beltinci,2,1,H
+02/05/93,Publikum,Potrošnik Beltinci,2,1,H
 02/05/93,Rudar Velenje,Nafta,2,0,H
 02/05/93,Mura,Slovan Mavrica,1,0,H
 02/05/93,Steklar,AM Cosmos Ljubljana,0,1,A
-02/05/93,Å½elezniÄar Maribor,Koper,2,1,H
+02/05/93,Železničar Maribor,Koper,2,1,H
 02/05/93,Elektroelement Zagorje,Maribor Branik,0,0,D
-02/05/93,Å½ivila Naklo,Gorica,2,0,H
+02/05/93,Živila Naklo,Gorica,2,0,H
 02/05/93,Belvedur Izola,Studio D Novo mesto,1,0,H
 02/05/93,Kompas Holidays Svoboda,SCT Olimpija,0,4,A
 08/05/93,Slovan Mavrica,Rudar Velenje,0,0,D
 09/05/93,Studio D Novo mesto,Publikum,2,1,H
 09/05/93,Nafta,Kompas Holidays Svoboda,2,0,H
 09/05/93,SCT Olimpija,Belvedur Izola,2,0,H
-09/05/93,PotroÅ¡nik Beltinci,Å½ivila Naklo,2,1,H
+09/05/93,Potrošnik Beltinci,Živila Naklo,2,1,H
 09/05/93,Gorica,Elektroelement Zagorje,1,0,H
-09/05/93,Maribor Branik,Å½elezniÄar Maribor,2,1,H
+09/05/93,Maribor Branik,Železničar Maribor,2,1,H
 09/05/93,Koper,Steklar,4,1,H
 09/05/93,AM Cosmos Ljubljana,Mura,1,0,H
 15/05/93,Rudar Velenje,AM Cosmos Ljubljana,1,0,H
 16/05/93,Mura,Koper,2,0,H
 16/05/93,Steklar,Maribor Branik,2,4,A
-16/05/93,Å½elezniÄar Maribor,Gorica,1,2,A
-16/05/93,Elektroelement Zagorje,PotroÅ¡nik Beltinci,0,2,A
-16/05/93,Å½ivila Naklo,Studio D Novo mesto,0,0,D
+16/05/93,Železničar Maribor,Gorica,1,2,A
+16/05/93,Elektroelement Zagorje,Potrošnik Beltinci,0,2,A
+16/05/93,Živila Naklo,Studio D Novo mesto,0,0,D
 16/05/93,Belvedur Izola,Kompas Holidays Svoboda,2,2,D
 16/05/93,Publikum,SCT Olimpija,1,2,A
 16/05/93,Slovan Mavrica,Nafta,1,0,H
 22/05/93,Kompas Holidays Svoboda,Publikum,0,1,A
 23/05/93,Nafta,Belvedur Izola,0,4,A
 23/05/93,Gorica,Steklar,5,0,H
-23/05/93,SCT Olimpija,Å½ivila Naklo,6,1,H
+23/05/93,SCT Olimpija,Živila Naklo,6,1,H
 23/05/93,Studio D Novo mesto,Elektroelement Zagorje,1,0,H
-23/05/93,PotroÅ¡nik Beltinci,Å½elezniÄar Maribor,1,0,H
+23/05/93,Potrošnik Beltinci,Železničar Maribor,1,0,H
 23/05/93,Maribor Branik,Mura,2,0,H
 23/05/93,Koper,Rudar Velenje,5,1,H
 23/05/93,AM Cosmos Ljubljana,Slovan Mavrica,1,0,H
@@ -694,41 +694,41 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 26/05/93,Slovan Mavrica,Koper,6,2,H
 26/05/93,Rudar Velenje,Maribor Branik,0,0,D
 26/05/93,Mura,Gorica,3,0,H
-26/05/93,Steklar,PotroÅ¡nik Beltinci,1,3,A
-26/05/93,Å½elezniÄar Maribor,Studio D Novo mesto,2,4,A
+26/05/93,Steklar,Potrošnik Beltinci,1,3,A
+26/05/93,Železničar Maribor,Studio D Novo mesto,2,4,A
 26/05/93,Elektroelement Zagorje,SCT Olimpija,0,2,A
-26/05/93,Å½ivila Naklo,Kompas Holidays Svoboda,2,1,H
+26/05/93,Živila Naklo,Kompas Holidays Svoboda,2,1,H
 30/05/93,Kompas Holidays Svoboda,Elektroelement Zagorje,2,1,H
-30/05/93,SCT Olimpija,Å½elezniÄar Maribor,10,1,H
+30/05/93,SCT Olimpija,Železničar Maribor,10,1,H
 30/05/93,Studio D Novo mesto,Steklar,3,0,H
-30/05/93,PotroÅ¡nik Beltinci,Mura,0,1,A
+30/05/93,Potrošnik Beltinci,Mura,0,1,A
 30/05/93,Gorica,Rudar Velenje,3,1,H
 30/05/93,Maribor Branik,Slovan Mavrica,2,0,H
 30/05/93,Koper,AM Cosmos Ljubljana,1,1,D
 30/05/93,Nafta,Publikum,3,1,H
-30/05/93,Belvedur Izola,Å½ivila Naklo,3,0,H
+30/05/93,Belvedur Izola,Živila Naklo,3,0,H
 06/06/93,Koper,Nafta,2,1,H
-06/06/93,Å½ivila Naklo,Publikum,4,0,H
+06/06/93,Živila Naklo,Publikum,4,0,H
 06/06/93,AM Cosmos Ljubljana,Maribor Branik,0,3,A
 06/06/93,Slovan Mavrica,Gorica,1,1,D
-06/06/93,Rudar Velenje,PotroÅ¡nik Beltinci,2,1,H
+06/06/93,Rudar Velenje,Potrošnik Beltinci,2,1,H
 06/06/93,Mura,Studio D Novo mesto,2,0,H
 06/06/93,Steklar,SCT Olimpija,1,1,D
 06/06/93,Elektroelement Zagorje,Belvedur Izola,2,1,H
-06/06/93,Å½elezniÄar Maribor,Kompas Holidays Svoboda,0,1,A
+06/06/93,Železničar Maribor,Kompas Holidays Svoboda,0,1,A
 08/06/93,Kompas Holidays Svoboda,Steklar,3,1,H
 09/06/93,Studio D Novo mesto,Rudar Velenje,4,1,H
-09/06/93,PotroÅ¡nik Beltinci,Slovan Mavrica,6,3,H
+09/06/93,Potrošnik Beltinci,Slovan Mavrica,6,3,H
 09/06/93,Gorica,AM Cosmos Ljubljana,1,0,H
 09/06/93,Maribor Branik,Koper,3,0,H
 09/06/93,Publikum,Elektroelement Zagorje,3,1,H
 09/06/93,SCT Olimpija,Mura,5,0,H
-09/06/93,Nafta,Å½ivila Naklo,0,4,A
-09/06/93,Belvedur Izola,Å½elezniÄar Maribor,4,1,H
+09/06/93,Nafta,Živila Naklo,0,4,A
+09/06/93,Belvedur Izola,Železničar Maribor,4,1,H
 21/08/93,AM Cosmos Ljubljana,Izola,2,1,H
 22/08/93,Slovan Mavrica,Istragas Jadran,0,0,D
 22/08/93,Mura,Krka Novoterm,5,0,H
-22/08/93,Å½ivila Naklo,PotroÅ¡nik Beltinci,2,1,H
+22/08/93,Živila Naklo,Potrošnik Beltinci,2,1,H
 22/08/93,Maribor Branik,Optimizem Svoboda,0,1,A
 22/08/93,Koper,SCT Olimpija,0,0,D
 22/08/93,Hit Gorica,Rudar Velenje,1,0,H
@@ -736,47 +736,47 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 28/08/93,Krka Novoterm,Publikum,1,2,A
 28/08/93,Izola,SCT Olimpija,1,1,D
 29/08/93,Optimizem Svoboda,Koper,1,1,D
-29/08/93,PotroÅ¡nik Beltinci,Maribor Branik,0,0,D
-29/08/93,Rudar Velenje,Å½ivila Naklo,1,2,A
+29/08/93,Potrošnik Beltinci,Maribor Branik,0,0,D
+29/08/93,Rudar Velenje,Živila Naklo,1,2,A
 29/08/93,Primorje,Hit Gorica,4,2,H
 29/08/93,Istragas Jadran,Mura,0,2,A
 29/08/93,AM Cosmos Ljubljana,Slovan Mavrica,1,0,H
 04/09/93,Slovan Mavrica,Izola,1,1,D
 05/09/93,Mura,AM Cosmos Ljubljana,4,0,H
 05/09/93,Hit Gorica,Krka Novoterm,3,1,H
-05/09/93,Å½ivila Naklo,Primorje,1,1,D
+05/09/93,Živila Naklo,Primorje,1,1,D
 05/09/93,Maribor Branik,Rudar Velenje,2,0,H
-05/09/93,Koper,PotroÅ¡nik Beltinci,5,0,H
+05/09/93,Koper,Potrošnik Beltinci,5,0,H
 05/09/93,SCT Olimpija,Optimizem Svoboda,5,0,H
 05/09/93,Publikum,Istragas Jadran,1,1,D
 10/09/93,AM Cosmos Ljubljana,Publikum,0,0,D
 11/09/93,Izola,Optimizem Svoboda,2,1,H
 11/09/93,Primorje,Maribor Branik,1,2,A
-12/09/93,Krka Novoterm,Å½ivila Naklo,0,2,A
+12/09/93,Krka Novoterm,Živila Naklo,0,2,A
 12/09/93,Slovan Mavrica,Mura,2,5,A
 12/09/93,Istragas Jadran,Hit Gorica,0,0,D
-12/09/93,PotroÅ¡nik Beltinci,SCT Olimpija,0,3,A
+12/09/93,Potrošnik Beltinci,SCT Olimpija,0,3,A
 12/09/93,Rudar Velenje,Koper,2,2,D
-18/09/93,Optimizem Svoboda,PotroÅ¡nik Beltinci,1,2,A
+18/09/93,Optimizem Svoboda,Potrošnik Beltinci,1,2,A
 19/09/93,Publikum,Slovan Mavrica,4,3,H
 19/09/93,Mura,Izola,3,2,H
 19/09/93,Hit Gorica,AM Cosmos Ljubljana,2,0,H
-19/09/93,Å½ivila Naklo,Istragas Jadran,5,2,H
+19/09/93,Živila Naklo,Istragas Jadran,5,2,H
 19/09/93,Maribor Branik,Krka Novoterm,1,1,D
 19/09/93,Koper,Primorje,3,1,H
 19/09/93,SCT Olimpija,Rudar Velenje,9,1,H
 25/09/93,Istragas Jadran,Maribor Branik,0,2,A
-26/09/93,AM Cosmos Ljubljana,Å½ivila Naklo,0,1,A
+26/09/93,AM Cosmos Ljubljana,Živila Naklo,0,1,A
 26/09/93,Mura,Publikum,0,0,D
-26/09/93,Izola,PotroÅ¡nik Beltinci,4,1,H
+26/09/93,Izola,Potrošnik Beltinci,4,1,H
 26/09/93,Rudar Velenje,Optimizem Svoboda,1,1,D
 26/09/93,Primorje,SCT Olimpija,1,2,A
 26/09/93,Krka Novoterm,Koper,0,1,A
 28/09/93,Slovan Mavrica,Hit Gorica,0,3,A
 02/10/93,Hit Gorica,Mura,2,1,H
 02/10/93,Optimizem Svoboda,Primorje,0,0,D
-03/10/93,PotroÅ¡nik Beltinci,Rudar Velenje,2,0,H
-03/10/93,Å½ivila Naklo,Slovan Mavrica,2,1,H
+03/10/93,Potrošnik Beltinci,Rudar Velenje,2,0,H
+03/10/93,Živila Naklo,Slovan Mavrica,2,1,H
 03/10/93,Maribor Branik,AM Cosmos Ljubljana,3,2,H
 03/10/93,Koper,Istragas Jadran,1,0,H
 03/10/93,SCT Olimpija,Krka Novoterm,1,0,H
@@ -784,47 +784,47 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 09/10/93,Istragas Jadran,SCT Olimpija,1,2,A
 09/10/93,AM Cosmos Ljubljana,Koper,1,2,A
 10/10/93,Slovan Mavrica,Maribor Branik,2,1,H
-10/10/93,Mura,Å½ivila Naklo,2,0,H
+10/10/93,Mura,Živila Naklo,2,0,H
 10/10/93,Publikum,Hit Gorica,3,0,H
 10/10/93,Izola,Rudar Velenje,3,1,H
-10/10/93,Primorje,PotroÅ¡nik Beltinci,1,3,A
+10/10/93,Primorje,Potrošnik Beltinci,1,3,A
 10/10/93,Krka Novoterm,Optimizem Svoboda,0,1,A
 16/10/93,Maribor Branik,Mura,0,0,D
 17/10/93,Koper,Slovan Mavrica,2,1,H
 17/10/93,SCT Olimpija,AM Cosmos Ljubljana,5,0,H
 17/10/93,Optimizem Svoboda,Istragas Jadran,2,1,H
-17/10/93,PotroÅ¡nik Beltinci,Krka Novoterm,3,0,H
+17/10/93,Potrošnik Beltinci,Krka Novoterm,3,0,H
 17/10/93,Rudar Velenje,Primorje,3,1,H
-17/10/93,Å½ivila Naklo,Publikum,2,1,H
+17/10/93,Živila Naklo,Publikum,2,1,H
 17/10/93,Hit Gorica,Izola,1,1,D
 23/10/93,Izola,Primorje,3,2,H
 23/10/93,Slovan Mavrica,SCT Olimpija,0,3,A
 24/10/93,Mura,Koper,1,1,D
-24/10/93,Hit Gorica,Å½ivila Naklo,0,2,A
+24/10/93,Hit Gorica,Živila Naklo,0,2,A
 24/10/93,Krka Novoterm,Rudar Velenje,0,1,A
-24/10/93,Istragas Jadran,PotroÅ¡nik Beltinci,1,1,D
+24/10/93,Istragas Jadran,Potrošnik Beltinci,1,1,D
 24/10/93,AM Cosmos Ljubljana,Optimizem Svoboda,3,0,H
 24/10/93,Publikum,Maribor Branik,2,2,D
 30/10/93,Koper,Publikum,0,0,D
-30/10/93,Å½ivila Naklo,Izola,2,1,H
+30/10/93,Živila Naklo,Izola,2,1,H
 30/10/93,Maribor Branik,Hit Gorica,4,2,H
 30/10/93,Optimizem Svoboda,Slovan Mavrica,2,0,H
-30/10/93,PotroÅ¡nik Beltinci,AM Cosmos Ljubljana,4,0,H
+30/10/93,Potrošnik Beltinci,AM Cosmos Ljubljana,4,0,H
 30/10/93,Rudar Velenje,Istragas Jadran,1,1,D
 30/10/93,Primorje,Krka Novoterm,2,0,H
 30/10/93,SCT Olimpija,Mura,1,0,H
 06/11/93,Izola,Krka Novoterm,2,1,H
 06/11/93,AM Cosmos Ljubljana,Rudar Velenje,4,1,H
-07/11/93,Slovan Mavrica,PotroÅ¡nik Beltinci,0,2,A
+07/11/93,Slovan Mavrica,Potrošnik Beltinci,0,2,A
 07/11/93,Mura,Optimizem Svoboda,2,1,H
 07/11/93,Hit Gorica,Koper,2,1,H
-07/11/93,Å½ivila Naklo,Maribor Branik,1,1,D
+07/11/93,Živila Naklo,Maribor Branik,1,1,D
 07/11/93,Istragas Jadran,Primorje,1,0,H
 07/11/93,Publikum,SCT Olimpija,3,0,H
 14/11/93,Maribor Branik,Izola,2,0,H
-14/11/93,Koper,Å½ivila Naklo,2,0,H
+14/11/93,Koper,Živila Naklo,2,0,H
 14/11/93,SCT Olimpija,Hit Gorica,7,1,H
-14/11/93,PotroÅ¡nik Beltinci,Mura,1,2,A
+14/11/93,Potrošnik Beltinci,Mura,1,2,A
 14/11/93,Rudar Velenje,Slovan Mavrica,3,0,H
 14/11/93,Primorje,AM Cosmos Ljubljana,2,1,H
 14/11/93,Krka Novoterm,Istragas Jadran,1,0,H
@@ -832,17 +832,17 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 20/11/93,AM Cosmos Ljubljana,Krka Novoterm,0,0,D
 21/11/93,Izola,Istragas Jadran,7,0,H
 21/11/93,Maribor Branik,Koper,2,0,H
-21/11/93,Å½ivila Naklo,SCT Olimpija,0,1,A
+21/11/93,Živila Naklo,SCT Olimpija,0,1,A
 21/11/93,Hit Gorica,Optimizem Svoboda,2,0,H
-21/11/93,Publikum,PotroÅ¡nik Beltinci,2,0,H
+21/11/93,Publikum,Potrošnik Beltinci,2,0,H
 21/11/93,Mura,Rudar Velenje,2,0,H
 21/11/93,Slovan Mavrica,Primorje,4,1,H
 27/11/93,Istragas Jadran,AM Cosmos Ljubljana,1,1,D
-28/11/93,Optimizem Svoboda,Å½ivila Naklo,3,0,H
+28/11/93,Optimizem Svoboda,Živila Naklo,3,0,H
 28/11/93,Krka Novoterm,Slovan Mavrica,1,1,D
 28/11/93,Primorje,Mura,0,1,A
 28/11/93,Rudar Velenje,Publikum,1,1,D
-28/11/93,PotroÅ¡nik Beltinci,Hit Gorica,1,1,D
+28/11/93,Potrošnik Beltinci,Hit Gorica,1,1,D
 28/11/93,Koper,Izola,0,0,D
 28/11/93,SCT Olimpija,Maribor Branik,1,1,D
 05/03/94,Izola,AM Cosmos Ljubljana,3,1,H
@@ -851,14 +851,14 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 06/03/94,Istragas Jadran,Slovan Mavrica,0,2,A
 06/03/94,Krka Novoterm,Mura,0,2,A
 06/03/94,Rudar Velenje,Hit Gorica,0,0,D
-06/03/94,PotroÅ¡nik Beltinci,Å½ivila Naklo,2,1,H
+06/03/94,Potrošnik Beltinci,Živila Naklo,2,1,H
 06/03/94,Primorje,Publikum,0,0,D
 12/03/94,Slovan Mavrica,AM Cosmos Ljubljana,1,1,D
 13/03/94,Publikum,Krka Novoterm,3,0,H
 13/03/94,SCT Olimpija,Izola,2,0,H
 13/03/94,Koper,Optimizem Svoboda,3,0,H
-13/03/94,Maribor Branik,PotroÅ¡nik Beltinci,1,0,H
-13/03/94,Å½ivila Naklo,Rudar Velenje,0,2,A
+13/03/94,Maribor Branik,Potrošnik Beltinci,1,0,H
+13/03/94,Živila Naklo,Rudar Velenje,0,2,A
 13/03/94,Hit Gorica,Primorje,0,0,D
 13/03/94,Mura,Istragas Jadran,2,0,H
 19/03/94,Optimizem Svoboda,SCT Olimpija,2,5,A
@@ -866,92 +866,92 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 20/03/94,Izola,Slovan Mavrica,0,0,D
 20/03/94,AM Cosmos Ljubljana,Mura,0,0,D
 20/03/94,Krka Novoterm,Hit Gorica,0,0,D
-20/03/94,Primorje,Å½ivila Naklo,2,2,D
+20/03/94,Primorje,Živila Naklo,2,2,D
 20/03/94,Rudar Velenje,Maribor Branik,1,1,D
-20/03/94,PotroÅ¡nik Beltinci,Koper,4,1,H
-25/03/94,SCT Olimpija,PotroÅ¡nik Beltinci,3,1,H
+20/03/94,Potrošnik Beltinci,Koper,4,1,H
+25/03/94,SCT Olimpija,Potrošnik Beltinci,3,1,H
 26/03/94,Optimizem Svoboda,Izola,2,2,D
 27/03/94,Publikum,AM Cosmos Ljubljana,3,0,H
 27/03/94,Koper,Rudar Velenje,2,2,D
 27/03/94,Maribor Branik,Primorje,4,0,H
-27/03/94,Å½ivila Naklo,Krka Novoterm,1,1,D
+27/03/94,Živila Naklo,Krka Novoterm,1,1,D
 27/03/94,Hit Gorica,Istragas Jadran,2,0,H
 27/03/94,Mura,Slovan Mavrica,4,0,H
 02/04/94,Slovan Mavrica,Publikum,1,1,D
 02/04/94,Izola,Mura,1,3,A
 02/04/94,AM Cosmos Ljubljana,Hit Gorica,0,0,D
-02/04/94,Istragas Jadran,Å½ivila Naklo,1,0,H
+02/04/94,Istragas Jadran,Živila Naklo,1,0,H
 02/04/94,Krka Novoterm,Maribor Branik,1,1,D
 02/04/94,Primorje,Koper,2,0,H
 02/04/94,Rudar Velenje,SCT Olimpija,0,2,A
-02/04/94,PotroÅ¡nik Beltinci,Optimizem Svoboda,6,0,H
+02/04/94,Potrošnik Beltinci,Optimizem Svoboda,6,0,H
 09/04/94,Optimizem Svoboda,Rudar Velenje,1,0,H
 10/04/94,SCT Olimpija,Primorje,2,1,H
 10/04/94,Koper,Krka Novoterm,5,0,H
 10/04/94,Maribor Branik,Istragas Jadran,3,0,H
-10/04/94,Å½ivila Naklo,AM Cosmos Ljubljana,2,0,H
+10/04/94,Živila Naklo,AM Cosmos Ljubljana,2,0,H
 10/04/94,Hit Gorica,Slovan Mavrica,3,3,D
 10/04/94,Publikum,Mura,0,4,A
-10/04/94,PotroÅ¡nik Beltinci,Izola,6,2,H
+10/04/94,Potrošnik Beltinci,Izola,6,2,H
 16/04/94,Izola,Publikum,2,0,H
 16/04/94,Mura,Hit Gorica,3,1,H
 16/04/94,AM Cosmos Ljubljana,Maribor Branik,1,0,H
 17/04/94,Istragas Jadran,Koper,3,1,H
 17/04/94,Krka Novoterm,SCT Olimpija,0,6,A
 17/04/94,Primorje,Optimizem Svoboda,6,1,H
-17/04/94,Rudar Velenje,PotroÅ¡nik Beltinci,3,1,H
-17/04/94,Slovan Mavrica,Å½ivila Naklo,1,2,A
+17/04/94,Rudar Velenje,Potrošnik Beltinci,3,1,H
+17/04/94,Slovan Mavrica,Živila Naklo,1,2,A
 23/04/94,Optimizem Svoboda,Krka Novoterm,2,0,H
 24/04/94,SCT Olimpija,Istragas Jadran,4,0,H
 24/04/94,Koper,AM Cosmos Ljubljana,3,2,H
 24/04/94,Maribor Branik,Slovan Mavrica,4,0,H
-24/04/94,Å½ivila Naklo,Mura,0,0,D
+24/04/94,Živila Naklo,Mura,0,0,D
 24/04/94,Hit Gorica,Publikum,4,2,H
 24/04/94,Rudar Velenje,Izola,1,0,H
-24/04/94,PotroÅ¡nik Beltinci,Primorje,7,1,H
+24/04/94,Potrošnik Beltinci,Primorje,7,1,H
 30/04/94,Izola,Hit Gorica,0,2,A
 01/05/94,Mura,Maribor Branik,1,1,D
 01/05/94,AM Cosmos Ljubljana,SCT Olimpija,1,1,D
 01/05/94,Istragas Jadran,Optimizem Svoboda,3,0,H
-01/05/94,Krka Novoterm,PotroÅ¡nik Beltinci,0,3,A
+01/05/94,Krka Novoterm,Potrošnik Beltinci,0,3,A
 01/05/94,Primorje,Rudar Velenje,3,0,H
-01/05/94,Publikum,Å½ivila Naklo,3,0,H
+01/05/94,Publikum,Živila Naklo,3,0,H
 04/05/94,Slovan Mavrica,Koper,2,1,H
 07/05/94,Optimizem Svoboda,AM Cosmos Ljubljana,1,3,A
 08/05/94,SCT Olimpija,Slovan Mavrica,11,0,H
 08/05/94,Koper,Mura,2,2,D
-08/05/94,Å½ivila Naklo,Hit Gorica,0,0,D
+08/05/94,Živila Naklo,Hit Gorica,0,0,D
 08/05/94,Maribor Branik,Publikum,3,0,H
 08/05/94,Primorje,Izola,5,1,H
 08/05/94,Rudar Velenje,Krka Novoterm,3,0,H
-08/05/94,PotroÅ¡nik Beltinci,Istragas Jadran,0,0,D
+08/05/94,Potrošnik Beltinci,Istragas Jadran,0,0,D
 14/05/94,Slovan Mavrica,Optimizem Svoboda,2,3,A
-14/05/94,Izola,Å½ivila Naklo,2,1,H
+14/05/94,Izola,Živila Naklo,2,1,H
 15/05/94,Hit Gorica,Maribor Branik,2,3,A
 15/05/94,Mura,SCT Olimpija,1,2,A
-15/05/94,AM Cosmos Ljubljana,PotroÅ¡nik Beltinci,1,0,H
+15/05/94,AM Cosmos Ljubljana,Potrošnik Beltinci,1,0,H
 15/05/94,Istragas Jadran,Rudar Velenje,2,0,H
 15/05/94,Krka Novoterm,Primorje,1,1,D
 15/05/94,Publikum,Koper,2,1,H
 21/05/94,Optimizem Svoboda,Mura,0,2,A
 22/05/94,Koper,Hit Gorica,0,1,A
-22/05/94,Maribor Branik,Å½ivila Naklo,3,0,H
+22/05/94,Maribor Branik,Živila Naklo,3,0,H
 22/05/94,SCT Olimpija,Publikum,4,0,H
 22/05/94,Krka Novoterm,Izola,4,1,H
 22/05/94,Primorje,Istragas Jadran,4,2,H
 22/05/94,Rudar Velenje,AM Cosmos Ljubljana,2,1,H
-22/05/94,PotroÅ¡nik Beltinci,Slovan Mavrica,3,1,H
+22/05/94,Potrošnik Beltinci,Slovan Mavrica,3,1,H
 25/05/94,Slovan Mavrica,Rudar Velenje,0,2,A
 28/05/94,Izola,Maribor Branik,2,2,D
 29/05/94,Publikum,Optimizem Svoboda,3,2,H
 29/05/94,AM Cosmos Ljubljana,Primorje,0,0,D
 29/05/94,Istragas Jadran,Krka Novoterm,2,1,H
 29/05/94,Hit Gorica,SCT Olimpija,1,1,D
-29/05/94,Mura,PotroÅ¡nik Beltinci,2,1,H
-29/05/94,Å½ivila Naklo,Koper,0,0,D
-03/06/94,SCT Olimpija,Å½ivila Naklo,4,0,H
+29/05/94,Mura,Potrošnik Beltinci,2,1,H
+29/05/94,Živila Naklo,Koper,0,0,D
+03/06/94,SCT Olimpija,Živila Naklo,4,0,H
 05/06/94,Koper,Maribor Branik,2,1,H
-05/06/94,PotroÅ¡nik Beltinci,Publikum,2,2,D
+05/06/94,Potrošnik Beltinci,Publikum,2,2,D
 05/06/94,Istragas Jadran,Izola,1,0,H
 05/06/94,Krka Novoterm,AM Cosmos Ljubljana,0,0,D
 05/06/94,Primorje,Slovan Mavrica,4,4,D
@@ -960,251 +960,251 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 12/06/94,Publikum,Rudar Velenje,4,0,H
 12/06/94,Izola,Koper,0,0,D
 12/06/94,Maribor Branik,SCT Olimpija,3,1,H
-12/06/94,Å½ivila Naklo,Optimizem Svoboda,1,2,A
-12/06/94,Hit Gorica,PotroÅ¡nik Beltinci,0,0,D
+12/06/94,Živila Naklo,Optimizem Svoboda,1,2,A
+12/06/94,Hit Gorica,Potrošnik Beltinci,0,0,D
 12/06/94,Slovan Mavrica,Krka Novoterm,3,0,H
 12/06/94,AM Cosmos Ljubljana,Istragas Jadran,3,2,H
 12/06/94,Mura,Primorje,2,0,H
-05/08/94,Biostart Publikum,VevÄe,5,0,H
+05/08/94,Biostart Publikum,Vevče,5,0,H
 06/08/94,Hit Gorica,Mura,2,2,D
 06/08/94,Izola,SCT Olimpija,0,2,A
 07/08/94,Beltinci,Primorje,2,1,H
-07/08/94,Jadran Dekani,Gaj KoÄevje,0,0,D
-07/08/94,Å½elezniÄar Oscar,Istrabenz Koper,1,2,A
-07/08/94,Å½ivila Naklo,Korotan Suvel,2,3,A
+07/08/94,Jadran Dekani,Gaj Kočevje,0,0,D
+07/08/94,Železničar Oscar,Istrabenz Koper,1,2,A
+07/08/94,Živila Naklo,Korotan Suvel,2,3,A
 07/08/94,Maribor Branik,Rudar V.,3,2,H
-12/08/94,Biostart Publikum,Å½elezniÄar Oscar,1,0,H
-13/08/94,VevÄe,Rudar V.,0,0,D
+12/08/94,Biostart Publikum,Železničar Oscar,1,0,H
+13/08/94,Vevče,Rudar V.,0,0,D
 14/08/94,SCT Olimpija,Maribor Branik,2,1,H
-14/08/94,Gaj KoÄevje,Izola,4,3,H
+14/08/94,Gaj Kočevje,Izola,4,3,H
 14/08/94,Primorje,Jadran Dekani,5,1,H
 14/08/94,Mura,Beltinci,1,2,A
 14/08/94,Korotan Suvel,Hit Gorica,2,1,H
-14/08/94,Istrabenz Koper,Å½ivila Naklo,2,1,H
+14/08/94,Istrabenz Koper,Živila Naklo,2,1,H
 20/08/94,Jadran Dekani,Mura,0,3,A
 20/08/94,Rudar V.,SCT Olimpija,1,2,A
 21/08/94,Beltinci,Korotan Suvel,4,2,H
 21/08/94,Izola,Primorje,2,2,D
-21/08/94,Maribor Branik,Gaj KoÄevje,6,1,H
-21/08/94,Å½ivila Naklo,Biostart Publikum,0,0,D
-21/08/94,Å½elezniÄar Oscar,VevÄe,4,0,H
+21/08/94,Maribor Branik,Gaj Kočevje,6,1,H
+21/08/94,Živila Naklo,Biostart Publikum,0,0,D
+21/08/94,Železničar Oscar,Vevče,4,0,H
 21/08/94,Hit Gorica,Istrabenz Koper,5,1,H
 26/08/94,Biostart Publikum,Hit Gorica,2,0,H
-28/08/94,VevÄe,SCT Olimpija,0,5,A
-28/08/94,Gaj KoÄevje,Rudar V.,2,2,D
+28/08/94,Vevče,SCT Olimpija,0,5,A
+28/08/94,Gaj Kočevje,Rudar V.,2,2,D
 28/08/94,Primorje,Maribor Branik,2,2,D
 28/08/94,Mura,Izola,4,1,H
 28/08/94,Korotan Suvel,Jadran Dekani,6,0,H
 28/08/94,Istrabenz Koper,Beltinci,0,1,A
-28/08/94,Å½elezniÄar Oscar,Å½ivila Naklo,1,1,D
+28/08/94,Železničar Oscar,Živila Naklo,1,1,D
 10/09/94,Jadran Dekani,Istrabenz Koper,0,1,A
-10/09/94,SCT Olimpija,Gaj KoÄevje,4,0,H
+10/09/94,SCT Olimpija,Gaj Kočevje,4,0,H
 11/09/94,Izola,Korotan Suvel,3,1,H
 11/09/94,Beltinci,Biostart Publikum,1,1,D
-11/09/94,Å½ivila Naklo,VevÄe,0,0,D
-11/09/94,Hit Gorica,Å½elezniÄar Oscar,2,4,A
+11/09/94,Živila Naklo,Vevče,0,0,D
+11/09/94,Hit Gorica,Železničar Oscar,2,4,A
 11/09/94,Rudar V.,Primorje,2,0,H
 11/09/94,Maribor Branik,Mura,1,0,H
-17/09/94,VevÄe,Gaj KoÄevje,3,0,H
+17/09/94,Vevče,Gaj Kočevje,3,0,H
 18/09/94,Primorje,SCT Olimpija,1,3,A
 18/09/94,Mura,Rudar V.,4,2,H
 18/09/94,Korotan Suvel,Maribor Branik,0,1,A
 18/09/94,Istrabenz Koper,Izola,1,1,D
-18/09/94,Å½elezniÄar Oscar,Beltinci,2,1,H
-18/09/94,Å½ivila Naklo,Hit Gorica,0,0,D
+18/09/94,Železničar Oscar,Beltinci,2,1,H
+18/09/94,Živila Naklo,Hit Gorica,0,0,D
 18/09/94,Biostart Publikum,Jadran Dekani,2,1,H
 23/09/94,SCT Olimpija,Mura,2,1,H
-24/09/94,Beltinci,Å½ivila Naklo,4,0,H
+24/09/94,Beltinci,Živila Naklo,4,0,H
 24/09/94,Izola,Biostart Publikum,0,3,A
 24/09/94,Maribor Branik,Istrabenz Koper,2,0,H
 25/09/94,Rudar V.,Korotan Suvel,0,1,A
-25/09/94,Gaj KoÄevje,Primorje,0,0,D
-25/09/94,Hit Gorica,VevÄe,6,1,H
-25/09/94,Jadran Dekani,Å½elezniÄar Oscar,1,4,A
-01/10/94,VevÄe,Primorje,1,1,D
-02/10/94,Mura,Gaj KoÄevje,4,0,H
+25/09/94,Gaj Kočevje,Primorje,0,0,D
+25/09/94,Hit Gorica,Vevče,6,1,H
+25/09/94,Jadran Dekani,Železničar Oscar,1,4,A
+01/10/94,Vevče,Primorje,1,1,D
+02/10/94,Mura,Gaj Kočevje,4,0,H
 02/10/94,Korotan Suvel,SCT Olimpija,1,3,A
 02/10/94,Istrabenz Koper,Rudar V.,1,2,A
-02/10/94,Å½elezniÄar Oscar,Izola,4,1,H
-02/10/94,Å½ivila Naklo,Jadran Dekani,7,2,H
+02/10/94,Železničar Oscar,Izola,4,1,H
+02/10/94,Živila Naklo,Jadran Dekani,7,2,H
 02/10/94,Hit Gorica,Beltinci,1,0,H
 02/10/94,Biostart Publikum,Maribor Branik,1,2,A
-08/10/94,Maribor Branik,Å½elezniÄar Oscar,4,3,H
+08/10/94,Maribor Branik,Železničar Oscar,4,3,H
 08/10/94,SCT Olimpija,Istrabenz Koper,1,0,H
-08/10/94,Izola,Å½ivila Naklo,2,0,H
-09/10/94,Gaj KoÄevje,Korotan Suvel,2,0,H
+08/10/94,Izola,Živila Naklo,2,0,H
+09/10/94,Gaj Kočevje,Korotan Suvel,2,0,H
 09/10/94,Primorje,Mura,1,2,A
 09/10/94,Rudar V.,Biostart Publikum,2,1,H
-09/10/94,Beltinci,VevÄe,5,0,H
+09/10/94,Beltinci,Vevče,5,0,H
 09/10/94,Jadran Dekani,Hit Gorica,1,2,A
-15/10/94,VevÄe,Mura,0,1,A
+15/10/94,Vevče,Mura,0,1,A
 16/10/94,Biostart Publikum,SCT Olimpija,3,2,H
 16/10/94,Korotan Suvel,Primorje,2,1,H
-16/10/94,Istrabenz Koper,Gaj KoÄevje,0,0,D
-16/10/94,Å½elezniÄar Oscar,Rudar V.,0,1,A
-16/10/94,Å½ivila Naklo,Maribor Branik,0,0,D
+16/10/94,Istrabenz Koper,Gaj Kočevje,0,0,D
+16/10/94,Železničar Oscar,Rudar V.,0,1,A
+16/10/94,Živila Naklo,Maribor Branik,0,0,D
 16/10/94,Hit Gorica,Izola,4,0,H
 16/10/94,Beltinci,Jadran Dekani,9,0,H
-22/10/94,Jadran Dekani,VevÄe,0,10,A
+22/10/94,Jadran Dekani,Vevče,0,10,A
 23/10/94,Izola,Beltinci,1,1,D
 23/10/94,Maribor Branik,Hit Gorica,2,1,H
-23/10/94,Rudar V.,Å½ivila Naklo,3,0,H
-23/10/94,SCT Olimpija,Å½elezniÄar Oscar,1,2,A
+23/10/94,Rudar V.,Živila Naklo,3,0,H
+23/10/94,SCT Olimpija,Železničar Oscar,1,2,A
 23/10/94,Primorje,Istrabenz Koper,1,0,H
 23/10/94,Mura,Korotan Suvel,1,1,D
-23/10/94,Gaj KoÄevje,Biostart Publikum,1,1,D
-29/10/94,VevÄe,Korotan Suvel,2,1,H
+23/10/94,Gaj Kočevje,Biostart Publikum,1,1,D
+29/10/94,Vevče,Korotan Suvel,2,1,H
 29/10/94,Jadran Dekani,Izola,0,1,A
 30/10/94,Beltinci,Maribor Branik,1,1,D
 30/10/94,Istrabenz Koper,Mura,0,3,A
-30/10/94,Å½elezniÄar Oscar,Gaj KoÄevje,5,2,H
-30/10/94,Å½ivila Naklo,SCT Olimpija,1,2,A
+30/10/94,Železničar Oscar,Gaj Kočevje,5,2,H
+30/10/94,Živila Naklo,SCT Olimpija,1,2,A
 30/10/94,Hit Gorica,Rudar V.,3,1,H
 30/10/94,Biostart Publikum,Primorje,1,0,H
 05/11/94,Korotan Suvel,Istrabenz Koper,0,1,A
 06/11/94,Mura,Biostart Publikum,1,0,H
-06/11/94,Izola,VevÄe,2,1,H
+06/11/94,Izola,Vevče,2,1,H
 06/11/94,Maribor Branik,Jadran Dekani,5,0,H
 06/11/94,Rudar V.,Beltinci,2,1,H
 06/11/94,SCT Olimpija,Hit Gorica,1,1,D
-06/11/94,Gaj KoÄevje,Å½ivila Naklo,1,1,D
-06/11/94,Primorje,Å½elezniÄar Oscar,2,4,A
-12/11/94,Å½elezniÄar Oscar,Mura,2,1,H
+06/11/94,Gaj Kočevje,Živila Naklo,1,1,D
+06/11/94,Primorje,Železničar Oscar,2,4,A
+12/11/94,Železničar Oscar,Mura,2,1,H
 12/11/94,Beltinci,SCT Olimpija,4,2,H
 12/11/94,Izola,Maribor Branik,1,1,D
 13/11/94,Biostart Publikum,Korotan Suvel,0,0,D
-13/11/94,VevÄe,Istrabenz Koper,1,0,H
+13/11/94,Vevče,Istrabenz Koper,1,0,H
 13/11/94,Jadran Dekani,Rudar V.,1,1,D
-13/11/94,Å½ivila Naklo,Primorje,1,1,D
-13/11/94,Hit Gorica,Gaj KoÄevje,3,0,H
+13/11/94,Živila Naklo,Primorje,1,1,D
+13/11/94,Hit Gorica,Gaj Kočevje,3,0,H
 19/11/94,Istrabenz Koper,Biostart Publikum,2,1,H
-20/11/94,Maribor Branik,VevÄe,1,1,D
+20/11/94,Maribor Branik,Vevče,1,1,D
 20/11/94,Rudar V.,Izola,1,2,A
 20/11/94,SCT Olimpija,Jadran Dekani,7,0,H
-20/11/94,Gaj KoÄevje,Beltinci,1,0,H
+20/11/94,Gaj Kočevje,Beltinci,1,0,H
 20/11/94,Primorje,Hit Gorica,2,0,H
-20/11/94,Mura,Å½ivila Naklo,1,0,H
-20/11/94,Korotan Suvel,Å½elezniÄar Oscar,1,0,H
-25/02/95,Istrabenz Koper,Å½elezniÄar Oscar,0,0,D
-26/02/95,Korotan Suvel,Å½ivila Naklo,3,1,H
+20/11/94,Mura,Živila Naklo,1,0,H
+20/11/94,Korotan Suvel,Železničar Oscar,1,0,H
+25/02/95,Istrabenz Koper,Železničar Oscar,0,0,D
+26/02/95,Korotan Suvel,Živila Naklo,3,1,H
 26/02/95,Mura,Hit Gorica,3,2,H
 26/02/95,Primorje,Beltinci,1,0,H
-26/02/95,Gaj KoÄevje,Jadran Dekani,3,3,D
+26/02/95,Gaj Kočevje,Jadran Dekani,3,3,D
 26/02/95,SCT Olimpija,Izola,7,0,H
 26/02/95,Rudar V.,Maribor Branik,1,0,H
-26/02/95,VevÄe,Biostart Publikum,0,1,A
+26/02/95,Vevče,Biostart Publikum,0,1,A
 04/03/95,Jadran Dekani,Primorje,0,1,A
 05/03/95,Beltinci,Mura,3,1,H
 05/03/95,Hit Gorica,Korotan Suvel,1,0,H
-05/03/95,Å½ivila Naklo,Istrabenz Koper,1,2,A
-05/03/95,Å½elezniÄar Oscar,Biostart Publikum,1,2,A
-05/03/95,Rudar V.,VevÄe,3,1,H
+05/03/95,Živila Naklo,Istrabenz Koper,1,2,A
+05/03/95,Železničar Oscar,Biostart Publikum,1,2,A
+05/03/95,Rudar V.,Vevče,3,1,H
 05/03/95,Maribor Branik,SCT Olimpija,0,2,A
-05/03/95,Izola,Gaj KoÄevje,1,1,D
-11/03/95,Biostart Publikum,Å½ivila Naklo,3,0,H
-12/03/95,VevÄe,Å½elezniÄar Oscar,0,1,A
+05/03/95,Izola,Gaj Kočevje,1,1,D
+11/03/95,Biostart Publikum,Živila Naklo,3,0,H
+12/03/95,Vevče,Železničar Oscar,0,1,A
 12/03/95,Istrabenz Koper,Hit Gorica,0,1,A
 12/03/95,Korotan Suvel,Beltinci,1,0,H
 12/03/95,Mura,Jadran Dekani,2,0,H
 12/03/95,Primorje,Izola,2,0,H
-12/03/95,Gaj KoÄevje,Maribor Branik,0,3,A
+12/03/95,Gaj Kočevje,Maribor Branik,0,3,A
 12/03/95,SCT Olimpija,Rudar V.,2,1,H
 18/03/95,Jadran Dekani,Korotan Suvel,1,5,A
 19/03/95,Beltinci,Istrabenz Koper,0,0,D
-19/03/95,Å½ivila Naklo,Å½elezniÄar Oscar,0,1,A
+19/03/95,Živila Naklo,Železničar Oscar,0,1,A
 19/03/95,Hit Gorica,Biostart Publikum,2,1,H
-19/03/95,SCT Olimpija,VevÄe,7,1,H
-19/03/95,Rudar V.,Gaj KoÄevje,5,0,H
+19/03/95,SCT Olimpija,Vevče,7,1,H
+19/03/95,Rudar V.,Gaj Kočevje,5,0,H
 19/03/95,Izola,Mura,0,1,A
 19/03/95,Maribor Branik,Primorje,2,1,H
 25/03/95,Biostart Publikum,Beltinci,2,2,D
-25/03/95,Å½elezniÄar Oscar,Hit Gorica,1,2,A
+25/03/95,Železničar Oscar,Hit Gorica,1,2,A
 25/03/95,Mura,Maribor Branik,0,0,D
 25/03/95,Primorje,Rudar V.,1,1,D
-25/03/95,Gaj KoÄevje,SCT Olimpija,1,2,A
-26/03/95,VevÄe,Å½ivila Naklo,1,0,H
+25/03/95,Gaj Kočevje,SCT Olimpija,1,2,A
+26/03/95,Vevče,Živila Naklo,1,0,H
 26/03/95,Istrabenz Koper,Jadran Dekani,2,0,H
 26/03/95,Korotan Suvel,Izola,7,0,H
 01/04/95,Jadran Dekani,Biostart Publikum,0,3,A
-02/04/95,Gaj KoÄevje,VevÄe,1,3,A
+02/04/95,Gaj Kočevje,Vevče,1,3,A
 02/04/95,SCT Olimpija,Primorje,7,2,H
 02/04/95,Rudar V.,Mura,1,0,H
 02/04/95,Maribor Branik,Korotan Suvel,1,0,H
 02/04/95,Izola,Istrabenz Koper,0,1,A
-02/04/95,Beltinci,Å½elezniÄar Oscar,7,2,H
-02/04/95,Hit Gorica,Å½ivila Naklo,1,1,D
-08/04/95,VevÄe,Hit Gorica,0,2,A
-09/04/95,Å½ivila Naklo,Beltinci,2,0,H
-09/04/95,Å½elezniÄar Oscar,Jadran Dekani,2,0,H
+02/04/95,Beltinci,Železničar Oscar,7,2,H
+02/04/95,Hit Gorica,Živila Naklo,1,1,D
+08/04/95,Vevče,Hit Gorica,0,2,A
+09/04/95,Živila Naklo,Beltinci,2,0,H
+09/04/95,Železničar Oscar,Jadran Dekani,2,0,H
 09/04/95,Istrabenz Koper,Maribor Branik,0,0,D
 09/04/95,Korotan Suvel,Rudar V.,0,0,D
 09/04/95,Mura,SCT Olimpija,1,0,H
-09/04/95,Primorje,Gaj KoÄevje,6,0,H
+09/04/95,Primorje,Gaj Kočevje,6,0,H
 09/04/95,Biostart Publikum,Izola,1,0,H
-15/04/95,Primorje,VevÄe,2,1,H
-15/04/95,Gaj KoÄevje,Mura,1,1,D
+15/04/95,Primorje,Vevče,2,1,H
+15/04/95,Gaj Kočevje,Mura,1,1,D
 15/04/95,SCT Olimpija,Korotan Suvel,1,0,H
 15/04/95,Rudar V.,Istrabenz Koper,1,0,H
-15/04/95,Izola,Å½elezniÄar Oscar,1,0,H
-15/04/95,Jadran Dekani,Å½ivila Naklo,0,1,A
+15/04/95,Izola,Železničar Oscar,1,0,H
+15/04/95,Jadran Dekani,Živila Naklo,0,1,A
 15/04/95,Beltinci,Hit Gorica,0,0,D
 15/04/95,Maribor Branik,Biostart Publikum,3,1,H
 21/04/95,Biostart Publikum,Rudar V.,3,2,H
-22/04/95,Å½ivila Naklo,Izola,1,1,D
-22/04/95,Å½elezniÄar Oscar,Maribor Branik,0,0,D
+22/04/95,Živila Naklo,Izola,1,1,D
+22/04/95,Železničar Oscar,Maribor Branik,0,0,D
 22/04/95,Istrabenz Koper,SCT Olimpija,1,1,D
 22/04/95,Mura,Primorje,0,0,D
-23/04/95,VevÄe,Beltinci,1,3,A
+23/04/95,Vevče,Beltinci,1,3,A
 23/04/95,Hit Gorica,Jadran Dekani,7,0,H
-23/04/95,Korotan Suvel,Gaj KoÄevje,5,0,H
+23/04/95,Korotan Suvel,Gaj Kočevje,5,0,H
 29/04/95,Jadran Dekani,Beltinci,1,3,A
 30/04/95,SCT Olimpija,Biostart Publikum,2,1,H
-30/04/95,Mura,VevÄe,2,0,H
+30/04/95,Mura,Vevče,2,0,H
 30/04/95,Primorje,Korotan Suvel,4,3,H
-30/04/95,Gaj KoÄevje,Istrabenz Koper,2,1,H
-30/04/95,Rudar V.,Å½elezniÄar Oscar,4,1,H
-30/04/95,Maribor Branik,Å½ivila Naklo,5,1,H
+30/04/95,Gaj Kočevje,Istrabenz Koper,2,1,H
+30/04/95,Rudar V.,Železničar Oscar,4,1,H
+30/04/95,Maribor Branik,Živila Naklo,5,1,H
 30/04/95,Izola,Hit Gorica,1,3,A
-05/05/95,Biostart Publikum,Gaj KoÄevje,4,0,H
-06/05/95,VevÄe,Jadran Dekani,2,0,H
+05/05/95,Biostart Publikum,Gaj Kočevje,4,0,H
+06/05/95,Vevče,Jadran Dekani,2,0,H
 07/05/95,Beltinci,Izola,6,1,H
 07/05/95,Hit Gorica,Maribor Branik,1,0,H
-07/05/95,Å½ivila Naklo,Rudar V.,0,3,A
-07/05/95,Å½elezniÄar Oscar,SCT Olimpija,1,1,D
+07/05/95,Živila Naklo,Rudar V.,0,3,A
+07/05/95,Železničar Oscar,SCT Olimpija,1,1,D
 07/05/95,Istrabenz Koper,Primorje,1,1,D
 07/05/95,Korotan Suvel,Mura,1,0,H
 13/05/95,Mura,Istrabenz Koper,3,2,H
-14/05/95,Gaj KoÄevje,Å½elezniÄar Oscar,0,1,A
-14/05/95,SCT Olimpija,Å½ivila Naklo,0,2,A
+14/05/95,Gaj Kočevje,Železničar Oscar,0,1,A
+14/05/95,SCT Olimpija,Živila Naklo,0,2,A
 14/05/95,Rudar V.,Hit Gorica,1,0,H
 14/05/95,Izola,Jadran Dekani,3,0,H
 14/05/95,Primorje,Biostart Publikum,2,1,H
-14/05/95,Korotan Suvel,VevÄe,2,0,H
+14/05/95,Korotan Suvel,Vevče,2,0,H
 14/05/95,Maribor Branik,Beltinci,1,2,A
 19/05/95,Biostart Publikum,Mura,0,0,D
-20/05/95,Å½elezniÄar Oscar,Primorje,1,2,A
+20/05/95,Železničar Oscar,Primorje,1,2,A
 20/05/95,Jadran Dekani,Maribor Branik,0,7,A
 21/05/95,Beltinci,Rudar V.,3,3,D
-21/05/95,Å½ivila Naklo,Gaj KoÄevje,8,0,H
+21/05/95,Živila Naklo,Gaj Kočevje,8,0,H
 21/05/95,Istrabenz Koper,Korotan Suvel,2,2,D
 21/05/95,Hit Gorica,SCT Olimpija,2,1,H
-21/05/95,VevÄe,Izola,6,1,H
+21/05/95,Vevče,Izola,6,1,H
 28/05/95,Korotan Suvel,Biostart Publikum,1,3,A
-28/05/95,Istrabenz Koper,VevÄe,1,0,H
-28/05/95,Mura,Å½elezniÄar Oscar,1,0,H
-28/05/95,Primorje,Å½ivila Naklo,4,2,H
+28/05/95,Istrabenz Koper,Vevče,1,0,H
+28/05/95,Mura,Železničar Oscar,1,0,H
+28/05/95,Primorje,Živila Naklo,4,2,H
 28/05/95,Rudar V.,Jadran Dekani,4,0,H
-28/05/95,Gaj KoÄevje,Hit Gorica,1,8,A
+28/05/95,Gaj Kočevje,Hit Gorica,1,8,A
 28/05/95,Maribor Branik,Izola,5,0,H
 29/05/95,SCT Olimpija,Beltinci,1,1,D
 31/05/95,Biostart Publikum,Istrabenz Koper,2,0,H
 31/05/95,Jadran Dekani,SCT Olimpija,0,5,A
-31/05/95,VevÄe,Maribor Branik,0,1,A
+31/05/95,Vevče,Maribor Branik,0,1,A
 31/05/95,Izola,Rudar V.,1,3,A
-31/05/95,Beltinci,Gaj KoÄevje,8,0,H
+31/05/95,Beltinci,Gaj Kočevje,8,0,H
 31/05/95,Hit Gorica,Primorje,3,1,H
-31/05/95,Å½ivila Naklo,Mura,0,2,A
-31/05/95,Å½elezniÄar Oscar,Korotan Suvel,1,2,A
+31/05/95,Živila Naklo,Mura,0,2,A
+31/05/95,Železničar Oscar,Korotan Suvel,1,2,A
 30/07/95,Mag Korotan,Izola,2,0,H
 30/07/95,Biostart Publikum,Maribor Branik,3,3,D
 30/07/95,Mura,AS Beltinci,1,1,D
@@ -1385,37 +1385,37 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 08/06/96,Biostart Publikum,Hit Gorica,1,0,H
 08/06/96,Primorje,SCT Olimpija,1,4,A
 08/06/96,Izola,Maribor Branik,0,5,A
-03/08/96,Mura,PotroÅ¡nik Beltinci,1,3,A
+03/08/96,Mura,Potrošnik Beltinci,1,3,A
 04/08/96,Maribor Branik,SCT Olimpija,0,0,D
 04/08/96,Protonavto Publikum,Primorje,2,1,H
 04/08/96,Hit Gorica,Rudar Velenje,0,1,A
 04/08/96,Koper,Korotan,0,0,D
 10/08/96,Maribor Branik,Hit Gorica,3,0,H
 11/08/96,Rudar Velenje,Mura,0,0,D
-11/08/96,PotroÅ¡nik Beltinci,Protonavto Publikum,2,1,H
+11/08/96,Potrošnik Beltinci,Protonavto Publikum,2,1,H
 11/08/96,SCT Olimpija,Korotan,0,1,A
 11/08/96,Primorje,Koper,5,0,H
 17/08/96,Mura,Maribor Branik,1,1,D
 18/08/96,Korotan,Primorje,0,0,D
 18/08/96,Protonavto Publikum,Rudar Velenje,1,2,A
 18/08/96,Hit Gorica,SCT Olimpija,2,0,H
-18/08/96,Koper,PotroÅ¡nik Beltinci,3,2,H
+18/08/96,Koper,Potrošnik Beltinci,3,2,H
 24/08/96,Maribor Branik,Protonavto Publikum,3,2,H
 25/08/96,SCT Olimpija,Primorje,1,1,D
 25/08/96,Rudar Velenje,Koper,1,0,H
-25/08/96,PotroÅ¡nik Beltinci,Korotan,2,1,H
+25/08/96,Potrošnik Beltinci,Korotan,2,1,H
 25/08/96,Hit Gorica,Mura,2,0,H
 04/09/96,Mura,SCT Olimpija,3,0,H
 04/09/96,Koper,Maribor Branik,2,1,H
-04/09/96,Primorje,PotroÅ¡nik Beltinci,7,0,H
+04/09/96,Primorje,Potrošnik Beltinci,7,0,H
 04/09/96,Protonavto Publikum,Hit Gorica,1,1,D
 04/09/96,Korotan,Rudar Velenje,0,1,A
 08/09/96,Hit Gorica,Koper,2,0,H
 08/09/96,Rudar Velenje,Primorje,1,1,D
-08/09/96,SCT Olimpija,PotroÅ¡nik Beltinci,1,1,D
+08/09/96,SCT Olimpija,Potrošnik Beltinci,1,1,D
 08/09/96,Mura,Protonavto Publikum,2,1,H
 08/09/96,Maribor Branik,Korotan,5,0,H
-15/09/96,PotroÅ¡nik Beltinci,Rudar Velenje,1,1,D
+15/09/96,Potrošnik Beltinci,Rudar Velenje,1,1,D
 15/09/96,Korotan,Hit Gorica,0,0,D
 15/09/96,Protonavto Publikum,SCT Olimpija,1,0,H
 15/09/96,Primorje,Maribor Branik,1,0,H
@@ -1424,1493 +1424,1493 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 22/09/96,SCT Olimpija,Rudar Velenje,1,2,A
 22/09/96,Protonavto Publikum,Koper,6,2,H
 22/09/96,Hit Gorica,Primorje,1,2,A
-22/09/96,Maribor Branik,PotroÅ¡nik Beltinci,4,1,H
+22/09/96,Maribor Branik,Potrošnik Beltinci,4,1,H
 29/09/96,Rudar Velenje,Maribor Branik,1,6,A
 29/09/96,Korotan,Protonavto Publikum,0,0,D
-29/09/96,PotroÅ¡nik Beltinci,Hit Gorica,0,3,A
+29/09/96,Potrošnik Beltinci,Hit Gorica,0,3,A
 29/09/96,Koper,SCT Olimpija,0,0,D
 29/09/96,Primorje,Mura,3,0,H
 06/10/96,Protonavto Publikum,Korotan,3,1,H
 06/10/96,Mura,Primorje,1,3,A
 06/10/96,SCT Olimpija,Koper,3,1,H
-06/10/96,Hit Gorica,PotroÅ¡nik Beltinci,1,0,H
+06/10/96,Hit Gorica,Potrošnik Beltinci,1,0,H
 06/10/96,Maribor Branik,Rudar Velenje,2,1,H
 12/10/96,SCT Olimpija,Maribor Branik,1,0,H
-13/10/96,PotroÅ¡nik Beltinci,Mura,0,1,A
+13/10/96,Potrošnik Beltinci,Mura,0,1,A
 13/10/96,Primorje,Protonavto Publikum,2,0,H
 13/10/96,Rudar Velenje,Hit Gorica,1,0,H
 13/10/96,Korotan,Koper,2,0,H
-16/10/96,Protonavto Publikum,PotroÅ¡nik Beltinci,1,1,D
+16/10/96,Protonavto Publikum,Potrošnik Beltinci,1,1,D
 16/10/96,Hit Gorica,Maribor Branik,1,1,D
 16/10/96,Koper,Primorje,0,1,A
 16/10/96,Mura,Rudar Velenje,1,1,D
 13/11/96,Korotan,SCT Olimpija,0,2,A
 19/10/96,Maribor Branik,Mura,1,1,D
 20/10/96,Rudar Velenje,Protonavto Publikum,0,1,A
-20/10/96,PotroÅ¡nik Beltinci,Koper,2,1,H
+20/10/96,Potrošnik Beltinci,Koper,2,1,H
 20/10/96,Primorje,Korotan,3,0,H
 20/10/96,SCT Olimpija,Hit Gorica,3,4,A
 27/10/96,Mura,Hit Gorica,2,2,D
 27/10/96,Primorje,SCT Olimpija,1,1,D
-27/10/96,Korotan,PotroÅ¡nik Beltinci,2,0,H
+27/10/96,Korotan,Potrošnik Beltinci,2,0,H
 27/10/96,Koper,Rudar Velenje,1,0,H
 27/10/96,Protonavto Publikum,Maribor Branik,1,1,D
 02/11/96,Maribor Branik,Koper,4,1,H
 03/11/96,Hit Gorica,Protonavto Publikum,3,3,D
-03/11/96,PotroÅ¡nik Beltinci,Primorje,2,1,H
+03/11/96,Potrošnik Beltinci,Primorje,2,1,H
 03/11/96,SCT Olimpija,Mura,6,2,H
 03/11/96,Rudar Velenje,Korotan,3,3,D
 17/11/96,Protonavto Publikum,Mura,3,2,H
-17/11/96,PotroÅ¡nik Beltinci,SCT Olimpija,1,2,A
+17/11/96,Potrošnik Beltinci,SCT Olimpija,1,2,A
 17/11/96,Primorje,Rudar Velenje,2,0,H
 17/11/96,Korotan,Maribor Branik,0,1,A
 17/11/96,Koper,Hit Gorica,0,0,D
 24/11/96,SCT Olimpija,Protonavto Publikum,2,1,H
 24/11/96,Mura,Koper,1,0,H
 24/11/96,Hit Gorica,Korotan,2,0,H
-24/11/96,Rudar Velenje,PotroÅ¡nik Beltinci,5,0,H
+24/11/96,Rudar Velenje,Potrošnik Beltinci,5,0,H
 24/11/96,Maribor Branik,Primorje,1,0,H
 01/12/96,Primorje,Hit Gorica,3,0,H
-01/12/96,PotroÅ¡nik Beltinci,Maribor Branik,1,2,A
+01/12/96,Potrošnik Beltinci,Maribor Branik,1,2,A
 01/12/96,Rudar Velenje,SCT Olimpija,2,4,A
 01/12/96,Korotan,Mura,1,0,H
 01/12/96,Koper,Protonavto Publikum,1,4,A
 01/03/97,SCT Olimpija,Maribor Branik,1,2,A
-02/03/97,PotroÅ¡nik Beltinci,Mura,1,1,D
+02/03/97,Potrošnik Beltinci,Mura,1,1,D
 02/03/97,Korotan,Koper,2,0,H
 02/03/97,Primorje,Protonavto Publikum,4,0,H
 02/03/97,Rudar Velenje,Hit Gorica,1,2,A
 09/03/97,Hit Gorica,Maribor Branik,4,2,H
 09/03/97,Mura,Rudar Velenje,1,1,D
-09/03/97,Protonavto Publikum,PotroÅ¡nik Beltinci,3,2,H
+09/03/97,Protonavto Publikum,Potrošnik Beltinci,3,2,H
 09/03/97,Korotan,SCT Olimpija,1,0,H
 09/03/97,Koper,Primorje,0,0,D
 15/03/97,SCT Olimpija,Hit Gorica,0,1,A
 15/03/97,Primorje,Korotan,3,1,H
 15/03/97,Rudar Velenje,Protonavto Publikum,2,2,D
 15/03/97,Maribor Branik,Mura,0,1,A
-16/03/97,PotroÅ¡nik Beltinci,Koper,2,1,H
+16/03/97,Potrošnik Beltinci,Koper,2,1,H
 23/03/97,Primorje,SCT Olimpija,3,1,H
-23/03/97,Korotan,PotroÅ¡nik Beltinci,2,0,H
+23/03/97,Korotan,Potrošnik Beltinci,2,0,H
 23/03/97,Koper,Rudar Velenje,1,2,A
 23/03/97,Protonavto Publikum,Maribor Branik,1,1,D
 23/03/97,Mura,Hit Gorica,1,1,D
 28/03/97,Hit Gorica,Protonavto Publikum,4,0,H
 29/03/97,SCT Olimpija,Mura,1,1,D
 29/03/97,Rudar Velenje,Korotan,0,0,D
-29/03/97,PotroÅ¡nik Beltinci,Primorje,1,0,H
+29/03/97,Potrošnik Beltinci,Primorje,1,0,H
 29/03/97,Maribor Branik,Koper,3,0,H
 06/04/97,Korotan,Maribor Branik,3,0,H
 06/04/97,Primorje,Rudar Velenje,2,2,D
 06/04/97,Protonavto Publikum,Mura,1,0,H
-06/04/97,PotroÅ¡nik Beltinci,SCT Olimpija,0,0,D
+06/04/97,Potrošnik Beltinci,SCT Olimpija,0,0,D
 06/04/97,Koper,Hit Gorica,2,2,D
 13/04/97,SCT Olimpija,Protonavto Publikum,2,2,D
 13/04/97,Mura,Koper,1,0,H
 13/04/97,Hit Gorica,Korotan,1,0,H
 13/04/97,Maribor Branik,Primorje,1,0,H
-13/04/97,Rudar Velenje,PotroÅ¡nik Beltinci,1,0,H
+13/04/97,Rudar Velenje,Potrošnik Beltinci,1,0,H
 16/04/97,Rudar Velenje,SCT Olimpija,2,3,A
 16/04/97,Korotan,Mura,1,0,H
 16/04/97,Primorje,Hit Gorica,1,0,H
 16/04/97,Koper,Protonavto Publikum,2,1,H
-16/04/97,PotroÅ¡nik Beltinci,Maribor Branik,0,3,A
+16/04/97,Potrošnik Beltinci,Maribor Branik,0,3,A
 20/04/97,Protonavto Publikum,Korotan,2,1,H
 20/04/97,Mura,Primorje,2,1,H
-20/04/97,Hit Gorica,PotroÅ¡nik Beltinci,4,2,H
+20/04/97,Hit Gorica,Potrošnik Beltinci,4,2,H
 20/04/97,SCT Olimpija,Koper,2,0,H
 20/04/97,Maribor Branik,Rudar Velenje,2,0,H
 26/04/97,Koper,SCT Olimpija,2,1,H
 26/04/97,Korotan,Protonavto Publikum,0,1,A
 26/04/97,Primorje,Mura,0,0,D
-26/04/97,PotroÅ¡nik Beltinci,Hit Gorica,0,0,D
+26/04/97,Potrošnik Beltinci,Hit Gorica,0,0,D
 26/04/97,Rudar Velenje,Maribor Branik,0,2,A
-04/05/97,Mura,PotroÅ¡nik Beltinci,2,2,D
+04/05/97,Mura,Potrošnik Beltinci,2,2,D
 04/05/97,Protonavto Publikum,Primorje,0,0,D
 04/05/97,Hit Gorica,Rudar Velenje,0,0,D
 04/05/97,Koper,Korotan,0,0,D
 04/05/97,Maribor Branik,SCT Olimpija,5,2,H
 07/05/97,SCT Olimpija,Korotan,1,1,D
 07/05/97,Primorje,Koper,4,1,H
-07/05/97,PotroÅ¡nik Beltinci,Protonavto Publikum,3,3,D
+07/05/97,Potrošnik Beltinci,Protonavto Publikum,3,3,D
 07/05/97,Rudar Velenje,Mura,1,1,D
 07/05/97,Maribor Branik,Hit Gorica,2,0,H
 11/05/97,Hit Gorica,SCT Olimpija,2,0,H
 11/05/97,Mura,Maribor Branik,1,1,D
 11/05/97,Protonavto Publikum,Rudar Velenje,2,0,H
-11/05/97,Koper,PotroÅ¡nik Beltinci,1,0,H
+11/05/97,Koper,Potrošnik Beltinci,1,0,H
 11/05/97,Korotan,Primorje,2,1,H
 14/05/97,SCT Olimpija,Primorje,2,2,D
 14/05/97,Hit Gorica,Mura,1,1,D
 14/05/97,Rudar Velenje,Koper,3,0,H
-14/05/97,PotroÅ¡nik Beltinci,Korotan,1,1,D
+14/05/97,Potrošnik Beltinci,Korotan,1,1,D
 14/05/97,Maribor Branik,Protonavto Publikum,3,1,H
 18/05/97,Mura,SCT Olimpija,0,0,D
-18/05/97,Primorje,PotroÅ¡nik Beltinci,1,0,H
+18/05/97,Primorje,Potrošnik Beltinci,1,0,H
 18/05/97,Koper,Maribor Branik,1,1,D
 18/05/97,Korotan,Rudar Velenje,3,2,H
 18/05/97,Protonavto Publikum,Hit Gorica,0,2,A
 25/05/97,Hit Gorica,Koper,2,1,H
 25/05/97,Rudar Velenje,Primorje,1,3,A
-25/05/97,SCT Olimpija,PotroÅ¡nik Beltinci,2,2,D
+25/05/97,SCT Olimpija,Potrošnik Beltinci,2,2,D
 25/05/97,Mura,Protonavto Publikum,2,2,D
 25/05/97,Maribor Branik,Korotan,2,1,H
 28/05/97,Protonavto Publikum,SCT Olimpija,2,5,A
 28/05/97,Koper,Mura,2,0,H
 28/05/97,Korotan,Hit Gorica,0,1,A
 28/05/97,Primorje,Maribor Branik,2,0,H
-28/05/97,PotroÅ¡nik Beltinci,Rudar Velenje,1,1,D
+28/05/97,Potrošnik Beltinci,Rudar Velenje,1,1,D
 01/06/97,SCT Olimpija,Rudar Velenje,4,1,H
-01/06/97,Maribor Branik,PotroÅ¡nik Beltinci,5,1,H
+01/06/97,Maribor Branik,Potrošnik Beltinci,5,1,H
 01/06/97,Hit Gorica,Primorje,1,0,H
 01/06/97,Mura,Korotan,0,2,A
 01/06/97,Protonavto Publikum,Koper,0,2,A
-03/08/97,Set VevÄe,Rudar Velenje,1,0,H
-03/08/97,PotroÅ¡nik Beltinci,Primorje,1,2,A
+03/08/97,Set Vevče,Rudar Velenje,1,0,H
+03/08/97,Potrošnik Beltinci,Primorje,1,2,A
 03/08/97,Hit Gorica,Mura,2,1,H
 03/08/97,Protonavto Publikum,SCT Olimpija,2,0,H
 03/08/97,Korotan,Maribor Teatanic,1,0,H
 06/08/97,Mura,Protonavto Publikum,3,1,H
 06/08/97,Rudar Velenje,SCT Olimpija,1,1,D
-06/08/97,Set VevÄe,PotroÅ¡nik Beltinci,0,2,A
+06/08/97,Set Vevče,Potrošnik Beltinci,0,2,A
 06/08/97,Primorje,Korotan,2,0,H
 06/08/97,Maribor Teatanic,Hit Gorica,1,0,H
 09/08/97,Protonavto Publikum,Maribor Teatanic,2,1,H
 09/08/97,Hit Gorica,Primorje,1,0,H
-10/08/97,Korotan,Set VevÄe,1,0,H
-10/08/97,PotroÅ¡nik Beltinci,Rudar Velenje,3,1,H
+10/08/97,Korotan,Set Vevče,1,0,H
+10/08/97,Potrošnik Beltinci,Rudar Velenje,3,1,H
 10/08/97,SCT Olimpija,Mura,3,1,H
 17/08/97,Primorje,Protonavto Publikum,4,2,H
 17/08/97,Rudar Velenje,Mura,1,2,A
-17/08/97,PotroÅ¡nik Beltinci,Korotan,1,1,D
-17/08/97,Set VevÄe,Hit Gorica,0,4,A
+17/08/97,Potrošnik Beltinci,Korotan,1,1,D
+17/08/97,Set Vevče,Hit Gorica,0,4,A
 17/08/97,Maribor Teatanic,SCT Olimpija,2,0,H
-23/08/97,Hit Gorica,PotroÅ¡nik Beltinci,5,1,H
+23/08/97,Hit Gorica,Potrošnik Beltinci,5,1,H
 23/08/97,Mura,Maribor Teatanic,1,0,H
-24/08/97,Protonavto Publikum,Set VevÄe,4,3,H
+24/08/97,Protonavto Publikum,Set Vevče,4,3,H
 24/08/97,SCT Olimpija,Primorje,3,3,D
 24/08/97,Korotan,Rudar Velenje,0,1,A
 30/08/97,Rudar Velenje,Maribor Teatanic,1,1,D
 31/08/97,Korotan,Hit Gorica,1,0,H
-31/08/97,Set VevÄe,SCT Olimpija,2,2,D
-31/08/97,PotroÅ¡nik Beltinci,Protonavto Publikum,2,1,H
+31/08/97,Set Vevče,SCT Olimpija,2,2,D
+31/08/97,Potrošnik Beltinci,Protonavto Publikum,2,1,H
 31/08/97,Primorje,Mura,4,2,H
 13/09/97,Maribor Teatanic,Primorje,0,1,A
 14/09/97,Hit Gorica,Rudar Velenje,2,0,H
 14/09/97,Protonavto Publikum,Korotan,4,1,H
-14/09/97,SCT Olimpija,PotroÅ¡nik Beltinci,1,0,H
-14/09/97,Mura,Set VevÄe,1,0,H
+14/09/97,SCT Olimpija,Potrošnik Beltinci,1,0,H
+14/09/97,Mura,Set Vevče,1,0,H
 21/09/97,Rudar Velenje,Primorje,2,0,H
-21/09/97,Set VevÄe,Maribor Teatanic,1,3,A
-21/09/97,PotroÅ¡nik Beltinci,Mura,0,2,A
+21/09/97,Set Vevče,Maribor Teatanic,1,3,A
+21/09/97,Potrošnik Beltinci,Mura,0,2,A
 21/09/97,Korotan,SCT Olimpija,2,2,D
 21/09/97,Hit Gorica,Protonavto Publikum,3,1,H
-27/09/97,Maribor Teatanic,PotroÅ¡nik Beltinci,5,0,H
+27/09/97,Maribor Teatanic,Potrošnik Beltinci,5,0,H
 28/09/97,SCT Olimpija,Hit Gorica,2,0,H
 28/09/97,Protonavto Publikum,Rudar Velenje,2,2,D
 28/09/97,Mura,Korotan,1,0,H
-28/09/97,Primorje,Set VevÄe,4,1,H
+28/09/97,Primorje,Set Vevče,4,1,H
 05/10/97,Korotan,Mura,2,2,D
-05/10/97,Set VevÄe,Primorje,0,3,A
+05/10/97,Set Vevče,Primorje,0,3,A
 05/10/97,Rudar Velenje,Protonavto Publikum,0,0,D
-05/10/97,PotroÅ¡nik Beltinci,Maribor Teatanic,0,1,A
+05/10/97,Potrošnik Beltinci,Maribor Teatanic,0,1,A
 05/10/97,Hit Gorica,SCT Olimpija,1,1,D
 15/10/97,SCT Olimpija,Protonavto Publikum,1,1,D
-15/10/97,Primorje,PotroÅ¡nik Beltinci,1,3,A
-15/10/97,Rudar Velenje,Set VevÄe,2,0,H
+15/10/97,Primorje,Potrošnik Beltinci,1,3,A
+15/10/97,Rudar Velenje,Set Vevče,2,0,H
 15/10/97,Mura,Hit Gorica,2,2,D
 15/10/97,Maribor Teatanic,Korotan,2,0,H
 19/10/97,SCT Olimpija,Rudar Velenje,2,1,H
 19/10/97,Protonavto Publikum,Mura,0,0,D
 19/10/97,Korotan,Primorje,0,0,D
 19/10/97,Hit Gorica,Maribor Teatanic,0,1,A
-19/10/97,PotroÅ¡nik Beltinci,Set VevÄe,0,1,A
+19/10/97,Potrošnik Beltinci,Set Vevče,0,1,A
 26/10/97,Primorje,Hit Gorica,0,1,A
-26/10/97,Rudar Velenje,PotroÅ¡nik Beltinci,3,0,H
+26/10/97,Rudar Velenje,Potrošnik Beltinci,3,0,H
 26/10/97,Mura,SCT Olimpija,2,0,H
-26/10/97,Set VevÄe,Korotan,1,1,D
+26/10/97,Set Vevče,Korotan,1,1,D
 26/10/97,Maribor Teatanic,Protonavto Publikum,3,0,H
 02/11/97,Mura,Rudar Velenje,2,1,H
 02/11/97,Protonavto Publikum,Primorje,6,2,H
-02/11/97,Hit Gorica,Set VevÄe,2,1,H
-02/11/97,Korotan,PotroÅ¡nik Beltinci,2,1,H
+02/11/97,Hit Gorica,Set Vevče,2,1,H
+02/11/97,Korotan,Potrošnik Beltinci,2,1,H
 02/11/97,SCT Olimpija,Maribor Teatanic,3,1,H
-09/11/97,PotroÅ¡nik Beltinci,Hit Gorica,1,1,D
+09/11/97,Potrošnik Beltinci,Hit Gorica,1,1,D
 09/11/97,Rudar Velenje,Korotan,3,0,H
 09/11/97,Primorje,SCT Olimpija,5,2,H
-09/11/97,Set VevÄe,Protonavto Publikum,1,3,A
+09/11/97,Set Vevče,Protonavto Publikum,1,3,A
 09/11/97,Maribor Teatanic,Mura,1,3,A
-16/11/97,Protonavto Publikum,PotroÅ¡nik Beltinci,4,0,H
+16/11/97,Protonavto Publikum,Potrošnik Beltinci,4,0,H
 16/11/97,Mura,Primorje,2,0,H
 16/11/97,Hit Gorica,Korotan,2,3,A
 16/11/97,Maribor Teatanic,Rudar Velenje,1,0,H
-16/11/97,SCT Olimpija,Set VevÄe,0,0,D
-23/11/97,Set VevÄe,Mura,1,4,A
+16/11/97,SCT Olimpija,Set Vevče,0,0,D
+23/11/97,Set Vevče,Mura,1,4,A
 23/11/97,Korotan,Protonavto Publikum,0,1,A
-23/11/97,PotroÅ¡nik Beltinci,SCT Olimpija,2,4,A
+23/11/97,Potrošnik Beltinci,SCT Olimpija,2,4,A
 23/11/97,Primorje,Maribor Teatanic,2,0,H
 23/11/97,Rudar Velenje,Hit Gorica,1,0,H
 30/11/97,Protonavto Publikum,Hit Gorica,1,1,D
-30/11/97,Maribor Teatanic,Set VevÄe,5,1,H
-30/11/97,Mura,PotroÅ¡nik Beltinci,5,2,H
+30/11/97,Maribor Teatanic,Set Vevče,5,1,H
+30/11/97,Mura,Potrošnik Beltinci,5,2,H
 30/11/97,Primorje,Rudar Velenje,2,1,H
 30/11/97,SCT Olimpija,Korotan,3,1,H
 28/02/98,Maribor Teatanic,Korotan,1,0,H
-01/03/98,Rudar Velenje,Set VevÄe,0,0,D
-01/03/98,Primorje,PotroÅ¡nik Beltinci,5,1,H
+01/03/98,Rudar Velenje,Set Vevče,0,0,D
+01/03/98,Primorje,Potrošnik Beltinci,5,1,H
 01/03/98,SCT Olimpija,Protonavto Publikum,2,0,H
 01/03/98,Mura,Hit Gorica,2,1,H
-08/03/98,PotroÅ¡nik Beltinci,Set VevÄe,5,0,H
+08/03/98,Potrošnik Beltinci,Set Vevče,5,0,H
 08/03/98,SCT Olimpija,Rudar Velenje,1,1,D
 08/03/98,Korotan,Primorje,1,1,D
 08/03/98,Hit Gorica,Maribor Teatanic,3,0,H
 08/03/98,Protonavto Publikum,Mura,1,1,D
 14/03/98,Maribor Teatanic,Protonavto Publikum,3,1,H
-15/03/98,Rudar Velenje,PotroÅ¡nik Beltinci,0,0,D
-15/03/98,Set VevÄe,Korotan,1,2,A
+15/03/98,Rudar Velenje,Potrošnik Beltinci,0,0,D
+15/03/98,Set Vevče,Korotan,1,2,A
 15/03/98,Primorje,Hit Gorica,2,1,H
 15/03/98,Mura,SCT Olimpija,0,0,D
 21/03/98,SCT Olimpija,Maribor Teatanic,1,3,A
 22/03/98,Protonavto Publikum,Primorje,2,1,H
-22/03/98,Hit Gorica,Set VevÄe,4,1,H
-22/03/98,Korotan,PotroÅ¡nik Beltinci,1,1,D
+22/03/98,Hit Gorica,Set Vevče,4,1,H
+22/03/98,Korotan,Potrošnik Beltinci,1,1,D
 22/03/98,Mura,Rudar Velenje,4,2,H
 28/03/98,Primorje,SCT Olimpija,1,2,A
 28/03/98,Maribor Teatanic,Mura,2,1,H
-29/03/98,PotroÅ¡nik Beltinci,Hit Gorica,2,1,H
+29/03/98,Potrošnik Beltinci,Hit Gorica,2,1,H
 29/03/98,Rudar Velenje,Korotan,2,0,H
-29/03/98,Set VevÄe,Protonavto Publikum,4,1,H
+29/03/98,Set Vevče,Protonavto Publikum,4,1,H
 04/04/98,Maribor Teatanic,Rudar Velenje,0,0,D
 05/04/98,Hit Gorica,Korotan,5,0,H
-05/04/98,Protonavto Publikum,PotroÅ¡nik Beltinci,3,0,H
-05/04/98,SCT Olimpija,Set VevÄe,1,0,H
+05/04/98,Protonavto Publikum,Potrošnik Beltinci,3,0,H
+05/04/98,SCT Olimpija,Set Vevče,1,0,H
 05/04/98,Mura,Primorje,0,1,A
 11/04/98,Rudar Velenje,Hit Gorica,1,2,A
-11/04/98,PotroÅ¡nik Beltinci,SCT Olimpija,1,5,A
+11/04/98,Potrošnik Beltinci,SCT Olimpija,1,5,A
 11/04/98,Korotan,Protonavto Publikum,1,0,H
 11/04/98,Primorje,Maribor Teatanic,0,1,A
-11/04/98,Set VevÄe,Mura,2,4,A
-18/04/98,Maribor Teatanic,Set VevÄe,2,1,H
+11/04/98,Set Vevče,Mura,2,4,A
+18/04/98,Maribor Teatanic,Set Vevče,2,1,H
 19/04/98,Protonavto Publikum,Hit Gorica,1,2,A
-19/04/98,Mura,PotroÅ¡nik Beltinci,2,2,D
+19/04/98,Mura,Potrošnik Beltinci,2,2,D
 19/04/98,SCT Olimpija,Korotan,4,0,H
 19/04/98,Primorje,Rudar Velenje,0,1,A
 25/04/98,Rudar Velenje,Protonavto Publikum,2,1,H
 26/04/98,Hit Gorica,SCT Olimpija,3,0,H
 26/04/98,Korotan,Mura,1,1,D
-26/04/98,PotroÅ¡nik Beltinci,Maribor Teatanic,0,1,A
-26/04/98,Set VevÄe,Primorje,2,2,D
+26/04/98,Potrošnik Beltinci,Maribor Teatanic,0,1,A
+26/04/98,Set Vevče,Primorje,2,2,D
 03/05/98,Protonavto Publikum,Rudar Velenje,1,1,D
 03/05/98,SCT Olimpija,Hit Gorica,1,2,A
 03/05/98,Mura,Korotan,2,0,H
-03/05/98,Primorje,Set VevÄe,1,0,H
-03/05/98,Maribor Teatanic,PotroÅ¡nik Beltinci,3,1,H
+03/05/98,Primorje,Set Vevče,1,0,H
+03/05/98,Maribor Teatanic,Potrošnik Beltinci,3,1,H
 06/05/98,Hit Gorica,Mura,3,0,H
 06/05/98,Protonavto Publikum,SCT Olimpija,5,2,H
-06/05/98,Set VevÄe,Rudar Velenje,1,1,D
+06/05/98,Set Vevče,Rudar Velenje,1,1,D
 06/05/98,Korotan,Maribor Teatanic,1,2,A
-06/05/98,PotroÅ¡nik Beltinci,Primorje,1,0,H
+06/05/98,Potrošnik Beltinci,Primorje,1,0,H
 09/05/98,Maribor Teatanic,Hit Gorica,2,0,H
 10/05/98,Rudar Velenje,SCT Olimpija,1,1,D
 10/05/98,Mura,Protonavto Publikum,0,2,A
 10/05/98,Primorje,Korotan,6,0,H
-10/05/98,Set VevÄe,PotroÅ¡nik Beltinci,2,2,D
-13/05/98,PotroÅ¡nik Beltinci,Rudar Velenje,1,3,A
-13/05/98,Korotan,Set VevÄe,0,1,A
+10/05/98,Set Vevče,Potrošnik Beltinci,2,2,D
+13/05/98,Potrošnik Beltinci,Rudar Velenje,1,3,A
+13/05/98,Korotan,Set Vevče,0,1,A
 13/05/98,Hit Gorica,Primorje,2,1,H
 13/05/98,Protonavto Publikum,Maribor Teatanic,1,5,A
 13/05/98,SCT Olimpija,Mura,1,2,A
 16/05/98,Maribor Teatanic,SCT Olimpija,4,4,D
 17/05/98,Rudar Velenje,Mura,0,1,A
-17/05/98,Set VevÄe,Hit Gorica,2,3,A
-17/05/98,PotroÅ¡nik Beltinci,Korotan,4,2,H
+17/05/98,Set Vevče,Hit Gorica,2,3,A
+17/05/98,Potrošnik Beltinci,Korotan,4,2,H
 17/05/98,Primorje,Protonavto Publikum,1,0,H
-24/05/98,Protonavto Publikum,Set VevÄe,2,1,H
-24/05/98,Hit Gorica,PotroÅ¡nik Beltinci,1,0,H
+24/05/98,Protonavto Publikum,Set Vevče,2,1,H
+24/05/98,Hit Gorica,Potrošnik Beltinci,1,0,H
 24/05/98,Korotan,Rudar Velenje,1,1,D
 24/05/98,SCT Olimpija,Primorje,1,1,D
 24/05/98,Mura,Maribor Teatanic,0,0,D
-31/05/98,PotroÅ¡nik Beltinci,Protonavto Publikum,0,1,A
+31/05/98,Potrošnik Beltinci,Protonavto Publikum,0,1,A
 31/05/98,Rudar Velenje,Maribor Teatanic,0,1,A
 31/05/98,Primorje,Mura,2,2,D
-31/05/98,Set VevÄe,SCT Olimpija,1,2,A
+31/05/98,Set Vevče,SCT Olimpija,1,2,A
 31/05/98,Korotan,Hit Gorica,2,1,H
 03/06/98,Protonavto Publikum,Korotan,0,2,A
 03/06/98,Hit Gorica,Rudar Velenje,1,1,D
-03/06/98,SCT Olimpija,PotroÅ¡nik Beltinci,1,2,A
-03/06/98,Mura,Set VevÄe,3,0,H
+03/06/98,SCT Olimpija,Potrošnik Beltinci,1,2,A
+03/06/98,Mura,Set Vevče,3,0,H
 03/06/98,Maribor Teatanic,Primorje,4,0,H
 06/06/98,Rudar Velenje,Primorje,1,3,A
 07/06/98,Korotan,SCT Olimpija,1,0,H
-07/06/98,Set VevÄe,Maribor Teatanic,4,7,A
-07/06/98,PotroÅ¡nik Beltinci,Mura,2,2,D
+07/06/98,Set Vevče,Maribor Teatanic,4,7,A
+07/06/98,Potrošnik Beltinci,Mura,2,2,D
 07/06/98,Hit Gorica,Protonavto Publikum,2,0,H
 01/08/98,Koper,Publikum,1,1,D
-01/08/98,Maribor Teatanic,Å½ivila Triglav,3,2,H
+01/08/98,Maribor Teatanic,Živila Triglav,3,2,H
 02/08/98,SCT Olimpija,Primorje,1,0,H
-02/08/98,Rudar Velenje,PotroÅ¡nik Beltinci,2,0,H
+02/08/98,Rudar Velenje,Potrošnik Beltinci,2,0,H
 02/08/98,Mura,Korotan,4,0,H
-02/08/98,Hit Gorica,BS Tehnik DomÅ¾ale,3,0,H
+02/08/98,Hit Gorica,BS Tehnik Domžale,3,0,H
 08/08/98,Primorje,Maribor Teatanic,0,1,A
-08/08/98,Å½ivila Triglav,Mura,0,0,D
+08/08/98,Živila Triglav,Mura,0,0,D
 09/08/98,Publikum,Hit Gorica,2,1,H
-09/08/98,PotroÅ¡nik Beltinci,Korotan,2,1,H
+09/08/98,Potrošnik Beltinci,Korotan,2,1,H
 09/08/98,Rudar Velenje,Koper,2,1,H
-09/08/98,BS Tehnik DomÅ¾ale,SCT Olimpija,0,3,A
-15/08/98,Koper,PotroÅ¡nik Beltinci,0,1,A
-15/08/98,Maribor Teatanic,BS Tehnik DomÅ¾ale,4,0,H
+09/08/98,BS Tehnik Domžale,SCT Olimpija,0,3,A
+15/08/98,Koper,Potrošnik Beltinci,0,1,A
+15/08/98,Maribor Teatanic,BS Tehnik Domžale,4,0,H
 16/08/98,Mura,Primorje,2,1,H
-16/08/98,Korotan,Å½ivila Triglav,1,0,H
+16/08/98,Korotan,Živila Triglav,1,0,H
 16/08/98,SCT Olimpija,Publikum,3,0,H
 16/08/98,Hit Gorica,Rudar Velenje,2,1,H
 21/08/98,Publikum,Maribor Teatanic,0,0,D
-21/08/98,BS Tehnik DomÅ¾ale,Mura,0,1,A
+21/08/98,BS Tehnik Domžale,Mura,0,1,A
 23/08/98,Primorje,Korotan,3,2,H
 23/08/98,Rudar Velenje,SCT Olimpija,1,2,A
 23/08/98,Koper,Hit Gorica,2,3,A
-23/08/98,PotroÅ¡nik Beltinci,Å½ivila Triglav,4,1,H
-30/08/98,Å½ivila Triglav,Primorje,0,0,D
+23/08/98,Potrošnik Beltinci,Živila Triglav,4,1,H
+30/08/98,Živila Triglav,Primorje,0,0,D
 30/08/98,SCT Olimpija,Koper,2,3,A
-30/08/98,Hit Gorica,PotroÅ¡nik Beltinci,3,1,H
-30/08/98,Korotan,BS Tehnik DomÅ¾ale,0,1,A
+30/08/98,Hit Gorica,Potrošnik Beltinci,3,1,H
+30/08/98,Korotan,BS Tehnik Domžale,0,1,A
 30/08/98,Mura,Publikum,0,1,A
 30/08/98,Maribor Teatanic,Rudar Velenje,1,0,H
 11/09/98,Koper,Maribor Teatanic,2,1,H
-13/09/98,PotroÅ¡nik Beltinci,Primorje,1,1,D
+13/09/98,Potrošnik Beltinci,Primorje,1,1,D
 13/09/98,Hit Gorica,SCT Olimpija,4,1,H
 13/09/98,Rudar Velenje,Mura,2,2,D
 13/09/98,Publikum,Korotan,1,1,D
-13/09/98,BS Tehnik DomÅ¾ale,Å½ivila Triglav,0,0,D
+13/09/98,BS Tehnik Domžale,Živila Triglav,0,0,D
 19/09/98,Maribor Teatanic,Hit Gorica,1,0,H
-20/09/98,SCT Olimpija,PotroÅ¡nik Beltinci,1,0,H
+20/09/98,SCT Olimpija,Potrošnik Beltinci,1,0,H
 20/09/98,Mura,Koper,6,2,H
 20/09/98,Korotan,Rudar Velenje,1,1,D
-20/09/98,Å½ivila Triglav,Publikum,1,0,H
-20/09/98,Primorje,BS Tehnik DomÅ¾ale,0,0,D
+20/09/98,Živila Triglav,Publikum,1,0,H
+20/09/98,Primorje,BS Tehnik Domžale,0,0,D
 25/09/98,SCT Olimpija,Maribor Teatanic,1,4,A
 27/09/98,Hit Gorica,Mura,3,1,H
 27/09/98,Koper,Korotan,0,1,A
-27/09/98,Rudar Velenje,Å½ivila Triglav,1,0,H
+27/09/98,Rudar Velenje,Živila Triglav,1,0,H
 27/09/98,Publikum,Primorje,3,0,H
-27/09/98,PotroÅ¡nik Beltinci,BS Tehnik DomÅ¾ale,2,0,H
-04/10/98,BS Tehnik DomÅ¾ale,Publikum,2,2,D
+27/09/98,Potrošnik Beltinci,BS Tehnik Domžale,2,0,H
+04/10/98,BS Tehnik Domžale,Publikum,2,2,D
 04/10/98,Primorje,Rudar Velenje,2,0,H
-04/10/98,Å½ivila Triglav,Koper,1,1,D
+04/10/98,Živila Triglav,Koper,1,1,D
 04/10/98,Korotan,Hit Gorica,0,0,D
-04/10/98,Maribor Teatanic,PotroÅ¡nik Beltinci,5,1,H
+04/10/98,Maribor Teatanic,Potrošnik Beltinci,5,1,H
 04/10/98,Mura,SCT Olimpija,0,0,D
 18/10/98,SCT Olimpija,Korotan,3,4,A
 18/10/98,Koper,Primorje,0,2,A
-18/10/98,Rudar Velenje,BS Tehnik DomÅ¾ale,1,3,A
-18/10/98,PotroÅ¡nik Beltinci,Publikum,4,1,H
-18/10/98,Hit Gorica,Å½ivila Triglav,3,1,H
+18/10/98,Rudar Velenje,BS Tehnik Domžale,1,3,A
+18/10/98,Potrošnik Beltinci,Publikum,4,1,H
+18/10/98,Hit Gorica,Živila Triglav,3,1,H
 18/10/98,Maribor Teatanic,Mura,4,1,H
-25/10/98,BS Tehnik DomÅ¾ale,Koper,4,0,H
+25/10/98,BS Tehnik Domžale,Koper,4,0,H
 25/10/98,Primorje,Hit Gorica,0,2,A
-25/10/98,Å½ivila Triglav,SCT Olimpija,2,2,D
+25/10/98,Živila Triglav,SCT Olimpija,2,2,D
 25/10/98,Korotan,Maribor Teatanic,1,4,A
 25/10/98,Publikum,Rudar Velenje,0,0,D
-25/10/98,Mura,PotroÅ¡nik Beltinci,3,0,H
+25/10/98,Mura,Potrošnik Beltinci,3,0,H
 30/10/98,Publikum,Koper,0,1,A
 31/10/98,Korotan,Mura,1,1,D
-31/10/98,Å½ivila Triglav,Maribor Teatanic,2,2,D
+31/10/98,Živila Triglav,Maribor Teatanic,2,2,D
 31/10/98,Primorje,SCT Olimpija,3,0,H
-31/10/98,BS Tehnik DomÅ¾ale,Hit Gorica,1,1,D
-31/10/98,PotroÅ¡nik Beltinci,Rudar Velenje,0,2,A
+31/10/98,BS Tehnik Domžale,Hit Gorica,1,1,D
+31/10/98,Potrošnik Beltinci,Rudar Velenje,0,2,A
 08/11/98,Koper,Rudar Velenje,1,0,H
-08/11/98,SCT Olimpija,BS Tehnik DomÅ¾ale,5,0,H
-08/11/98,Mura,Å½ivila Triglav,4,0,H
-08/11/98,Korotan,PotroÅ¡nik Beltinci,5,0,H
+08/11/98,SCT Olimpija,BS Tehnik Domžale,5,0,H
+08/11/98,Mura,Živila Triglav,4,0,H
+08/11/98,Korotan,Potrošnik Beltinci,5,0,H
 08/11/98,Maribor Teatanic,Primorje,1,1,D
 05/12/98,Hit Gorica,Publikum,3,0,H
-15/11/98,Å½ivila Triglav,Korotan,1,2,A
+15/11/98,Živila Triglav,Korotan,1,2,A
 15/11/98,Primorje,Mura,2,1,H
-15/11/98,BS Tehnik DomÅ¾ale,Maribor Teatanic,2,2,D
+15/11/98,BS Tehnik Domžale,Maribor Teatanic,2,2,D
 15/11/98,Publikum,SCT Olimpija,0,2,A
-15/11/98,PotroÅ¡nik Beltinci,Koper,2,2,D
+15/11/98,Potrošnik Beltinci,Koper,2,2,D
 15/11/98,Rudar Velenje,Hit Gorica,3,0,H
 21/11/98,SCT Olimpija,Rudar Velenje,0,0,D
 22/11/98,Hit Gorica,Koper,3,1,H
 22/11/98,Maribor Teatanic,Publikum,2,2,D
-22/11/98,Mura,BS Tehnik DomÅ¾ale,6,0,H
+22/11/98,Mura,BS Tehnik Domžale,6,0,H
 22/11/98,Korotan,Primorje,2,1,H
-22/11/98,Å½ivila Triglav,PotroÅ¡nik Beltinci,2,0,H
-29/11/98,BS Tehnik DomÅ¾ale,Korotan,1,3,A
+22/11/98,Živila Triglav,Potrošnik Beltinci,2,0,H
+29/11/98,BS Tehnik Domžale,Korotan,1,3,A
 29/11/98,Publikum,Mura,0,1,A
 29/11/98,Koper,SCT Olimpija,1,1,D
-29/11/98,PotroÅ¡nik Beltinci,Hit Gorica,2,2,D
-29/11/98,Primorje,Å½ivila Triglav,5,1,H
+29/11/98,Potrošnik Beltinci,Hit Gorica,2,2,D
+29/11/98,Primorje,Živila Triglav,5,1,H
 29/11/98,Rudar Velenje,Maribor Teatanic,2,0,H
 28/02/99,SCT Olimpija,Hit Gorica,2,1,H
-28/02/99,Primorje,PotroÅ¡nik Beltinci,2,1,H
-28/02/99,Å½ivila Triglav,BS Tehnik DomÅ¾ale,1,0,H
+28/02/99,Primorje,Potrošnik Beltinci,2,1,H
+28/02/99,Živila Triglav,BS Tehnik Domžale,1,0,H
 28/02/99,Mura,Rudar Velenje,0,0,D
 28/02/99,Maribor Teatanic,Koper,2,2,D
 17/03/99,Korotan,Publikum,1,1,D
-06/03/99,Publikum,Å½ivila Triglav,1,0,H
+06/03/99,Publikum,Živila Triglav,1,0,H
 06/03/99,Hit Gorica,Maribor Teatanic,2,5,A
 06/03/99,Rudar Velenje,Korotan,2,0,H
 07/03/99,Koper,Mura,0,3,A
-07/03/99,PotroÅ¡nik Beltinci,SCT Olimpija,2,0,H
-07/03/99,BS Tehnik DomÅ¾ale,Primorje,3,1,H
+07/03/99,Potrošnik Beltinci,SCT Olimpija,2,0,H
+07/03/99,BS Tehnik Domžale,Primorje,3,1,H
 13/03/99,Maribor Teatanic,SCT Olimpija,3,1,H
-14/03/99,BS Tehnik DomÅ¾ale,PotroÅ¡nik Beltinci,3,0,H
+14/03/99,BS Tehnik Domžale,Potrošnik Beltinci,3,0,H
 14/03/99,Primorje,Publikum,0,0,D
-14/03/99,Å½ivila Triglav,Rudar Velenje,0,1,A
+14/03/99,Živila Triglav,Rudar Velenje,0,1,A
 14/03/99,Korotan,Koper,3,0,H
 14/03/99,Mura,Hit Gorica,0,1,A
 19/03/99,SCT Olimpija,Mura,0,1,A
 20/03/99,Rudar Velenje,Primorje,4,1,H
-21/03/99,PotroÅ¡nik Beltinci,Maribor Teatanic,1,2,A
-21/03/99,Koper,Å½ivila Triglav,0,2,A
-21/03/99,Publikum,BS Tehnik DomÅ¾ale,0,0,D
+21/03/99,Potrošnik Beltinci,Maribor Teatanic,1,2,A
+21/03/99,Koper,Živila Triglav,0,2,A
+21/03/99,Publikum,BS Tehnik Domžale,0,0,D
 21/03/99,Hit Gorica,Korotan,1,0,H
-03/04/99,Publikum,PotroÅ¡nik Beltinci,0,1,A
-03/04/99,BS Tehnik DomÅ¾ale,Rudar Velenje,0,1,A
+03/04/99,Publikum,Potrošnik Beltinci,0,1,A
+03/04/99,BS Tehnik Domžale,Rudar Velenje,0,1,A
 03/04/99,Primorje,Koper,0,1,A
-03/04/99,Å½ivila Triglav,Hit Gorica,0,2,A
+03/04/99,Živila Triglav,Hit Gorica,0,2,A
 03/04/99,Korotan,SCT Olimpija,2,1,H
 03/04/99,Mura,Maribor Teatanic,1,0,H
-10/04/99,PotroÅ¡nik Beltinci,Mura,2,0,H
+10/04/99,Potrošnik Beltinci,Mura,2,0,H
 10/04/99,Maribor Teatanic,Korotan,3,0,H
 10/04/99,Rudar Velenje,Publikum,0,0,D
-11/04/99,SCT Olimpija,Å½ivila Triglav,1,1,D
+11/04/99,SCT Olimpija,Živila Triglav,1,1,D
 11/04/99,Hit Gorica,Primorje,2,1,H
-11/04/99,Koper,BS Tehnik DomÅ¾ale,3,1,H
-17/04/99,Maribor Teatanic,PotroÅ¡nik Beltinci,1,1,D
+11/04/99,Koper,BS Tehnik Domžale,3,1,H
+17/04/99,Maribor Teatanic,Potrošnik Beltinci,1,1,D
 17/04/99,Rudar Velenje,Publikum,2,1,H
 18/04/99,Hit Gorica,Primorje,1,1,D
 18/04/99,Mura,Koper,1,0,H
-18/04/99,SCT Olimpija,Å½ivila Triglav,4,1,H
-18/04/99,Korotan,BS Tehnik DomÅ¾ale,0,0,D
-21/04/99,SCT Olimpija,PotroÅ¡nik Beltinci,6,0,H
-21/04/99,Å½ivila Triglav,Korotan,1,2,A
-21/04/99,BS Tehnik DomÅ¾ale,Rudar Velenje,0,1,A
+18/04/99,SCT Olimpija,Živila Triglav,4,1,H
+18/04/99,Korotan,BS Tehnik Domžale,0,0,D
+21/04/99,SCT Olimpija,Potrošnik Beltinci,6,0,H
+21/04/99,Živila Triglav,Korotan,1,2,A
+21/04/99,BS Tehnik Domžale,Rudar Velenje,0,1,A
 21/04/99,Publikum,Mura,3,1,H
 21/04/99,Koper,Hit Gorica,0,0,D
 21/04/99,Primorje,Maribor Teatanic,1,0,H
-24/04/99,Mura,BS Tehnik DomÅ¾ale,1,2,A
+24/04/99,Mura,BS Tehnik Domžale,1,2,A
 24/04/99,Maribor Teatanic,Koper,5,0,H
-24/04/99,Rudar Velenje,Å½ivila Triglav,3,1,H
+24/04/99,Rudar Velenje,Živila Triglav,3,1,H
 25/04/99,Hit Gorica,Publikum,0,1,A
 25/04/99,Korotan,SCT Olimpija,0,3,A
-25/04/99,PotroÅ¡nik Beltinci,Primorje,0,2,A
-02/05/99,Korotan,PotroÅ¡nik Beltinci,2,0,H
+25/04/99,Potrošnik Beltinci,Primorje,0,2,A
+02/05/99,Korotan,Potrošnik Beltinci,2,0,H
 02/05/99,SCT Olimpija,Rudar Velenje,1,1,D
-02/05/99,Å½ivila Triglav,Mura,2,1,H
-02/05/99,BS Tehnik DomÅ¾ale,Hit Gorica,0,0,D
+02/05/99,Živila Triglav,Mura,2,1,H
+02/05/99,BS Tehnik Domžale,Hit Gorica,0,0,D
 02/05/99,Publikum,Maribor Teatanic,0,0,D
 02/05/99,Koper,Primorje,0,1,A
 05/05/99,Primorje,Publikum,2,1,H
-05/05/99,Hit Gorica,Å½ivila Triglav,0,0,D
+05/05/99,Hit Gorica,Živila Triglav,0,0,D
 05/05/99,Mura,SCT Olimpija,2,0,H
-05/05/99,Maribor Teatanic,BS Tehnik DomÅ¾ale,1,1,D
+05/05/99,Maribor Teatanic,BS Tehnik Domžale,1,1,D
 05/05/99,Rudar Velenje,Korotan,1,2,A
-06/05/99,PotroÅ¡nik Beltinci,Koper,2,2,D
-08/05/99,Rudar Velenje,PotroÅ¡nik Beltinci,2,1,H
+06/05/99,Potrošnik Beltinci,Koper,2,2,D
+08/05/99,Rudar Velenje,Potrošnik Beltinci,2,1,H
 09/05/99,Korotan,Mura,1,2,A
 09/05/99,SCT Olimpija,Hit Gorica,0,1,A
-09/05/99,Å½ivila Triglav,Maribor Teatanic,1,3,A
-09/05/99,BS Tehnik DomÅ¾ale,Primorje,4,1,H
+09/05/99,Živila Triglav,Maribor Teatanic,1,3,A
+09/05/99,BS Tehnik Domžale,Primorje,4,1,H
 09/05/99,Publikum,Koper,1,0,H
 15/05/99,Hit Gorica,Korotan,3,0,H
 15/05/99,Mura,Rudar Velenje,4,0,H
 15/05/99,Maribor Teatanic,SCT Olimpija,5,0,H
-16/05/99,Primorje,Å½ivila Triglav,1,1,D
-16/05/99,PotroÅ¡nik Beltinci,Publikum,0,1,A
-16/05/99,Koper,BS Tehnik DomÅ¾ale,0,4,A
-19/05/99,Mura,PotroÅ¡nik Beltinci,1,2,A
+16/05/99,Primorje,Živila Triglav,1,1,D
+16/05/99,Potrošnik Beltinci,Publikum,0,1,A
+16/05/99,Koper,BS Tehnik Domžale,0,4,A
+19/05/99,Mura,Potrošnik Beltinci,1,2,A
 19/05/99,Korotan,Maribor Teatanic,1,0,H
 19/05/99,SCT Olimpija,Primorje,1,0,H
-19/05/99,Å½ivila Triglav,Koper,0,3,A
-19/05/99,BS Tehnik DomÅ¾ale,Publikum,2,1,H
+19/05/99,Živila Triglav,Koper,0,3,A
+19/05/99,BS Tehnik Domžale,Publikum,2,1,H
 19/05/99,Rudar Velenje,Hit Gorica,1,1,D
 22/05/99,Koper,SCT Olimpija,3,3,D
 22/05/99,Maribor Teatanic,Rudar Velenje,3,0,H
-23/05/99,PotroÅ¡nik Beltinci,BS Tehnik DomÅ¾ale,3,3,D
-23/05/99,Publikum,Å½ivila Triglav,2,2,D
+23/05/99,Potrošnik Beltinci,BS Tehnik Domžale,3,3,D
+23/05/99,Publikum,Živila Triglav,2,2,D
 23/05/99,Primorje,Korotan,1,4,A
 23/05/99,Hit Gorica,Mura,4,1,H
-30/05/99,Hit Gorica,PotroÅ¡nik Beltinci,3,0,H
+30/05/99,Hit Gorica,Potrošnik Beltinci,3,0,H
 30/05/99,Mura,Maribor Teatanic,0,2,A
 30/05/99,Rudar Velenje,Primorje,4,3,H
 30/05/99,Korotan,Koper,1,2,A
 30/05/99,SCT Olimpija,Publikum,2,3,A
-30/05/99,Å½ivila Triglav,BS Tehnik DomÅ¾ale,0,1,A
-13/06/99,PotroÅ¡nik Beltinci,Å½ivila Triglav,5,1,H
-13/06/99,BS Tehnik DomÅ¾ale,SCT Olimpija,2,2,D
+30/05/99,Živila Triglav,BS Tehnik Domžale,0,1,A
+13/06/99,Potrošnik Beltinci,Živila Triglav,5,1,H
+13/06/99,BS Tehnik Domžale,SCT Olimpija,2,2,D
 13/06/99,Publikum,Korotan,1,0,H
 13/06/99,Koper,Rudar Velenje,0,2,A
 13/06/99,Primorje,Mura,0,1,A
 13/06/99,Maribor Teatanic,Hit Gorica,2,0,H
-31/07/99,DomÅ¾ale,Maribor Pivovarna LaÅ¡ko,1,4,A
+31/07/99,Domžale,Maribor Pivovarna Laško,1,4,A
 31/07/99,Rudar Velenje,Dravograd,2,0,H
 01/08/99,Korotan,CMC Publikum,1,1,D
-01/08/99,PotroÅ¡nik Beltinci,Hit Gorica,0,0,D
+01/08/99,Potrošnik Beltinci,Hit Gorica,0,0,D
 01/08/99,Feroterm Pohorje,SCT Olimpija,0,3,A
 01/08/99,Primorje,Mura,1,0,H
-06/08/99,SCT Olimpija,PotroÅ¡nik Beltinci,5,0,H
+06/08/99,SCT Olimpija,Potrošnik Beltinci,5,0,H
 07/08/99,CMC Publikum,Feroterm Pohorje,1,1,D
 07/08/99,Mura,Hit Gorica,2,0,H
-07/08/99,Maribor Pivovarna LaÅ¡ko,Rudar Velenje,4,1,H
+07/08/99,Maribor Pivovarna Laško,Rudar Velenje,4,1,H
 08/08/99,Korotan,Dravograd,1,2,A
-08/08/99,Primorje,DomÅ¾ale,5,1,H
-13/08/99,PotroÅ¡nik Beltinci,CMC Publikum,0,0,D
+08/08/99,Primorje,Domžale,5,1,H
+13/08/99,Potrošnik Beltinci,CMC Publikum,0,0,D
 14/08/99,Feroterm Pohorje,Dravograd,1,3,A
-14/08/99,Korotan,Maribor Pivovarna LaÅ¡ko,2,4,A
-14/08/99,DomÅ¾ale,Mura,1,0,H
+14/08/99,Korotan,Maribor Pivovarna Laško,2,4,A
+14/08/99,Domžale,Mura,1,0,H
 14/08/99,Rudar Velenje,Primorje,2,1,H
 15/08/99,Hit Gorica,SCT Olimpija,2,1,H
-20/08/99,Maribor Pivovarna LaÅ¡ko,Feroterm Pohorje,5,0,H
+20/08/99,Maribor Pivovarna Laško,Feroterm Pohorje,5,0,H
 21/08/99,CMC Publikum,Hit Gorica,3,3,D
 21/08/99,Mura,SCT Olimpija,3,0,H
-22/08/99,DomÅ¾ale,Rudar Velenje,0,3,A
+22/08/99,Domžale,Rudar Velenje,0,3,A
 22/08/99,Primorje,Korotan,2,2,D
-22/08/99,Dravograd,PotroÅ¡nik Beltinci,2,0,H
-29/08/99,Korotan,DomÅ¾ale,2,2,D
+22/08/99,Dravograd,Potrošnik Beltinci,2,0,H
+29/08/99,Korotan,Domžale,2,2,D
 29/08/99,Hit Gorica,Dravograd,1,1,D
-29/08/99,PotroÅ¡nik Beltinci,Maribor Pivovarna LaÅ¡ko,0,2,A
+29/08/99,Potrošnik Beltinci,Maribor Pivovarna Laško,0,2,A
 29/08/99,Rudar Velenje,Mura,1,2,A
 30/08/99,SCT Olimpija,CMC Publikum,3,0,H
 31/08/99,Feroterm Pohorje,Primorje,0,0,D
-11/09/99,Maribor Pivovarna LaÅ¡ko,Hit Gorica,4,0,H
+11/09/99,Maribor Pivovarna Laško,Hit Gorica,4,0,H
 11/09/99,Rudar Velenje,Korotan,2,2,D
 12/09/99,Mura,CMC Publikum,1,3,A
 12/09/99,Dravograd,SCT Olimpija,0,4,A
-12/09/99,Primorje,PotroÅ¡nik Beltinci,2,2,D
-12/09/99,DomÅ¾ale,Feroterm Pohorje,2,1,H
+12/09/99,Primorje,Potrošnik Beltinci,2,2,D
+12/09/99,Domžale,Feroterm Pohorje,2,1,H
 18/09/99,CMC Publikum,Dravograd,0,0,D
 19/09/99,Hit Gorica,Primorje,5,0,H
-19/09/99,PotroÅ¡nik Beltinci,DomÅ¾ale,1,1,D
+19/09/99,Potrošnik Beltinci,Domžale,1,1,D
 19/09/99,Feroterm Pohorje,Rudar Velenje,1,3,A
 19/09/99,Korotan,Mura,1,1,D
-19/09/99,SCT Olimpija,Maribor Pivovarna LaÅ¡ko,2,4,A
-25/09/99,Maribor Pivovarna LaÅ¡ko,CMC Publikum,2,1,H
-25/09/99,Rudar Velenje,PotroÅ¡nik Beltinci,1,0,H
+19/09/99,SCT Olimpija,Maribor Pivovarna Laško,2,4,A
+25/09/99,Maribor Pivovarna Laško,CMC Publikum,2,1,H
+25/09/99,Rudar Velenje,Potrošnik Beltinci,1,0,H
 26/09/99,Korotan,Feroterm Pohorje,4,0,H
-26/09/99,DomÅ¾ale,Hit Gorica,0,2,A
+26/09/99,Domžale,Hit Gorica,0,2,A
 26/09/99,Primorje,SCT Olimpija,6,0,H
 26/09/99,Mura,Dravograd,2,2,D
 01/10/99,CMC Publikum,Primorje,3,1,H
 03/10/99,Feroterm Pohorje,Mura,0,1,A
-03/10/99,PotroÅ¡nik Beltinci,Korotan,1,3,A
-03/10/99,Dravograd,Maribor Pivovarna LaÅ¡ko,1,3,A
+03/10/99,Potrošnik Beltinci,Korotan,1,3,A
+03/10/99,Dravograd,Maribor Pivovarna Laško,1,3,A
 04/10/99,Hit Gorica,Rudar Velenje,0,1,A
-04/10/99,SCT Olimpija,DomÅ¾ale,2,0,H
-15/10/99,Mura,Maribor Pivovarna LaÅ¡ko,2,2,D
+04/10/99,SCT Olimpija,Domžale,2,0,H
+15/10/99,Mura,Maribor Pivovarna Laško,2,2,D
 16/10/99,Rudar Velenje,SCT Olimpija,0,1,A
 17/10/99,Primorje,Dravograd,1,0,H
-17/10/99,DomÅ¾ale,CMC Publikum,5,0,H
+17/10/99,Domžale,CMC Publikum,5,0,H
 17/10/99,Korotan,Hit Gorica,0,1,A
-17/10/99,Feroterm Pohorje,PotroÅ¡nik Beltinci,2,1,H
+17/10/99,Feroterm Pohorje,Potrošnik Beltinci,2,1,H
 22/10/99,CMC Publikum,Rudar Velenje,0,0,D
-23/10/99,Maribor Pivovarna LaÅ¡ko,Primorje,2,2,D
-24/10/99,PotroÅ¡nik Beltinci,Mura,0,3,A
+23/10/99,Maribor Pivovarna Laško,Primorje,2,2,D
+24/10/99,Potrošnik Beltinci,Mura,0,3,A
 24/10/99,Hit Gorica,Feroterm Pohorje,5,0,H
 24/10/99,SCT Olimpija,Korotan,1,5,A
-24/10/99,Dravograd,DomÅ¾ale,2,4,A
-29/10/99,Maribor Pivovarna LaÅ¡ko,DomÅ¾ale,3,2,H
+24/10/99,Dravograd,Domžale,2,4,A
+29/10/99,Maribor Pivovarna Laško,Domžale,3,2,H
 30/10/99,CMC Publikum,Korotan,2,1,H
-31/10/99,Hit Gorica,PotroÅ¡nik Beltinci,2,0,H
+31/10/99,Hit Gorica,Potrošnik Beltinci,2,0,H
 31/10/99,SCT Olimpija,Feroterm Pohorje,3,1,H
 31/10/99,Dravograd,Rudar Velenje,3,1,H
 31/10/99,Mura,Primorje,1,1,D
-06/11/99,Rudar Velenje,Maribor Pivovarna LaÅ¡ko,2,2,D
-07/11/99,DomÅ¾ale,Primorje,3,1,H
+06/11/99,Rudar Velenje,Maribor Pivovarna Laško,2,2,D
+07/11/99,Domžale,Primorje,3,1,H
 07/11/99,Hit Gorica,Mura,2,1,H
 07/11/99,Dravograd,Korotan,0,2,A
 07/11/99,Feroterm Pohorje,CMC Publikum,0,0,D
-07/11/99,PotroÅ¡nik Beltinci,SCT Olimpija,0,5,A
+07/11/99,Potrošnik Beltinci,SCT Olimpija,0,5,A
 14/11/99,Dravograd,Feroterm Pohorje,2,1,H
-14/11/99,CMC Publikum,PotroÅ¡nik Beltinci,2,0,H
+14/11/99,CMC Publikum,Potrošnik Beltinci,2,0,H
 14/11/99,Primorje,Rudar Velenje,2,1,H
 15/11/99,SCT Olimpija,Hit Gorica,4,0,H
-24/11/99,Mura,DomÅ¾ale,3,1,H
-01/12/99,Maribor Pivovarna LaÅ¡ko,Korotan,0,0,D
-20/11/99,Rudar Velenje,DomÅ¾ale,1,0,H
-21/11/99,Feroterm Pohorje,Maribor Pivovarna LaÅ¡ko,2,1,H
-21/11/99,PotroÅ¡nik Beltinci,Dravograd,1,1,D
+24/11/99,Mura,Domžale,3,1,H
+01/12/99,Maribor Pivovarna Laško,Korotan,0,0,D
+20/11/99,Rudar Velenje,Domžale,1,0,H
+21/11/99,Feroterm Pohorje,Maribor Pivovarna Laško,2,1,H
+21/11/99,Potrošnik Beltinci,Dravograd,1,1,D
 21/11/99,Korotan,Primorje,3,1,H
 22/11/99,Hit Gorica,CMC Publikum,1,0,H
 01/12/99,SCT Olimpija,Mura,2,1,H
 03/11/99,CMC Publikum,SCT Olimpija,3,0,H
-28/11/99,Maribor Pivovarna LaÅ¡ko,PotroÅ¡nik Beltinci,5,1,H
+28/11/99,Maribor Pivovarna Laško,Potrošnik Beltinci,5,1,H
 28/11/99,Mura,Rudar Velenje,0,3,A
 28/11/99,Primorje,Feroterm Pohorje,1,0,H
 28/11/99,Dravograd,Hit Gorica,2,4,A
-28/11/99,DomÅ¾ale,Korotan,1,1,D
-27/02/00,PotroÅ¡nik Beltinci,Primorje,0,5,A
-27/02/00,Hit Gorica,Maribor Pivovarna LaÅ¡ko,2,1,H
+28/11/99,Domžale,Korotan,1,1,D
+27/02/00,Potrošnik Beltinci,Primorje,0,5,A
+27/02/00,Hit Gorica,Maribor Pivovarna Laško,2,1,H
 27/02/00,SCT Olimpija,Dravograd,4,2,H
 27/02/00,CMC Publikum,Mura,3,2,H
-15/03/00,Feroterm Pohorje,DomÅ¾ale,1,2,A
+15/03/00,Feroterm Pohorje,Domžale,1,2,A
 15/03/00,Korotan,Rudar Velenje,1,0,H
-04/03/00,Maribor Pivovarna LaÅ¡ko,SCT Olimpija,0,0,D
+04/03/00,Maribor Pivovarna Laško,SCT Olimpija,0,0,D
 04/03/00,Rudar Velenje,Feroterm Pohorje,1,0,H
-05/03/00,DomÅ¾ale,PotroÅ¡nik Beltinci,4,1,H
+05/03/00,Domžale,Potrošnik Beltinci,4,1,H
 05/03/00,Mura,Korotan,0,2,A
 05/03/00,Primorje,Hit Gorica,1,0,H
 05/03/00,Dravograd,CMC Publikum,1,1,D
 12/03/00,Feroterm Pohorje,Korotan,3,5,A
-12/03/00,PotroÅ¡nik Beltinci,Rudar Velenje,1,2,A
-12/03/00,Hit Gorica,DomÅ¾ale,2,0,H
+12/03/00,Potrošnik Beltinci,Rudar Velenje,1,2,A
+12/03/00,Hit Gorica,Domžale,2,0,H
 12/03/00,SCT Olimpija,Primorje,1,3,A
-12/03/00,CMC Publikum,Maribor Pivovarna LaÅ¡ko,1,2,A
+12/03/00,CMC Publikum,Maribor Pivovarna Laško,1,2,A
 12/03/00,Dravograd,Mura,2,1,H
 18/03/00,Rudar Velenje,Hit Gorica,3,0,H
-18/03/00,Maribor Pivovarna LaÅ¡ko,Dravograd,2,0,H
+18/03/00,Maribor Pivovarna Laško,Dravograd,2,0,H
 19/03/00,Primorje,CMC Publikum,2,2,D
-19/03/00,DomÅ¾ale,SCT Olimpija,2,0,H
-19/03/00,Korotan,PotroÅ¡nik Beltinci,2,1,H
+19/03/00,Domžale,SCT Olimpija,2,0,H
+19/03/00,Korotan,Potrošnik Beltinci,2,1,H
 19/03/00,Mura,Feroterm Pohorje,2,0,H
-22/03/00,PotroÅ¡nik Beltinci,Feroterm Pohorje,1,0,H
+22/03/00,Potrošnik Beltinci,Feroterm Pohorje,1,0,H
 22/03/00,Hit Gorica,Korotan,2,0,H
-22/03/00,CMC Publikum,DomÅ¾ale,3,0,H
+22/03/00,CMC Publikum,Domžale,3,0,H
 22/03/00,Dravograd,Primorje,0,0,D
-22/03/00,Maribor Pivovarna LaÅ¡ko,Mura,3,1,H
+22/03/00,Maribor Pivovarna Laško,Mura,3,1,H
 22/03/00,SCT Olimpija,Rudar Velenje,1,2,A
-26/03/00,Mura,PotroÅ¡nik Beltinci,1,0,H
+26/03/00,Mura,Potrošnik Beltinci,1,0,H
 26/03/00,Feroterm Pohorje,Hit Gorica,0,0,D
 26/03/00,Korotan,SCT Olimpija,3,2,H
 26/03/00,Rudar Velenje,CMC Publikum,1,1,D
-26/03/00,DomÅ¾ale,Dravograd,1,1,D
-26/03/00,Primorje,Maribor Pivovarna LaÅ¡ko,1,3,A
+26/03/00,Domžale,Dravograd,1,1,D
+26/03/00,Primorje,Maribor Pivovarna Laško,1,3,A
 01/04/00,Rudar Velenje,Mura,2,1,H
-01/04/00,Maribor Pivovarna LaÅ¡ko,CMC Publikum,4,0,H
-02/04/00,Hit Gorica,DomÅ¾ale,2,0,H
+01/04/00,Maribor Pivovarna Laško,CMC Publikum,4,0,H
+02/04/00,Hit Gorica,Domžale,2,0,H
 02/04/00,Korotan,Dravograd,1,2,A
 02/04/00,Primorje,Feroterm Pohorje,0,0,D
-02/04/00,SCT Olimpija,PotroÅ¡nik Beltinci,3,3,D
-04/04/00,PotroÅ¡nik Beltinci,Primorje,2,0,H
+02/04/00,SCT Olimpija,Potrošnik Beltinci,3,3,D
+04/04/00,Potrošnik Beltinci,Primorje,2,0,H
 05/04/00,Feroterm Pohorje,Korotan,0,1,A
 05/04/00,Dravograd,Hit Gorica,1,1,D
-05/04/00,DomÅ¾ale,Rudar Velenje,0,0,D
-05/04/00,Mura,Maribor Pivovarna LaÅ¡ko,1,3,A
+05/04/00,Domžale,Rudar Velenje,0,0,D
+05/04/00,Mura,Maribor Pivovarna Laško,1,3,A
 05/04/00,SCT Olimpija,CMC Publikum,2,2,D
-08/04/00,Maribor Pivovarna LaÅ¡ko,DomÅ¾ale,1,0,H
+08/04/00,Maribor Pivovarna Laško,Domžale,1,0,H
 09/04/00,Rudar Velenje,Dravograd,1,1,D
 09/04/00,CMC Publikum,Mura,2,1,H
 09/04/00,Hit Gorica,Feroterm Pohorje,1,0,H
-09/04/00,Korotan,PotroÅ¡nik Beltinci,1,2,A
+09/04/00,Korotan,Potrošnik Beltinci,1,2,A
 09/04/00,Primorje,SCT Olimpija,3,2,H
 12/04/00,Primorje,CMC Publikum,2,2,D
-12/04/00,PotroÅ¡nik Beltinci,Hit Gorica,0,3,A
+12/04/00,Potrošnik Beltinci,Hit Gorica,0,3,A
 12/04/00,Feroterm Pohorje,Rudar Velenje,2,3,A
-12/04/00,Dravograd,Maribor Pivovarna LaÅ¡ko,0,3,A
-12/04/00,DomÅ¾ale,Mura,0,0,D
+12/04/00,Dravograd,Maribor Pivovarna Laško,0,3,A
+12/04/00,Domžale,Mura,0,0,D
 12/04/00,SCT Olimpija,Korotan,0,2,A
-15/04/00,Maribor Pivovarna LaÅ¡ko,Feroterm Pohorje,3,1,H
-15/04/00,Rudar Velenje,PotroÅ¡nik Beltinci,2,0,H
+15/04/00,Maribor Pivovarna Laško,Feroterm Pohorje,3,1,H
+15/04/00,Rudar Velenje,Potrošnik Beltinci,2,0,H
 16/04/00,Hit Gorica,SCT Olimpija,3,0,H
 16/04/00,Korotan,Primorje,0,1,A
-16/04/00,CMC Publikum,DomÅ¾ale,0,0,D
+16/04/00,CMC Publikum,Domžale,0,0,D
 16/04/00,Mura,Dravograd,2,3,A
-21/04/00,Dravograd,DomÅ¾ale,2,1,H
+21/04/00,Dravograd,Domžale,2,1,H
 22/04/00,Korotan,CMC Publikum,2,1,H
 22/04/00,SCT Olimpija,Rudar Velenje,2,2,D
-22/04/00,PotroÅ¡nik Beltinci,Maribor Pivovarna LaÅ¡ko,0,6,A
+22/04/00,Potrošnik Beltinci,Maribor Pivovarna Laško,0,6,A
 22/04/00,Feroterm Pohorje,Mura,2,2,D
 22/04/00,Primorje,Hit Gorica,2,1,H
 28/04/00,CMC Publikum,Dravograd,2,2,D
-29/04/00,Maribor Pivovarna LaÅ¡ko,SCT Olimpija,2,0,H
+29/04/00,Maribor Pivovarna Laško,SCT Olimpija,2,0,H
 29/04/00,Hit Gorica,Korotan,2,1,H
 29/04/00,Rudar Velenje,Primorje,3,0,H
-30/04/00,DomÅ¾ale,Feroterm Pohorje,6,1,H
-30/04/00,Mura,PotroÅ¡nik Beltinci,6,0,H
+30/04/00,Domžale,Feroterm Pohorje,6,1,H
+30/04/00,Mura,Potrošnik Beltinci,6,0,H
 02/05/00,Hit Gorica,CMC Publikum,4,0,H
-03/05/00,Primorje,Maribor Pivovarna LaÅ¡ko,2,2,D
+03/05/00,Primorje,Maribor Pivovarna Laško,2,2,D
 03/05/00,Korotan,Rudar Velenje,2,0,H
 03/05/00,SCT Olimpija,Mura,5,1,H
-03/05/00,PotroÅ¡nik Beltinci,DomÅ¾ale,0,4,A
+03/05/00,Potrošnik Beltinci,Domžale,0,4,A
 03/05/00,Feroterm Pohorje,Dravograd,1,0,H
-06/05/00,Maribor Pivovarna LaÅ¡ko,Korotan,3,0,H
+06/05/00,Maribor Pivovarna Laško,Korotan,3,0,H
 06/05/00,Rudar Velenje,Hit Gorica,2,1,H
 07/05/00,CMC Publikum,Feroterm Pohorje,5,1,H
-07/05/00,Dravograd,PotroÅ¡nik Beltinci,3,1,H
-07/05/00,DomÅ¾ale,SCT Olimpija,1,2,A
+07/05/00,Dravograd,Potrošnik Beltinci,3,1,H
+07/05/00,Domžale,SCT Olimpija,1,2,A
 07/05/00,Mura,Primorje,2,1,H
-13/05/00,Primorje,DomÅ¾ale,2,2,D
+13/05/00,Primorje,Domžale,2,2,D
 14/05/00,Korotan,Mura,3,0,H
-14/05/00,Hit Gorica,Maribor Pivovarna LaÅ¡ko,1,3,A
+14/05/00,Hit Gorica,Maribor Pivovarna Laško,1,3,A
 14/05/00,Rudar Velenje,CMC Publikum,0,2,A
-14/05/00,PotroÅ¡nik Beltinci,Feroterm Pohorje,2,3,A
+14/05/00,Potrošnik Beltinci,Feroterm Pohorje,2,3,A
 14/05/00,SCT Olimpija,Dravograd,0,1,A
 20/05/00,Mura,Hit Gorica,1,2,A
 20/05/00,Feroterm Pohorje,SCT Olimpija,1,4,A
-21/05/00,CMC Publikum,PotroÅ¡nik Beltinci,7,0,H
+21/05/00,CMC Publikum,Potrošnik Beltinci,7,0,H
 21/05/00,Dravograd,Primorje,2,4,A
-21/05/00,DomÅ¾ale,Korotan,3,2,H
-21/05/00,Maribor Pivovarna LaÅ¡ko,Rudar Velenje,2,1,H
-22/07/00,Tabor SeÅ¾ana,Hit Gorica,2,2,D
-22/07/00,KoroÅ¡ka Dravograd,Maribor Pivovarna LaÅ¡ko,1,1,D
-22/07/00,Rudar Velenje,DomÅ¾ale,1,0,H
+21/05/00,Domžale,Korotan,3,2,H
+21/05/00,Maribor Pivovarna Laško,Rudar Velenje,2,1,H
+22/07/00,Tabor Sežana,Hit Gorica,2,2,D
+22/07/00,Koroška Dravograd,Maribor Pivovarna Laško,1,1,D
+22/07/00,Rudar Velenje,Domžale,1,0,H
 23/07/00,Olimpija,CMC Publikum,3,1,H
 23/07/00,Mura,Korotan,0,0,D
 23/07/00,Primorje,FC Koper,2,0,H
-29/07/00,CMC Publikum,KoroÅ¡ka Dravograd,1,3,A
-29/07/00,Tabor SeÅ¾ana,Mura,1,0,H
+29/07/00,CMC Publikum,Koroška Dravograd,1,3,A
+29/07/00,Tabor Sežana,Mura,1,0,H
 30/07/00,Hit Gorica,FC Koper,2,0,H
-30/07/00,DomÅ¾ale,Olimpija,2,3,A
+30/07/00,Domžale,Olimpija,2,3,A
 30/07/00,Korotan,Rudar Velenje,0,1,A
-09/08/00,Maribor Pivovarna LaÅ¡ko,Primorje,2,1,H
+09/08/00,Maribor Pivovarna Laško,Primorje,2,1,H
 04/08/00,Olimpija,Korotan,5,1,H
 05/08/00,Mura,Hit Gorica,0,1,A
-05/08/00,FC Koper,Maribor Pivovarna LaÅ¡ko,1,2,A
-05/08/00,Rudar Velenje,Tabor SeÅ¾ana,3,2,H
-06/08/00,KoroÅ¡ka Dravograd,DomÅ¾ale,0,1,A
+05/08/00,FC Koper,Maribor Pivovarna Laško,1,2,A
+05/08/00,Rudar Velenje,Tabor Sežana,3,2,H
+06/08/00,Koroška Dravograd,Domžale,0,1,A
 06/08/00,Primorje,CMC Publikum,2,2,D
 12/08/00,CMC Publikum,FC Koper,2,0,H
-13/08/00,DomÅ¾ale,Primorje,0,1,A
-13/08/00,Korotan,KoroÅ¡ka Dravograd,0,4,A
-13/08/00,Tabor SeÅ¾ana,Olimpija,3,2,H
+13/08/00,Domžale,Primorje,0,1,A
+13/08/00,Korotan,Koroška Dravograd,0,4,A
+13/08/00,Tabor Sežana,Olimpija,3,2,H
 13/08/00,Mura,Rudar Velenje,1,1,D
-03/12/00,Hit Gorica,Maribor Pivovarna LaÅ¡ko,0,2,A
+03/12/00,Hit Gorica,Maribor Pivovarna Laško,0,2,A
 18/08/00,Olimpija,Mura,3,0,H
-19/08/00,Maribor Pivovarna LaÅ¡ko,CMC Publikum,5,0,H
-19/08/00,FC Koper,DomÅ¾ale,3,0,H
+19/08/00,Maribor Pivovarna Laško,CMC Publikum,5,0,H
+19/08/00,FC Koper,Domžale,3,0,H
 19/08/00,Rudar Velenje,Hit Gorica,1,1,D
-20/08/00,KoroÅ¡ka Dravograd,Tabor SeÅ¾ana,1,2,A
+20/08/00,Koroška Dravograd,Tabor Sežana,1,2,A
 20/08/00,Primorje,Korotan,0,3,A
-26/08/00,Tabor SeÅ¾ana,Primorje,0,0,D
-26/08/00,Mura,KoroÅ¡ka Dravograd,1,1,D
+26/08/00,Tabor Sežana,Primorje,0,0,D
+26/08/00,Mura,Koroška Dravograd,1,1,D
 27/08/00,Hit Gorica,CMC Publikum,0,4,A
-27/08/00,DomÅ¾ale,Maribor Pivovarna LaÅ¡ko,0,2,A
+27/08/00,Domžale,Maribor Pivovarna Laško,0,2,A
 27/08/00,Korotan,FC Koper,2,0,H
 27/08/00,Rudar Velenje,Olimpija,0,2,A
 08/09/00,Olimpija,Hit Gorica,3,1,H
-09/09/00,FC Koper,Tabor SeÅ¾ana,2,1,H
-09/09/00,Maribor Pivovarna LaÅ¡ko,Korotan,1,3,A
-10/09/00,KoroÅ¡ka Dravograd,Rudar Velenje,2,0,H
+09/09/00,FC Koper,Tabor Sežana,2,1,H
+09/09/00,Maribor Pivovarna Laško,Korotan,1,3,A
+10/09/00,Koroška Dravograd,Rudar Velenje,2,0,H
 10/09/00,Primorje,Mura,1,2,A
-10/09/00,CMC Publikum,DomÅ¾ale,0,0,D
-16/09/00,Tabor SeÅ¾ana,Maribor Pivovarna LaÅ¡ko,1,3,A
+10/09/00,CMC Publikum,Domžale,0,0,D
+16/09/00,Tabor Sežana,Maribor Pivovarna Laško,1,3,A
 16/09/00,Rudar Velenje,Primorje,3,1,H
-17/09/00,Hit Gorica,DomÅ¾ale,4,2,H
+17/09/00,Hit Gorica,Domžale,4,2,H
 17/09/00,Korotan,CMC Publikum,2,0,H
 17/09/00,Mura,FC Koper,1,0,H
-17/09/00,Olimpija,KoroÅ¡ka Dravograd,5,0,H
-20/09/00,KoroÅ¡ka Dravograd,Hit Gorica,1,0,H
+17/09/00,Olimpija,Koroška Dravograd,5,0,H
+20/09/00,Koroška Dravograd,Hit Gorica,1,0,H
 20/09/00,Primorje,Olimpija,3,3,D
 20/09/00,FC Koper,Rudar Velenje,3,2,H
-20/09/00,CMC Publikum,Tabor SeÅ¾ana,3,1,H
-20/09/00,DomÅ¾ale,Korotan,3,1,H
-20/09/00,Maribor Pivovarna LaÅ¡ko,Mura,2,1,H
+20/09/00,CMC Publikum,Tabor Sežana,3,1,H
+20/09/00,Domžale,Korotan,3,1,H
+20/09/00,Maribor Pivovarna Laško,Mura,2,1,H
 23/09/00,Olimpija,FC Koper,2,2,D
 24/09/00,Hit Gorica,Korotan,4,1,H
-24/09/00,Tabor SeÅ¾ana,DomÅ¾ale,4,3,H
+24/09/00,Tabor Sežana,Domžale,4,3,H
 24/09/00,Mura,CMC Publikum,4,2,H
-24/09/00,KoroÅ¡ka Dravograd,Primorje,3,1,H
-24/09/00,Rudar Velenje,Maribor Pivovarna LaÅ¡ko,0,0,D
-30/09/00,FC Koper,KoroÅ¡ka Dravograd,3,2,H
+24/09/00,Koroška Dravograd,Primorje,3,1,H
+24/09/00,Rudar Velenje,Maribor Pivovarna Laško,0,0,D
+30/09/00,FC Koper,Koroška Dravograd,3,2,H
 01/10/00,Primorje,Hit Gorica,1,0,H
 01/10/00,CMC Publikum,Rudar Velenje,0,2,A
-01/10/00,DomÅ¾ale,Mura,3,1,H
-01/10/00,Korotan,Tabor SeÅ¾ana,4,0,H
-01/10/00,Maribor Pivovarna LaÅ¡ko,Olimpija,1,3,A
-14/10/00,Maribor Pivovarna LaÅ¡ko,KoroÅ¡ka Dravograd,3,0,H
-15/10/00,Hit Gorica,Tabor SeÅ¾ana,2,1,H
+01/10/00,Domžale,Mura,3,1,H
+01/10/00,Korotan,Tabor Sežana,4,0,H
+01/10/00,Maribor Pivovarna Laško,Olimpija,1,3,A
+14/10/00,Maribor Pivovarna Laško,Koroška Dravograd,3,0,H
+15/10/00,Hit Gorica,Tabor Sežana,2,1,H
 15/10/00,Korotan,Mura,0,0,D
-15/10/00,DomÅ¾ale,Rudar Velenje,2,6,A
+15/10/00,Domžale,Rudar Velenje,2,6,A
 15/10/00,CMC Publikum,Olimpija,4,1,H
 15/10/00,FC Koper,Primorje,2,2,D
 21/10/00,FC Koper,Hit Gorica,2,2,D
-21/10/00,Olimpija,DomÅ¾ale,4,2,H
+21/10/00,Olimpija,Domžale,4,2,H
 21/10/00,Rudar Velenje,Korotan,4,0,H
-22/10/00,Primorje,Maribor Pivovarna LaÅ¡ko,4,0,H
-22/10/00,KoroÅ¡ka Dravograd,CMC Publikum,2,0,H
-22/10/00,Mura,Tabor SeÅ¾ana,1,0,H
-29/10/00,Tabor SeÅ¾ana,Rudar Velenje,2,0,H
+22/10/00,Primorje,Maribor Pivovarna Laško,4,0,H
+22/10/00,Koroška Dravograd,CMC Publikum,2,0,H
+22/10/00,Mura,Tabor Sežana,1,0,H
+29/10/00,Tabor Sežana,Rudar Velenje,2,0,H
 29/10/00,Korotan,Olimpija,3,2,H
-29/10/00,DomÅ¾ale,KoroÅ¡ka Dravograd,3,2,H
+29/10/00,Domžale,Koroška Dravograd,3,2,H
 29/10/00,CMC Publikum,Primorje,2,0,H
 29/10/00,Hit Gorica,Mura,3,0,H
-29/10/00,Maribor Pivovarna LaÅ¡ko,FC Koper,4,0,H
-03/11/00,Olimpija,Tabor SeÅ¾ana,5,1,H
+29/10/00,Maribor Pivovarna Laško,FC Koper,4,0,H
+03/11/00,Olimpija,Tabor Sežana,5,1,H
 04/11/00,FC Koper,CMC Publikum,0,0,D
 04/11/00,Rudar Velenje,Mura,1,1,D
-05/11/00,Primorje,DomÅ¾ale,3,0,H
-05/11/00,KoroÅ¡ka Dravograd,Korotan,2,0,H
-05/11/00,Maribor Pivovarna LaÅ¡ko,Hit Gorica,1,2,A
+05/11/00,Primorje,Domžale,3,0,H
+05/11/00,Koroška Dravograd,Korotan,2,0,H
+05/11/00,Maribor Pivovarna Laško,Hit Gorica,1,2,A
 12/11/00,Hit Gorica,Rudar Velenje,1,0,H
 12/11/00,Mura,Olimpija,1,3,A
-12/11/00,Tabor SeÅ¾ana,KoroÅ¡ka Dravograd,2,2,D
+12/11/00,Tabor Sežana,Koroška Dravograd,2,2,D
 12/11/00,Korotan,Primorje,1,1,D
-12/11/00,DomÅ¾ale,FC Koper,1,0,H
-12/11/00,CMC Publikum,Maribor Pivovarna LaÅ¡ko,3,3,D
+12/11/00,Domžale,FC Koper,1,0,H
+12/11/00,CMC Publikum,Maribor Pivovarna Laško,3,3,D
 18/11/00,FC Koper,Korotan,3,2,H
-18/11/00,Maribor Pivovarna LaÅ¡ko,DomÅ¾ale,1,1,D
+18/11/00,Maribor Pivovarna Laško,Domžale,1,1,D
 19/11/00,CMC Publikum,Hit Gorica,2,1,H
-19/11/00,Primorje,Tabor SeÅ¾ana,1,1,D
-19/11/00,KoroÅ¡ka Dravograd,Mura,3,1,H
+19/11/00,Primorje,Tabor Sežana,1,1,D
+19/11/00,Koroška Dravograd,Mura,3,1,H
 19/11/00,Olimpija,Rudar Velenje,1,1,D
-25/11/00,Rudar Velenje,KoroÅ¡ka Dravograd,2,2,D
+25/11/00,Rudar Velenje,Koroška Dravograd,2,2,D
 26/11/00,Hit Gorica,Olimpija,5,0,H
 26/11/00,Mura,Primorje,3,0,H
-26/11/00,Tabor SeÅ¾ana,FC Koper,1,1,D
-26/11/00,Korotan,Maribor Pivovarna LaÅ¡ko,2,4,A
-26/11/00,DomÅ¾ale,CMC Publikum,2,3,A
+26/11/00,Tabor Sežana,FC Koper,1,1,D
+26/11/00,Korotan,Maribor Pivovarna Laško,2,4,A
+26/11/00,Domžale,CMC Publikum,2,3,A
 03/03/01,FC Koper,Mura,0,0,D
-03/03/01,Maribor Pivovarna LaÅ¡ko,Tabor SeÅ¾ana,3,0,H
-04/03/01,DomÅ¾ale,Hit Gorica,1,1,D
+03/03/01,Maribor Pivovarna Laško,Tabor Sežana,3,0,H
+04/03/01,Domžale,Hit Gorica,1,1,D
 04/03/01,CMC Publikum,Korotan,3,0,H
 04/03/01,Primorje,Rudar Velenje,2,1,H
-04/03/01,KoroÅ¡ka Dravograd,Olimpija,2,3,A
+04/03/01,Koroška Dravograd,Olimpija,2,3,A
 09/03/01,Olimpija,Primorje,1,0,H
 10/03/01,Rudar Velenje,FC Koper,0,0,D
-11/03/01,Hit Gorica,KoroÅ¡ka Dravograd,3,2,H
-11/03/01,Mura,Maribor Pivovarna LaÅ¡ko,1,1,D
-11/03/01,Tabor SeÅ¾ana,CMC Publikum,0,2,A
-11/03/01,Korotan,DomÅ¾ale,4,0,H
+11/03/01,Hit Gorica,Koroška Dravograd,3,2,H
+11/03/01,Mura,Maribor Pivovarna Laško,1,1,D
+11/03/01,Tabor Sežana,CMC Publikum,0,2,A
+11/03/01,Korotan,Domžale,4,0,H
 17/03/01,FC Koper,Olimpija,1,0,H
-17/03/01,Maribor Pivovarna LaÅ¡ko,Rudar Velenje,1,0,H
+17/03/01,Maribor Pivovarna Laško,Rudar Velenje,1,0,H
 18/03/01,CMC Publikum,Mura,1,1,D
-18/03/01,Primorje,KoroÅ¡ka Dravograd,1,0,H
+18/03/01,Primorje,Koroška Dravograd,1,0,H
 18/03/01,Korotan,Hit Gorica,2,1,H
-18/03/01,DomÅ¾ale,Tabor SeÅ¾ana,1,0,H
-31/03/01,Olimpija,Maribor Pivovarna LaÅ¡ko,1,1,D
+18/03/01,Domžale,Tabor Sežana,1,0,H
+31/03/01,Olimpija,Maribor Pivovarna Laško,1,1,D
 31/03/01,Rudar Velenje,CMC Publikum,1,0,H
-01/04/01,KoroÅ¡ka Dravograd,FC Koper,0,3,A
-01/04/01,Tabor SeÅ¾ana,Korotan,1,1,D
+01/04/01,Koroška Dravograd,FC Koper,0,3,A
+01/04/01,Tabor Sežana,Korotan,1,1,D
 01/04/01,Hit Gorica,Primorje,0,1,A
-01/04/01,Mura,DomÅ¾ale,2,0,H
-07/04/01,Rudar Velenje,Tabor SeÅ¾ana,1,2,A
-07/04/01,Maribor Pivovarna LaÅ¡ko,FC Koper,2,0,H
-07/04/01,Olimpija,KoroÅ¡ka Dravograd,2,1,H
-08/04/01,Primorje,DomÅ¾ale,3,0,H
+01/04/01,Mura,Domžale,2,0,H
+07/04/01,Rudar Velenje,Tabor Sežana,1,2,A
+07/04/01,Maribor Pivovarna Laško,FC Koper,2,0,H
+07/04/01,Olimpija,Koroška Dravograd,2,1,H
+08/04/01,Primorje,Domžale,3,0,H
 08/04/01,Hit Gorica,Korotan,1,4,A
 08/04/01,CMC Publikum,Mura,0,2,A
 11/04/01,Mura,Hit Gorica,2,0,H
 11/04/01,FC Koper,Olimpija,3,1,H
-11/04/01,Tabor SeÅ¾ana,CMC Publikum,1,5,A
-11/04/01,Korotan,Maribor Pivovarna LaÅ¡ko,0,1,A
-11/04/01,DomÅ¾ale,Rudar Velenje,4,1,H
-09/05/01,Primorje,KoroÅ¡ka Dravograd,2,1,H
-14/04/01,CMC Publikum,DomÅ¾ale,1,3,A
-14/04/01,Hit Gorica,Tabor SeÅ¾ana,4,0,H
-14/04/01,KoroÅ¡ka Dravograd,FC Koper,3,2,H
+11/04/01,Tabor Sežana,CMC Publikum,1,5,A
+11/04/01,Korotan,Maribor Pivovarna Laško,0,1,A
+11/04/01,Domžale,Rudar Velenje,4,1,H
+09/05/01,Primorje,Koroška Dravograd,2,1,H
+14/04/01,CMC Publikum,Domžale,1,3,A
+14/04/01,Hit Gorica,Tabor Sežana,4,0,H
+14/04/01,Koroška Dravograd,FC Koper,3,2,H
 14/04/01,Rudar Velenje,Primorje,2,0,H
-14/04/01,Maribor Pivovarna LaÅ¡ko,Mura,4,1,H
+14/04/01,Maribor Pivovarna Laško,Mura,4,1,H
 14/04/01,Olimpija,Korotan,0,0,D
 18/04/01,Primorje,CMC Publikum,2,1,H
 18/04/01,Mura,Olimpija,2,0,H
-18/04/01,DomÅ¾ale,Hit Gorica,1,0,H
-18/04/01,Tabor SeÅ¾ana,Maribor Pivovarna LaÅ¡ko,2,1,H
+18/04/01,Domžale,Hit Gorica,1,0,H
+18/04/01,Tabor Sežana,Maribor Pivovarna Laško,2,1,H
 18/04/01,Korotan,FC Koper,0,0,D
-18/04/01,Rudar Velenje,KoroÅ¡ka Dravograd,3,0,H
-21/04/01,Maribor Pivovarna LaÅ¡ko,DomÅ¾ale,1,1,D
-21/04/01,Olimpija,Tabor SeÅ¾ana,6,0,H
+18/04/01,Rudar Velenje,Koroška Dravograd,3,0,H
+21/04/01,Maribor Pivovarna Laško,Domžale,1,1,D
+21/04/01,Olimpija,Tabor Sežana,6,0,H
 22/04/01,FC Koper,Mura,0,0,D
 22/04/01,Hit Gorica,Primorje,0,1,A
 22/04/01,CMC Publikum,Rudar Velenje,3,1,H
-22/04/01,KoroÅ¡ka Dravograd,Korotan,1,2,A
+22/04/01,Koroška Dravograd,Korotan,1,2,A
 28/04/01,Rudar Velenje,Hit Gorica,1,0,H
-29/04/01,Primorje,Maribor Pivovarna LaÅ¡ko,1,0,H
+29/04/01,Primorje,Maribor Pivovarna Laško,1,0,H
 29/04/01,Mura,Korotan,3,1,H
-29/04/01,Tabor SeÅ¾ana,FC Koper,0,3,A
-29/04/01,CMC Publikum,KoroÅ¡ka Dravograd,3,1,H
-29/04/01,DomÅ¾ale,Olimpija,1,2,A
+29/04/01,Tabor Sežana,FC Koper,0,3,A
+29/04/01,CMC Publikum,Koroška Dravograd,3,1,H
+29/04/01,Domžale,Olimpija,1,2,A
 02/05/01,Hit Gorica,CMC Publikum,2,1,H
-02/05/01,FC Koper,DomÅ¾ale,3,0,H
-02/05/01,Korotan,Tabor SeÅ¾ana,1,0,H
-02/05/01,KoroÅ¡ka Dravograd,Mura,1,3,A
+02/05/01,FC Koper,Domžale,3,0,H
+02/05/01,Korotan,Tabor Sežana,1,0,H
+02/05/01,Koroška Dravograd,Mura,1,3,A
 02/05/01,Olimpija,Primorje,1,2,A
-02/05/01,Maribor Pivovarna LaÅ¡ko,Rudar Velenje,4,1,H
-05/05/01,Hit Gorica,KoroÅ¡ka Dravograd,6,1,H
-05/05/01,CMC Publikum,Maribor Pivovarna LaÅ¡ko,3,1,H
+02/05/01,Maribor Pivovarna Laško,Rudar Velenje,4,1,H
+05/05/01,Hit Gorica,Koroška Dravograd,6,1,H
+05/05/01,CMC Publikum,Maribor Pivovarna Laško,3,1,H
 05/05/01,Rudar Velenje,Olimpija,1,0,H
 06/05/01,Primorje,FC Koper,0,0,D
-06/05/01,Tabor SeÅ¾ana,Mura,0,2,A
-06/05/01,DomÅ¾ale,Korotan,3,0,H
-12/05/01,Maribor Pivovarna LaÅ¡ko,Hit Gorica,2,1,H
+06/05/01,Tabor Sežana,Mura,0,2,A
+06/05/01,Domžale,Korotan,3,0,H
+12/05/01,Maribor Pivovarna Laško,Hit Gorica,2,1,H
 12/05/01,Olimpija,CMC Publikum,4,0,H
 13/05/01,Korotan,Primorje,0,0,D
-13/05/01,KoroÅ¡ka Dravograd,Tabor SeÅ¾ana,2,2,D
-13/05/01,Mura,DomÅ¾ale,4,2,H
+13/05/01,Koroška Dravograd,Tabor Sežana,2,2,D
+13/05/01,Mura,Domžale,4,2,H
 13/05/01,FC Koper,Rudar Velenje,2,0,H
 20/05/01,Primorje,Mura,3,0,H
 20/05/01,Rudar Velenje,Korotan,1,3,A
 20/05/01,CMC Publikum,FC Koper,5,1,H
-20/05/01,Maribor Pivovarna LaÅ¡ko,KoroÅ¡ka Dravograd,1,0,H
+20/05/01,Maribor Pivovarna Laško,Koroška Dravograd,1,0,H
 20/05/01,Hit Gorica,Olimpija,0,1,A
-20/05/01,DomÅ¾ale,Tabor SeÅ¾ana,3,1,H
+20/05/01,Domžale,Tabor Sežana,3,1,H
 26/05/01,Mura,Rudar Velenje,2,1,H
 26/05/01,FC Koper,Hit Gorica,3,2,H
-26/05/01,KoroÅ¡ka Dravograd,DomÅ¾ale,2,0,H
-26/05/01,Tabor SeÅ¾ana,Primorje,0,5,A
+26/05/01,Koroška Dravograd,Domžale,2,0,H
+26/05/01,Tabor Sežana,Primorje,0,5,A
 26/05/01,Korotan,CMC Publikum,1,2,A
-27/05/01,Olimpija,Maribor Pivovarna LaÅ¡ko,1,1,D
-21/07/01,Rudar Velenje,Maribor Pivovarna LaÅ¡ko,1,2,A
+27/05/01,Olimpija,Maribor Pivovarna Laško,1,1,D
+21/07/01,Rudar Velenje,Maribor Pivovarna Laško,1,2,A
 22/07/01,Primorje,Mura,2,0,H
 22/07/01,Korotan,Hit Gorica,3,1,H
-22/07/01,DomÅ¾ale,Olimpija,1,2,A
-22/07/01,Sport Line Koper,Era Å martno,3,1,H
-25/07/01,CMC Publikum,Å½ivila Triglav,2,2,D
+22/07/01,Domžale,Olimpija,1,2,A
+22/07/01,Sport Line Koper,Era Šmartno,3,1,H
+25/07/01,CMC Publikum,Živila Triglav,2,2,D
 27/07/01,Olimpija,Primorje,1,3,A
-28/07/01,Maribor Pivovarna LaÅ¡ko,Era Å martno,1,2,A
-28/07/01,Rudar Velenje,DomÅ¾ale,2,1,H
+28/07/01,Maribor Pivovarna Laško,Era Šmartno,1,2,A
+28/07/01,Rudar Velenje,Domžale,2,1,H
 29/07/01,Hit Gorica,CMC Publikum,1,3,A
 29/07/01,Mura,Korotan,0,0,D
-29/07/01,Å½ivila Triglav,Sport Line Koper,0,2,A
+29/07/01,Živila Triglav,Sport Line Koper,0,2,A
 04/08/01,Sport Line Koper,Hit Gorica,2,0,H
 05/08/01,Korotan,Olimpija,1,1,D
 05/08/01,Primorje,Rudar Velenje,6,0,H
-05/08/01,Era Å martno,Å½ivila Triglav,0,1,A
+05/08/01,Era Šmartno,Živila Triglav,0,1,A
 05/08/01,CMC Publikum,Mura,2,0,H
-05/08/01,DomÅ¾ale,Maribor Pivovarna LaÅ¡ko,0,2,A
-11/08/01,Maribor Pivovarna LaÅ¡ko,Å½ivila Triglav,6,2,H
+05/08/01,Domžale,Maribor Pivovarna Laško,0,2,A
+11/08/01,Maribor Pivovarna Laško,Živila Triglav,6,2,H
 11/08/01,Rudar Velenje,Korotan,0,0,D
 12/08/01,Mura,Sport Line Koper,1,0,H
 12/08/01,Olimpija,CMC Publikum,1,0,H
-12/08/01,DomÅ¾ale,Primorje,0,0,D
-14/08/01,Hit Gorica,Era Å martno,0,0,D
+12/08/01,Domžale,Primorje,0,0,D
+14/08/01,Hit Gorica,Era Šmartno,0,0,D
 18/08/01,Sport Line Koper,Olimpija,1,0,H
-19/08/01,Korotan,DomÅ¾ale,0,1,A
-19/08/01,Primorje,Maribor Pivovarna LaÅ¡ko,1,2,A
+19/08/01,Korotan,Domžale,0,1,A
+19/08/01,Primorje,Maribor Pivovarna Laško,1,2,A
 19/08/01,CMC Publikum,Rudar Velenje,3,2,H
-19/08/01,Era Å martno,Mura,3,2,H
-19/08/01,Å½ivila Triglav,Hit Gorica,2,0,H
+19/08/01,Era Šmartno,Mura,3,2,H
+19/08/01,Živila Triglav,Hit Gorica,2,0,H
 25/08/01,Rudar Velenje,Sport Line Koper,3,2,H
 26/08/01,Primorje,Korotan,2,0,H
-26/08/01,Mura,Å½ivila Triglav,2,0,H
-26/08/01,DomÅ¾ale,CMC Publikum,1,1,D
-26/08/01,Maribor Pivovarna LaÅ¡ko,Hit Gorica,1,1,D
-27/08/01,Olimpija,Era Å martno,1,1,D
+26/08/01,Mura,Živila Triglav,2,0,H
+26/08/01,Domžale,CMC Publikum,1,1,D
+26/08/01,Maribor Pivovarna Laško,Hit Gorica,1,1,D
+27/08/01,Olimpija,Era Šmartno,1,1,D
 07/09/01,Hit Gorica,Mura,0,0,D
-08/09/01,Sport Line Koper,DomÅ¾ale,4,0,H
+08/09/01,Sport Line Koper,Domžale,4,0,H
 09/09/01,CMC Publikum,Primorje,1,3,A
-09/09/01,Å½ivila Triglav,Olimpija,0,1,A
-09/09/01,Era Å martno,Rudar Velenje,1,1,D
-09/09/01,Korotan,Maribor Pivovarna LaÅ¡ko,0,2,A
-15/09/01,Maribor Pivovarna LaÅ¡ko,Mura,0,1,A
-15/09/01,Rudar Velenje,Å½ivila Triglav,3,1,H
+09/09/01,Živila Triglav,Olimpija,0,1,A
+09/09/01,Era Šmartno,Rudar Velenje,1,1,D
+09/09/01,Korotan,Maribor Pivovarna Laško,0,2,A
+15/09/01,Maribor Pivovarna Laško,Mura,0,1,A
+15/09/01,Rudar Velenje,Živila Triglav,3,1,H
 16/09/01,Korotan,CMC Publikum,2,0,H
-16/09/01,DomÅ¾ale,Era Å martno,1,5,A
+16/09/01,Domžale,Era Šmartno,1,5,A
 16/09/01,Olimpija,Hit Gorica,2,1,H
 26/09/01,Primorje,Sport Line Koper,2,1,H
 22/09/01,Sport Line Koper,Korotan,2,0,H
 23/09/01,Hit Gorica,Rudar Velenje,0,2,A
 23/09/01,Mura,Olimpija,2,2,D
-23/09/01,CMC Publikum,Maribor Pivovarna LaÅ¡ko,0,1,A
-23/09/01,Era Å martno,Primorje,0,1,A
-23/09/01,Å½ivila Triglav,DomÅ¾ale,1,1,D
+23/09/01,CMC Publikum,Maribor Pivovarna Laško,0,1,A
+23/09/01,Era Šmartno,Primorje,0,1,A
+23/09/01,Živila Triglav,Domžale,1,1,D
 29/09/01,Rudar Velenje,Mura,0,0,D
-30/09/01,Primorje,Å½ivila Triglav,1,0,H
-30/09/01,Maribor Pivovarna LaÅ¡ko,Olimpija,3,2,H
+30/09/01,Primorje,Živila Triglav,1,0,H
+30/09/01,Maribor Pivovarna Laško,Olimpija,3,2,H
 30/09/01,CMC Publikum,Sport Line Koper,0,0,D
-30/09/01,Korotan,Era Å martno,1,2,A
-30/09/01,DomÅ¾ale,Hit Gorica,1,2,A
+30/09/01,Korotan,Era Šmartno,1,2,A
+30/09/01,Domžale,Hit Gorica,1,2,A
 13/10/01,Olimpija,Rudar Velenje,1,0,H
-14/10/01,Å½ivila Triglav,Korotan,2,0,H
-14/10/01,Era Å martno,CMC Publikum,1,1,D
+14/10/01,Živila Triglav,Korotan,2,0,H
+14/10/01,Era Šmartno,CMC Publikum,1,1,D
 14/10/01,Hit Gorica,Primorje,0,0,D
-14/10/01,Sport Line Koper,Maribor Pivovarna LaÅ¡ko,3,0,H
-14/10/01,Mura,DomÅ¾ale,3,1,H
+14/10/01,Sport Line Koper,Maribor Pivovarna Laško,3,0,H
+14/10/01,Mura,Domžale,3,1,H
 17/10/01,Mura,Primorje,1,0,H
 17/10/01,Hit Gorica,Korotan,1,0,H
-17/10/01,Era Å martno,Sport Line Koper,1,1,D
-17/10/01,Å½ivila Triglav,CMC Publikum,0,4,A
-17/10/01,Olimpija,DomÅ¾ale,2,0,H
-17/10/01,Maribor Pivovarna LaÅ¡ko,Rudar Velenje,2,1,H
+17/10/01,Era Šmartno,Sport Line Koper,1,1,D
+17/10/01,Živila Triglav,CMC Publikum,0,4,A
+17/10/01,Olimpija,Domžale,2,0,H
+17/10/01,Maribor Pivovarna Laško,Rudar Velenje,2,1,H
 21/10/01,Primorje,Olimpija,3,0,H
-21/10/01,Era Å martno,Maribor Pivovarna LaÅ¡ko,0,0,D
+21/10/01,Era Šmartno,Maribor Pivovarna Laško,0,0,D
 21/10/01,CMC Publikum,Hit Gorica,1,0,H
-21/10/01,Sport Line Koper,Å½ivila Triglav,1,1,D
+21/10/01,Sport Line Koper,Živila Triglav,1,1,D
 21/10/01,Korotan,Mura,0,3,A
-21/10/01,DomÅ¾ale,Rudar Velenje,2,2,D
+21/10/01,Domžale,Rudar Velenje,2,2,D
 27/10/01,Rudar Velenje,Primorje,3,0,H
 28/10/01,Olimpija,Korotan,1,1,D
 28/10/01,Mura,CMC Publikum,1,0,H
 28/10/01,Hit Gorica,Sport Line Koper,1,1,D
-28/10/01,Å½ivila Triglav,Era Å martno,1,2,A
-28/10/01,Maribor Pivovarna LaÅ¡ko,DomÅ¾ale,1,1,D
+28/10/01,Živila Triglav,Era Šmartno,1,2,A
+28/10/01,Maribor Pivovarna Laško,Domžale,1,1,D
 03/11/01,Sport Line Koper,Mura,4,1,H
-04/11/01,Primorje,DomÅ¾ale,6,0,H
+04/11/01,Primorje,Domžale,6,0,H
 04/11/01,CMC Publikum,Olimpija,2,0,H
-04/11/01,Era Å martno,Hit Gorica,0,0,D
+04/11/01,Era Šmartno,Hit Gorica,0,0,D
 04/11/01,Korotan,Rudar Velenje,1,2,A
-04/11/01,Å½ivila Triglav,Maribor Pivovarna LaÅ¡ko,1,1,D
-11/11/01,DomÅ¾ale,Korotan,1,4,A
-11/11/01,Mura,Era Å martno,0,3,A
-11/11/01,Hit Gorica,Å½ivila Triglav,4,3,H
+04/11/01,Živila Triglav,Maribor Pivovarna Laško,1,1,D
+11/11/01,Domžale,Korotan,1,4,A
+11/11/01,Mura,Era Šmartno,0,3,A
+11/11/01,Hit Gorica,Živila Triglav,4,3,H
 21/11/01,Rudar Velenje,CMC Publikum,3,4,A
 21/11/01,Olimpija,Sport Line Koper,0,0,D
-21/11/01,Maribor Pivovarna LaÅ¡ko,Primorje,1,1,D
+21/11/01,Maribor Pivovarna Laško,Primorje,1,1,D
 17/11/01,Sport Line Koper,Rudar Velenje,2,2,D
-18/11/01,Hit Gorica,Maribor Pivovarna LaÅ¡ko,1,0,H
-18/11/01,Era Å martno,Olimpija,1,2,A
-18/11/01,CMC Publikum,DomÅ¾ale,3,3,D
+18/11/01,Hit Gorica,Maribor Pivovarna Laško,1,0,H
+18/11/01,Era Šmartno,Olimpija,1,2,A
+18/11/01,CMC Publikum,Domžale,3,3,D
 18/11/01,Korotan,Primorje,1,2,A
-18/11/01,Å½ivila Triglav,Mura,3,1,H
+18/11/01,Živila Triglav,Mura,3,1,H
 25/11/01,Primorje,CMC Publikum,1,0,H
 25/11/01,Mura,Hit Gorica,0,2,A
-25/11/01,Olimpija,Å½ivila Triglav,4,0,H
-25/11/01,DomÅ¾ale,Sport Line Koper,1,2,A
-25/11/01,Rudar Velenje,Era Å martno,1,1,D
-25/11/01,Maribor Pivovarna LaÅ¡ko,Korotan,6,1,H
+25/11/01,Olimpija,Živila Triglav,4,0,H
+25/11/01,Domžale,Sport Line Koper,1,2,A
+25/11/01,Rudar Velenje,Era Šmartno,1,1,D
+25/11/01,Maribor Pivovarna Laško,Korotan,6,1,H
 01/12/01,Hit Gorica,Olimpija,1,3,A
 01/12/01,Sport Line Koper,Primorje,1,0,H
-01/12/01,Mura,Maribor Pivovarna LaÅ¡ko,1,0,H
+01/12/01,Mura,Maribor Pivovarna Laško,1,0,H
 01/12/01,CMC Publikum,Korotan,2,0,H
-01/12/01,Era Å martno,DomÅ¾ale,6,1,H
-01/12/01,Å½ivila Triglav,Rudar Velenje,0,3,A
-08/12/01,Primorje,Era Å martno,1,1,D
+01/12/01,Era Šmartno,Domžale,6,1,H
+01/12/01,Živila Triglav,Rudar Velenje,0,3,A
+08/12/01,Primorje,Era Šmartno,1,1,D
 08/12/01,Olimpija,Mura,1,0,H
 08/12/01,Korotan,Sport Line Koper,1,0,H
-08/12/01,Maribor Pivovarna LaÅ¡ko,CMC Publikum,2,0,H
-08/12/01,DomÅ¾ale,Å½ivila Triglav,1,0,H
+08/12/01,Maribor Pivovarna Laško,CMC Publikum,2,0,H
+08/12/01,Domžale,Živila Triglav,1,0,H
 08/12/01,Rudar Velenje,Hit Gorica,0,2,A
 23/02/02,Sport Line Koper,CMC Publikum,1,0,H
-24/02/02,Hit Gorica,DomÅ¾ale,0,0,D
+24/02/02,Hit Gorica,Domžale,0,0,D
 24/02/02,Mura,Rudar Velenje,0,0,D
-24/02/02,Olimpija,Maribor Pivovarna LaÅ¡ko,0,1,A
-24/02/02,Era Å martno,Korotan,0,1,A
-24/02/02,Å½ivila Triglav,Primorje,2,0,H
+24/02/02,Olimpija,Maribor Pivovarna Laško,0,1,A
+24/02/02,Era Šmartno,Korotan,0,1,A
+24/02/02,Živila Triglav,Primorje,2,0,H
 02/03/02,Rudar Velenje,Olimpija,2,0,H
-02/03/02,Maribor Pivovarna LaÅ¡ko,Sport Line Koper,1,0,H
+02/03/02,Maribor Pivovarna Laško,Sport Line Koper,1,0,H
 03/03/02,Primorje,Hit Gorica,0,2,A
-03/03/02,CMC Publikum,Era Å martno,3,4,A
-03/03/02,Korotan,Å½ivila Triglav,1,0,H
-03/03/02,DomÅ¾ale,Mura,1,2,A
+03/03/02,CMC Publikum,Era Šmartno,3,4,A
+03/03/02,Korotan,Živila Triglav,1,0,H
+03/03/02,Domžale,Mura,1,2,A
 09/03/02,Sport Line Koper,Hit Gorica,0,0,D
-09/03/02,Maribor Pivovarna LaÅ¡ko,Rudar Velenje,0,0,D
+09/03/02,Maribor Pivovarna Laško,Rudar Velenje,0,0,D
 10/03/02,Primorje,CMC Publikum,1,2,A
-10/03/02,Mura,DomÅ¾ale,2,0,H
+10/03/02,Mura,Domžale,2,0,H
 10/03/02,Olimpija,Korotan,2,0,H
-10/03/02,Era Å martno,Å½ivila Triglav,2,0,H
+10/03/02,Era Šmartno,Živila Triglav,2,0,H
 16/03/02,Hit Gorica,Primorje,3,1,H
-17/03/02,CMC Publikum,Maribor Pivovarna LaÅ¡ko,1,2,A
-17/03/02,Å½ivila Triglav,Olimpija,0,1,A
+17/03/02,CMC Publikum,Maribor Pivovarna Laško,1,2,A
+17/03/02,Živila Triglav,Olimpija,0,1,A
 17/03/02,Mura,Rudar Velenje,1,0,H
 17/03/02,Korotan,Sport Line Koper,1,1,D
-17/03/02,DomÅ¾ale,Era Å martno,1,0,H
-23/03/02,Sport Line Koper,Å½ivila Triglav,1,0,H
-23/03/02,Maribor Pivovarna LaÅ¡ko,Hit Gorica,7,0,H
+17/03/02,Domžale,Era Šmartno,1,0,H
+23/03/02,Sport Line Koper,Živila Triglav,1,0,H
+23/03/02,Maribor Pivovarna Laško,Hit Gorica,7,0,H
 23/03/02,Rudar Velenje,CMC Publikum,0,1,A
 24/03/02,Primorje,Korotan,1,1,D
-24/03/02,Era Å martno,Mura,1,1,D
-24/03/02,Olimpija,DomÅ¾ale,3,0,H
-30/03/02,Korotan,Maribor Pivovarna LaÅ¡ko,0,0,D
-30/03/02,Era Å martno,Rudar Velenje,1,1,D
-30/03/02,Å½ivila Triglav,Primorje,0,0,D
+24/03/02,Era Šmartno,Mura,1,1,D
+24/03/02,Olimpija,Domžale,3,0,H
+30/03/02,Korotan,Maribor Pivovarna Laško,0,0,D
+30/03/02,Era Šmartno,Rudar Velenje,1,1,D
+30/03/02,Živila Triglav,Primorje,0,0,D
 30/03/02,Hit Gorica,CMC Publikum,0,0,D
-30/03/02,DomÅ¾ale,Sport Line Koper,1,3,A
+30/03/02,Domžale,Sport Line Koper,1,3,A
 31/03/02,Mura,Olimpija,4,0,H
 06/04/02,Sport Line Koper,Mura,2,1,H
-06/04/02,Maribor Pivovarna LaÅ¡ko,Å½ivila Triglav,7,1,H
+06/04/02,Maribor Pivovarna Laško,Živila Triglav,7,1,H
 06/04/02,Rudar Velenje,Hit Gorica,3,2,H
-07/04/02,Primorje,DomÅ¾ale,5,0,H
+07/04/02,Primorje,Domžale,5,0,H
 07/04/02,CMC Publikum,Korotan,5,1,H
-07/04/02,Olimpija,Era Å martno,3,1,H
+07/04/02,Olimpija,Era Šmartno,3,1,H
 10/04/02,Korotan,Hit Gorica,0,2,A
-10/04/02,Å½ivila Triglav,CMC Publikum,2,1,H
-10/04/02,Era Å martno,Sport Line Koper,1,1,D
+10/04/02,Živila Triglav,CMC Publikum,2,1,H
+10/04/02,Era Šmartno,Sport Line Koper,1,1,D
 10/04/02,Mura,Primorje,0,2,A
-10/04/02,DomÅ¾ale,Maribor Pivovarna LaÅ¡ko,0,2,A
+10/04/02,Domžale,Maribor Pivovarna Laško,0,2,A
 10/04/02,Olimpija,Rudar Velenje,1,3,A
-13/04/02,CMC Publikum,DomÅ¾ale,2,1,H
+13/04/02,CMC Publikum,Domžale,2,1,H
 13/04/02,Sport Line Koper,Olimpija,0,0,D
 13/04/02,Rudar Velenje,Korotan,2,3,A
-13/04/02,Maribor Pivovarna LaÅ¡ko,Mura,2,0,H
-14/04/02,Primorje,Era Å martno,3,0,H
-14/04/02,Hit Gorica,Å½ivila Triglav,2,1,H
+13/04/02,Maribor Pivovarna Laško,Mura,2,0,H
+14/04/02,Primorje,Era Šmartno,3,0,H
+14/04/02,Hit Gorica,Živila Triglav,2,1,H
 19/04/02,Olimpija,Primorje,0,3,A
 20/04/02,Mura,CMC Publikum,2,0,H
 20/04/02,Sport Line Koper,Rudar Velenje,3,1,H
-21/04/02,Era Å martno,Maribor Pivovarna LaÅ¡ko,0,0,D
-21/04/02,Å½ivila Triglav,Korotan,2,1,H
-21/04/02,DomÅ¾ale,Hit Gorica,2,3,A
-24/04/02,Rudar Velenje,Å½ivila Triglav,1,4,A
+21/04/02,Era Šmartno,Maribor Pivovarna Laško,0,0,D
+21/04/02,Živila Triglav,Korotan,2,1,H
+21/04/02,Domžale,Hit Gorica,2,3,A
+24/04/02,Rudar Velenje,Živila Triglav,1,4,A
 24/04/02,Primorje,Sport Line Koper,2,0,H
 24/04/02,Hit Gorica,Mura,3,1,H
-24/04/02,CMC Publikum,Era Å martno,4,0,H
-24/04/02,Korotan,DomÅ¾ale,1,0,H
-24/04/02,Maribor Pivovarna LaÅ¡ko,Olimpija,5,0,H
-27/04/02,Sport Line Koper,Maribor Pivovarna LaÅ¡ko,1,1,D
+24/04/02,CMC Publikum,Era Šmartno,4,0,H
+24/04/02,Korotan,Domžale,1,0,H
+24/04/02,Maribor Pivovarna Laško,Olimpija,5,0,H
+27/04/02,Sport Line Koper,Maribor Pivovarna Laško,1,1,D
 28/04/02,Primorje,Rudar Velenje,4,0,H
 28/04/02,Mura,Korotan,0,1,A
 28/04/02,Olimpija,CMC Publikum,1,0,H
-28/04/02,Era Å martno,Hit Gorica,0,1,A
-28/04/02,DomÅ¾ale,Å½ivila Triglav,1,2,A
-04/05/02,Å½ivila Triglav,Mura,0,3,A
+28/04/02,Era Šmartno,Hit Gorica,0,1,A
+28/04/02,Domžale,Živila Triglav,1,2,A
+04/05/02,Živila Triglav,Mura,0,3,A
 04/05/02,Hit Gorica,Olimpija,2,1,H
-04/05/02,Korotan,Era Å martno,1,0,H
-04/05/02,Rudar Velenje,DomÅ¾ale,2,1,H
+04/05/02,Korotan,Era Šmartno,1,0,H
+04/05/02,Rudar Velenje,Domžale,2,1,H
 05/05/02,CMC Publikum,Sport Line Koper,2,0,H
-05/05/02,Maribor Pivovarna LaÅ¡ko,Primorje,3,0,H
-12/07/02,Vega Olimpija,Era Å martno,2,2,D
-13/07/02,CMC Publikum,Maribor Pivovarna LaÅ¡ko,3,3,D
+05/05/02,Maribor Pivovarna Laško,Primorje,3,0,H
+12/07/02,Vega Olimpija,Era Šmartno,2,2,D
+13/07/02,CMC Publikum,Maribor Pivovarna Laško,3,3,D
 13/07/02,Sport Line Koper,Mura,1,0,H
 13/07/02,Rudar Velenje,Ljubljana,3,0,H
-14/07/02,ND Gorica,KoroÅ¡ka Dravograd,0,0,D
+14/07/02,ND Gorica,Koroška Dravograd,0,0,D
 14/07/02,Relax Korotan,Primorje,0,1,A
 19/07/02,Ljubljana,CMC Publikum,1,1,D
-20/07/02,Maribor Pivovarna LaÅ¡ko,Sport Line Koper,0,1,A
+20/07/02,Maribor Pivovarna Laško,Sport Line Koper,0,1,A
 21/07/02,ND Gorica,Rudar Velenje,1,1,D
 21/07/02,Mura,Vega Olimpija,0,1,A
-21/07/02,KoroÅ¡ka Dravograd,Primorje,4,0,H
-21/07/02,Era Å martno,Relax Korotan,1,1,D
-26/07/02,Vega Olimpija,Maribor Pivovarna LaÅ¡ko,0,1,A
+21/07/02,Koroška Dravograd,Primorje,4,0,H
+21/07/02,Era Šmartno,Relax Korotan,1,1,D
+26/07/02,Vega Olimpija,Maribor Pivovarna Laško,0,1,A
 27/07/02,CMC Publikum,ND Gorica,2,2,D
 27/07/02,Sport Line Koper,Ljubljana,2,1,H
-27/07/02,Rudar Velenje,KoroÅ¡ka Dravograd,0,1,A
+27/07/02,Rudar Velenje,Koroška Dravograd,0,1,A
 28/07/02,Relax Korotan,Mura,2,0,H
-28/07/02,Primorje,Era Å martno,4,0,H
+28/07/02,Primorje,Era Šmartno,4,0,H
 10/08/02,ND Gorica,Sport Line Koper,3,0,H
-10/08/02,Maribor Pivovarna LaÅ¡ko,Relax Korotan,3,0,H
+10/08/02,Maribor Pivovarna Laško,Relax Korotan,3,0,H
 10/08/02,Rudar Velenje,CMC Publikum,2,1,H
 11/08/02,Mura,Primorje,3,0,H
-11/08/02,KoroÅ¡ka Dravograd,Era Å martno,0,0,D
+11/08/02,Koroška Dravograd,Era Šmartno,0,0,D
 11/08/02,Ljubljana,Vega Olimpija,0,1,A
-17/08/02,CMC Publikum,KoroÅ¡ka Dravograd,2,1,H
+17/08/02,CMC Publikum,Koroška Dravograd,2,1,H
 17/08/02,Sport Line Koper,Rudar Velenje,1,0,H
-18/08/02,Primorje,Maribor Pivovarna LaÅ¡ko,1,1,D
-18/08/02,Era Å martno,Mura,1,0,H
+18/08/02,Primorje,Maribor Pivovarna Laško,1,1,D
+18/08/02,Era Šmartno,Mura,1,0,H
 18/08/02,Relax Korotan,Ljubljana,1,1,D
 18/08/02,Vega Olimpija,ND Gorica,1,1,D
 24/08/02,CMC Publikum,Sport Line Koper,3,3,D
 24/08/02,ND Gorica,Relax Korotan,2,1,H
 24/08/02,Rudar Velenje,Vega Olimpija,1,2,A
-25/08/02,KoroÅ¡ka Dravograd,Mura,2,1,H
+25/08/02,Koroška Dravograd,Mura,2,1,H
 25/08/02,Ljubljana,Primorje,0,4,A
-25/08/02,Maribor Pivovarna LaÅ¡ko,Era Å martno,0,0,D
+25/08/02,Maribor Pivovarna Laško,Era Šmartno,0,0,D
 30/08/02,Vega Olimpija,CMC Publikum,1,0,H
-31/08/02,Sport Line Koper,KoroÅ¡ka Dravograd,3,2,H
+31/08/02,Sport Line Koper,Koroška Dravograd,3,2,H
 31/08/02,Relax Korotan,Rudar Velenje,0,0,D
-01/09/02,Era Å martno,Ljubljana,2,2,D
-01/09/02,Mura,Maribor Pivovarna LaÅ¡ko,0,0,D
+01/09/02,Era Šmartno,Ljubljana,2,2,D
+01/09/02,Mura,Maribor Pivovarna Laško,0,0,D
 01/09/02,Primorje,ND Gorica,1,1,D
-14/09/02,ND Gorica,Era Å martno,1,2,A
+14/09/02,ND Gorica,Era Šmartno,1,2,A
 14/09/02,CMC Publikum,Relax Korotan,0,0,D
 14/09/02,Ljubljana,Mura,3,1,H
 14/09/02,Rudar Velenje,Primorje,3,1,H
-15/09/02,KoroÅ¡ka Dravograd,Maribor Pivovarna LaÅ¡ko,0,0,D
+15/09/02,Koroška Dravograd,Maribor Pivovarna Laško,0,0,D
 15/09/02,Sport Line Koper,Vega Olimpija,0,0,D
-20/09/02,Vega Olimpija,KoroÅ¡ka Dravograd,3,0,H
-20/09/02,Maribor Pivovarna LaÅ¡ko,Ljubljana,0,2,A
+20/09/02,Vega Olimpija,Koroška Dravograd,3,0,H
+20/09/02,Maribor Pivovarna Laško,Ljubljana,0,2,A
 21/09/02,Relax Korotan,Sport Line Koper,0,1,A
 22/09/02,Primorje,CMC Publikum,1,3,A
 22/09/02,Mura,ND Gorica,5,0,H
-22/09/02,Era Å martno,Rudar Velenje,3,1,H
+22/09/02,Era Šmartno,Rudar Velenje,3,1,H
 27/09/02,Vega Olimpija,Relax Korotan,4,0,H
-28/09/02,CMC Publikum,Era Å martno,3,0,H
+28/09/02,CMC Publikum,Era Šmartno,3,0,H
 28/09/02,Sport Line Koper,Primorje,3,0,H
-28/09/02,ND Gorica,Maribor Pivovarna LaÅ¡ko,0,2,A
+28/09/02,ND Gorica,Maribor Pivovarna Laško,0,2,A
 28/09/02,Rudar Velenje,Mura,1,1,D
-29/09/02,KoroÅ¡ka Dravograd,Ljubljana,1,0,H
-05/10/02,Relax Korotan,KoroÅ¡ka Dravograd,2,1,H
-06/10/02,Era Å martno,Sport Line Koper,1,1,D
+29/09/02,Koroška Dravograd,Ljubljana,1,0,H
+05/10/02,Relax Korotan,Koroška Dravograd,2,1,H
+06/10/02,Era Šmartno,Sport Line Koper,1,1,D
 06/10/02,Primorje,Vega Olimpija,1,3,A
-06/10/02,Maribor Pivovarna LaÅ¡ko,Rudar Velenje,1,0,H
+06/10/02,Maribor Pivovarna Laško,Rudar Velenje,1,0,H
 06/10/02,Mura,CMC Publikum,1,2,A
 06/10/02,Ljubljana,ND Gorica,0,2,A
-18/10/02,Maribor Pivovarna LaÅ¡ko,CMC Publikum,0,3,A
+18/10/02,Maribor Pivovarna Laško,CMC Publikum,0,3,A
 20/10/02,Primorje,Relax Korotan,0,3,A
 20/10/02,Mura,Sport Line Koper,1,1,D
-20/10/02,KoroÅ¡ka Dravograd,ND Gorica,0,0,D
-20/10/02,Era Å martno,Vega Olimpija,0,0,D
+20/10/02,Koroška Dravograd,ND Gorica,0,0,D
+20/10/02,Era Šmartno,Vega Olimpija,0,0,D
 20/10/02,Ljubljana,Rudar Velenje,3,1,H
-26/10/02,Relax Korotan,Era Å martno,3,0,H
-26/10/02,Sport Line Koper,Maribor Pivovarna LaÅ¡ko,1,2,A
+26/10/02,Relax Korotan,Era Šmartno,3,0,H
+26/10/02,Sport Line Koper,Maribor Pivovarna Laško,1,2,A
 26/10/02,Rudar Velenje,ND Gorica,1,1,D
-27/10/02,Primorje,KoroÅ¡ka Dravograd,1,0,H
+27/10/02,Primorje,Koroška Dravograd,1,0,H
 27/10/02,Vega Olimpija,Mura,3,1,H
 27/10/02,CMC Publikum,Ljubljana,3,1,H
-02/11/02,Maribor Pivovarna LaÅ¡ko,Vega Olimpija,0,3,A
+02/11/02,Maribor Pivovarna Laško,Vega Olimpija,0,3,A
 03/11/02,ND Gorica,CMC Publikum,0,2,A
-03/11/02,Era Å martno,Primorje,1,0,H
+03/11/02,Era Šmartno,Primorje,1,0,H
 03/11/02,Mura,Relax Korotan,3,2,H
 03/11/02,Ljubljana,Sport Line Koper,2,1,H
-03/11/02,KoroÅ¡ka Dravograd,Rudar Velenje,2,0,H
+03/11/02,Koroška Dravograd,Rudar Velenje,2,0,H
 08/11/02,Vega Olimpija,Ljubljana,2,2,D
-09/11/02,Relax Korotan,Maribor Pivovarna LaÅ¡ko,0,1,A
+09/11/02,Relax Korotan,Maribor Pivovarna Laško,0,1,A
 10/11/02,Primorje,Mura,3,3,D
 10/11/02,Sport Line Koper,ND Gorica,3,0,H
-10/11/02,Era Å martno,KoroÅ¡ka Dravograd,1,1,D
+10/11/02,Era Šmartno,Koroška Dravograd,1,1,D
 10/11/02,CMC Publikum,Rudar Velenje,4,1,H
 16/11/02,Rudar Velenje,Sport Line Koper,2,1,H
-17/11/02,Mura,Era Å martno,0,3,A
+17/11/02,Mura,Era Šmartno,0,3,A
 17/11/02,ND Gorica,Vega Olimpija,3,4,A
-17/11/02,Maribor Pivovarna LaÅ¡ko,Primorje,2,0,H
-17/11/02,KoroÅ¡ka Dravograd,CMC Publikum,0,1,A
+17/11/02,Maribor Pivovarna Laško,Primorje,2,0,H
+17/11/02,Koroška Dravograd,CMC Publikum,0,1,A
 17/11/02,Ljubljana,Relax Korotan,2,0,H
 22/11/02,Vega Olimpija,Rudar Velenje,1,2,A
 23/11/02,Relax Korotan,ND Gorica,2,3,A
 24/11/02,Primorje,Ljubljana,5,0,H
-24/11/02,Mura,KoroÅ¡ka Dravograd,3,2,H
+24/11/02,Mura,Koroška Dravograd,3,2,H
 24/11/02,Sport Line Koper,CMC Publikum,0,0,D
-24/11/02,Era Å martno,Maribor Pivovarna LaÅ¡ko,5,5,D
+24/11/02,Era Šmartno,Maribor Pivovarna Laško,5,5,D
 30/11/02,ND Gorica,Primorje,0,1,A
-30/11/02,Maribor Pivovarna LaÅ¡ko,Mura,0,0,D
-30/11/02,KoroÅ¡ka Dravograd,Sport Line Koper,3,4,A
-30/11/02,Ljubljana,Era Å martno,4,1,H
+30/11/02,Maribor Pivovarna Laško,Mura,0,0,D
+30/11/02,Koroška Dravograd,Sport Line Koper,3,4,A
+30/11/02,Ljubljana,Era Šmartno,4,1,H
 30/11/02,Rudar Velenje,Relax Korotan,3,1,H
 01/12/02,CMC Publikum,Vega Olimpija,0,0,D
 01/03/03,Vega Olimpija,Sport Line Koper,3,0,H
-02/03/03,Era Å martno,ND Gorica,1,0,H
+02/03/03,Era Šmartno,ND Gorica,1,0,H
 02/03/03,Primorje,Rudar Velenje,1,0,H
 02/03/03,Mura,Ljubljana,1,2,A
 02/03/03,Relax Korotan,CMC Publikum,0,5,A
-02/03/03,Maribor Pivovarna LaÅ¡ko,KoroÅ¡ka Dravograd,2,1,H
+02/03/03,Maribor Pivovarna Laško,Koroška Dravograd,2,1,H
 08/03/03,ND Gorica,Mura,1,1,D
-09/03/03,Rudar Velenje,Era Å martno,1,3,A
+09/03/03,Rudar Velenje,Era Šmartno,1,3,A
 09/03/03,CMC Publikum,Primorje,3,1,H
 09/03/03,Sport Line Koper,Relax Korotan,3,0,H
-09/03/03,Ljubljana,Maribor Pivovarna LaÅ¡ko,0,2,A
-09/03/03,KoroÅ¡ka Dravograd,Vega Olimpija,1,1,D
-16/03/03,Era Å martno,CMC Publikum,1,2,A
+09/03/03,Ljubljana,Maribor Pivovarna Laško,0,2,A
+09/03/03,Koroška Dravograd,Vega Olimpija,1,1,D
+16/03/03,Era Šmartno,CMC Publikum,1,2,A
 16/03/03,Primorje,Sport Line Koper,1,1,D
 16/03/03,Mura,Rudar Velenje,1,0,H
-16/03/03,Maribor Pivovarna LaÅ¡ko,ND Gorica,2,3,A
-16/03/03,Ljubljana,KoroÅ¡ka Dravograd,1,4,A
-22/03/03,Rudar Velenje,Maribor Pivovarna LaÅ¡ko,1,2,A
+16/03/03,Maribor Pivovarna Laško,ND Gorica,2,3,A
+16/03/03,Ljubljana,Koroška Dravograd,1,4,A
+22/03/03,Rudar Velenje,Maribor Pivovarna Laško,1,2,A
 22/03/03,ND Gorica,Ljubljana,1,1,D
 23/03/03,Vega Olimpija,Primorje,1,3,A
-23/03/03,Sport Line Koper,Era Å martno,0,1,A
+23/03/03,Sport Line Koper,Era Šmartno,0,1,A
 23/03/03,CMC Publikum,Mura,4,0,H
 04/04/03,Vega Olimpija,Ljubljana,5,1,H
-06/04/03,CMC Publikum,KoroÅ¡ka Dravograd,1,0,H
-06/04/03,Era Å martno,Mura,3,1,H
+06/04/03,CMC Publikum,Koroška Dravograd,1,0,H
+06/04/03,Era Šmartno,Mura,3,1,H
 06/04/03,Sport Line Koper,Rudar Velenje,2,1,H
-06/04/03,Maribor Pivovarna LaÅ¡ko,ND Gorica,2,0,H
-12/04/03,Rudar Velenje,Maribor Pivovarna LaÅ¡ko,1,2,A
-13/04/03,Primorje,KoroÅ¡ka Dravograd,1,0,H
+06/04/03,Maribor Pivovarna Laško,ND Gorica,2,0,H
+12/04/03,Rudar Velenje,Maribor Pivovarna Laško,1,2,A
+13/04/03,Primorje,Koroška Dravograd,1,0,H
 13/04/03,Mura,Sport Line Koper,2,0,H
 13/04/03,ND Gorica,Vega Olimpija,1,2,A
 13/04/03,Ljubljana,CMC Publikum,4,1,H
 18/04/03,Vega Olimpija,Rudar Velenje,1,1,D
 19/04/03,CMC Publikum,ND Gorica,0,0,D
-19/04/03,Era Å martno,Primorje,1,2,A
-19/04/03,KoroÅ¡ka Dravograd,Ljubljana,2,2,D
-19/04/03,Maribor Pivovarna LaÅ¡ko,Mura,4,2,H
+19/04/03,Era Šmartno,Primorje,1,2,A
+19/04/03,Koroška Dravograd,Ljubljana,2,2,D
+19/04/03,Maribor Pivovarna Laško,Mura,4,2,H
 23/04/03,Rudar Velenje,CMC Publikum,2,2,D
 23/04/03,ND Gorica,Ljubljana,2,0,H
 23/04/03,Mura,Vega Olimpija,1,0,H
 23/04/03,Primorje,Sport Line Koper,2,0,H
-23/04/03,Era Å martno,KoroÅ¡ka Dravograd,3,0,H
+23/04/03,Era Šmartno,Koroška Dravograd,3,0,H
 26/04/03,CMC Publikum,Mura,3,0,H
-26/04/03,Sport Line Koper,Era Å martno,1,0,H
-26/04/03,Maribor Pivovarna LaÅ¡ko,Primorje,2,0,H
-26/04/03,KoroÅ¡ka Dravograd,ND Gorica,4,1,H
+26/04/03,Sport Line Koper,Era Šmartno,1,0,H
+26/04/03,Maribor Pivovarna Laško,Primorje,2,0,H
+26/04/03,Koroška Dravograd,ND Gorica,4,1,H
 26/04/03,Ljubljana,Rudar Velenje,2,1,H
 03/05/03,Rudar Velenje,ND Gorica,0,0,D
 04/05/03,Primorje,Vega Olimpija,2,0,H
-04/05/03,Sport Line Koper,KoroÅ¡ka Dravograd,2,2,D
+04/05/03,Sport Line Koper,Koroška Dravograd,2,2,D
 04/05/03,Mura,Ljubljana,4,2,H
-04/05/03,Era Å martno,Maribor Pivovarna LaÅ¡ko,0,2,A
-09/05/03,Vega Olimpija,Era Å martno,1,1,D
+04/05/03,Era Šmartno,Maribor Pivovarna Laško,0,2,A
+09/05/03,Vega Olimpija,Era Šmartno,1,1,D
 10/05/03,CMC Publikum,Primorje,2,1,H
 11/05/03,ND Gorica,Mura,1,1,D
-11/05/03,Maribor Pivovarna LaÅ¡ko,Sport Line Koper,1,0,H
-11/05/03,KoroÅ¡ka Dravograd,Rudar Velenje,3,1,H
-18/05/03,Era Å martno,CMC Publikum,4,1,H
+11/05/03,Maribor Pivovarna Laško,Sport Line Koper,1,0,H
+11/05/03,Koroška Dravograd,Rudar Velenje,3,1,H
+18/05/03,Era Šmartno,CMC Publikum,4,1,H
 18/05/03,Primorje,Ljubljana,1,2,A
 18/05/03,Mura,Rudar Velenje,1,0,H
-18/05/03,Maribor Pivovarna LaÅ¡ko,KoroÅ¡ka Dravograd,5,0,H
+18/05/03,Maribor Pivovarna Laško,Koroška Dravograd,5,0,H
 18/05/03,Sport Line Koper,Vega Olimpija,2,2,D
 24/05/03,ND Gorica,Primorje,3,3,D
 25/05/03,CMC Publikum,Sport Line Koper,3,3,D
-25/05/03,KoroÅ¡ka Dravograd,Mura,2,1,H
-25/05/03,Ljubljana,Era Å martno,1,2,A
-25/05/03,Vega Olimpija,Maribor Pivovarna LaÅ¡ko,3,3,D
-28/05/03,Era Å martno,ND Gorica,0,1,A
+25/05/03,Koroška Dravograd,Mura,2,1,H
+25/05/03,Ljubljana,Era Šmartno,1,2,A
+25/05/03,Vega Olimpija,Maribor Pivovarna Laško,3,3,D
+28/05/03,Era Šmartno,ND Gorica,0,1,A
 28/05/03,Sport Line Koper,Ljubljana,3,0,H
 28/05/03,Primorje,Rudar Velenje,4,0,H
-28/05/03,Vega Olimpija,KoroÅ¡ka Dravograd,1,1,D
-28/05/03,Maribor Pivovarna LaÅ¡ko,CMC Publikum,2,1,H
+28/05/03,Vega Olimpija,Koroška Dravograd,1,1,D
+28/05/03,Maribor Pivovarna Laško,CMC Publikum,2,1,H
 31/05/03,ND Gorica,Sport Line Koper,3,0,H
-01/06/03,Rudar Velenje,Era Å martno,4,3,H
+01/06/03,Rudar Velenje,Era Šmartno,4,3,H
 01/06/03,Mura,Primorje,2,1,H
 01/06/03,CMC Publikum,Vega Olimpija,1,3,A
-01/06/03,Ljubljana,Maribor Pivovarna LaÅ¡ko,1,6,A
-20/07/03,Mura,KoroÅ¡ka Dravograd,3,1,H
-20/07/03,Primorje,Å martno,3,2,H
-20/07/03,Kumho Drava,DomÅ¾ale,0,2,A
+01/06/03,Ljubljana,Maribor Pivovarna Laško,1,6,A
+20/07/03,Mura,Koroška Dravograd,3,1,H
+20/07/03,Primorje,Šmartno,3,2,H
+20/07/03,Kumho Drava,Domžale,0,2,A
 20/07/03,CMC Publikum,Gorica,2,1,H
-20/07/03,KD Olimpija,Maribor Pivovarna LaÅ¡ko,6,1,H
+20/07/03,KD Olimpija,Maribor Pivovarna Laško,6,1,H
 22/07/03,FC Koper,Ljubljana,1,0,H
-26/07/03,Gorica,Å martno,3,1,H
-26/07/03,Maribor Pivovarna LaÅ¡ko,Kumho Drava,4,1,H
+26/07/03,Gorica,Šmartno,3,1,H
+26/07/03,Maribor Pivovarna Laško,Kumho Drava,4,1,H
 27/07/03,CMC Publikum,Mura,3,2,H
-27/07/03,KoroÅ¡ka Dravograd,KD Olimpija,1,0,H
+27/07/03,Koroška Dravograd,KD Olimpija,1,0,H
 27/07/03,Ljubljana,Primorje,0,4,A
-13/08/03,DomÅ¾ale,FC Koper,0,3,A
+13/08/03,Domžale,FC Koper,0,3,A
 02/08/03,KD Olimpija,CMC Publikum,2,2,D
-03/08/03,Kumho Drava,KoroÅ¡ka Dravograd,3,1,H
-03/08/03,Å martno,Ljubljana,3,1,H
-03/08/03,FC Koper,Maribor Pivovarna LaÅ¡ko,0,1,A
+03/08/03,Kumho Drava,Koroška Dravograd,3,1,H
+03/08/03,Šmartno,Ljubljana,3,1,H
+03/08/03,FC Koper,Maribor Pivovarna Laško,0,1,A
 03/08/03,Mura,Gorica,2,2,D
-03/08/03,Primorje,DomÅ¾ale,6,0,H
+03/08/03,Primorje,Domžale,6,0,H
 08/08/03,Gorica,Ljubljana,5,0,H
 09/08/03,Mura,KD Olimpija,0,4,A
-09/08/03,DomÅ¾ale,Å martno,2,1,H
+09/08/03,Domžale,Šmartno,2,1,H
 10/08/03,CMC Publikum,Kumho Drava,3,1,H
-10/08/03,KoroÅ¡ka Dravograd,FC Koper,0,1,A
-10/08/03,Maribor Pivovarna LaÅ¡ko,Primorje,2,1,H
-17/08/03,Primorje,KoroÅ¡ka Dravograd,2,2,D
-17/08/03,Å martno,Maribor Pivovarna LaÅ¡ko,0,0,D
+10/08/03,Koroška Dravograd,FC Koper,0,1,A
+10/08/03,Maribor Pivovarna Laško,Primorje,2,1,H
+17/08/03,Primorje,Koroška Dravograd,2,2,D
+17/08/03,Šmartno,Maribor Pivovarna Laško,0,0,D
 17/08/03,Kumho Drava,Mura,2,3,A
 17/08/03,FC Koper,CMC Publikum,0,0,D
-17/08/03,Ljubljana,DomÅ¾ale,3,0,H
+17/08/03,Ljubljana,Domžale,3,0,H
 17/08/03,KD Olimpija,Gorica,0,3,A
 22/08/03,KD Olimpija,Kumho Drava,1,0,H
-23/08/03,Gorica,DomÅ¾ale,3,0,H
+23/08/03,Gorica,Domžale,3,0,H
 24/08/03,Mura,FC Koper,0,1,A
 24/08/03,CMC Publikum,Primorje,2,4,A
-24/08/03,KoroÅ¡ka Dravograd,Å martno,1,4,A
-24/08/03,Maribor Pivovarna LaÅ¡ko,Ljubljana,2,1,H
+24/08/03,Koroška Dravograd,Šmartno,1,4,A
+24/08/03,Maribor Pivovarna Laško,Ljubljana,2,1,H
 30/08/03,Primorje,Mura,4,0,H
 31/08/03,FC Koper,KD Olimpija,1,1,D
-31/08/03,Å martno,CMC Publikum,2,0,H
+31/08/03,Šmartno,CMC Publikum,2,0,H
 31/08/03,Kumho Drava,Gorica,2,4,A
-31/08/03,DomÅ¾ale,Maribor Pivovarna LaÅ¡ko,0,1,A
-31/08/03,Ljubljana,KoroÅ¡ka Dravograd,1,3,A
+31/08/03,Domžale,Maribor Pivovarna Laško,0,1,A
+31/08/03,Ljubljana,Koroška Dravograd,1,3,A
 12/09/03,CMC Publikum,Ljubljana,3,1,H
 12/09/03,KD Olimpija,Primorje,1,0,H
-13/09/03,KoroÅ¡ka Dravograd,DomÅ¾ale,1,5,A
-13/09/03,Gorica,Maribor Pivovarna LaÅ¡ko,2,0,H
-14/09/03,Mura,Å martno,3,1,H
+13/09/03,Koroška Dravograd,Domžale,1,5,A
+13/09/03,Gorica,Maribor Pivovarna Laško,2,0,H
+14/09/03,Mura,Šmartno,3,1,H
 14/09/03,Kumho Drava,FC Koper,1,1,D
-20/09/03,Å martno,KD Olimpija,1,1,D
+20/09/03,Šmartno,KD Olimpija,1,1,D
 21/09/03,FC Koper,Gorica,2,0,H
 21/09/03,Primorje,Kumho Drava,0,0,D
-21/09/03,DomÅ¾ale,CMC Publikum,1,5,A
+21/09/03,Domžale,CMC Publikum,1,5,A
 21/09/03,Ljubljana,Mura,0,4,A
-21/09/03,Maribor Pivovarna LaÅ¡ko,KoroÅ¡ka Dravograd,1,0,H
+21/09/03,Maribor Pivovarna Laško,Koroška Dravograd,1,0,H
 27/09/03,FC Koper,Primorje,0,2,A
-27/09/03,Gorica,KoroÅ¡ka Dravograd,1,1,D
-28/09/03,Mura,DomÅ¾ale,3,1,H
-28/09/03,Kumho Drava,Å martno,0,0,D
+27/09/03,Gorica,Koroška Dravograd,1,1,D
+28/09/03,Mura,Domžale,3,1,H
+28/09/03,Kumho Drava,Šmartno,0,0,D
 28/09/03,KD Olimpija,Ljubljana,0,0,D
-28/09/03,CMC Publikum,Maribor Pivovarna LaÅ¡ko,1,2,A
+28/09/03,CMC Publikum,Maribor Pivovarna Laško,1,2,A
 04/10/03,Primorje,Gorica,2,2,D
-05/10/03,Å martno,FC Koper,0,0,D
-05/10/03,KoroÅ¡ka Dravograd,CMC Publikum,2,1,H
-05/10/03,DomÅ¾ale,KD Olimpija,2,1,H
+05/10/03,Šmartno,FC Koper,0,0,D
+05/10/03,Koroška Dravograd,CMC Publikum,2,1,H
+05/10/03,Domžale,KD Olimpija,2,1,H
 05/10/03,Ljubljana,Kumho Drava,0,0,D
-05/10/03,Maribor Pivovarna LaÅ¡ko,Mura,3,3,D
-18/10/03,Maribor Pivovarna LaÅ¡ko,KD Olimpija,0,0,D
+05/10/03,Maribor Pivovarna Laško,Mura,3,3,D
+18/10/03,Maribor Pivovarna Laško,KD Olimpija,0,0,D
 18/10/03,Gorica,CMC Publikum,1,4,A
-19/10/03,Å martno,Primorje,1,1,D
-19/10/03,KoroÅ¡ka Dravograd,Mura,2,2,D
-19/10/03,DomÅ¾ale,Kumho Drava,3,2,H
+19/10/03,Šmartno,Primorje,1,1,D
+19/10/03,Koroška Dravograd,Mura,2,2,D
+19/10/03,Domžale,Kumho Drava,3,2,H
 19/10/03,Ljubljana,FC Koper,1,4,A
-25/10/03,FC Koper,DomÅ¾ale,2,1,H
+25/10/03,FC Koper,Domžale,2,1,H
 26/10/03,Mura,CMC Publikum,3,2,H
 26/10/03,Primorje,Ljubljana,3,0,H
-26/10/03,Kumho Drava,Maribor Pivovarna LaÅ¡ko,1,1,D
-26/10/03,Å martno,Gorica,0,0,D
-29/10/03,KD Olimpija,KoroÅ¡ka Dravograd,4,0,H
-31/10/03,Maribor Pivovarna LaÅ¡ko,FC Koper,1,0,H
-02/11/03,KoroÅ¡ka Dravograd,Kumho Drava,1,3,A
-02/11/03,DomÅ¾ale,Primorje,0,0,D
-02/11/03,Ljubljana,Å martno,2,3,A
+26/10/03,Kumho Drava,Maribor Pivovarna Laško,1,1,D
+26/10/03,Šmartno,Gorica,0,0,D
+29/10/03,KD Olimpija,Koroška Dravograd,4,0,H
+31/10/03,Maribor Pivovarna Laško,FC Koper,1,0,H
+02/11/03,Koroška Dravograd,Kumho Drava,1,3,A
+02/11/03,Domžale,Primorje,0,0,D
+02/11/03,Ljubljana,Šmartno,2,3,A
 02/11/03,Gorica,Mura,6,1,H
 02/11/03,CMC Publikum,KD Olimpija,1,2,A
 05/11/03,Kumho Drava,CMC Publikum,0,3,A
-05/11/03,Å martno,DomÅ¾ale,2,3,A
-05/11/03,Primorje,Maribor Pivovarna LaÅ¡ko,0,0,D
-05/11/03,FC Koper,KoroÅ¡ka Dravograd,3,0,H
+05/11/03,Šmartno,Domžale,2,3,A
+05/11/03,Primorje,Maribor Pivovarna Laško,0,0,D
+05/11/03,FC Koper,Koroška Dravograd,3,0,H
 05/11/03,Ljubljana,Gorica,1,1,D
 05/11/03,KD Olimpija,Mura,2,1,H
 09/11/03,Mura,Kumho Drava,1,0,H
 09/11/03,Gorica,KD Olimpija,5,1,H
-09/11/03,KoroÅ¡ka Dravograd,Primorje,1,1,D
-09/11/03,DomÅ¾ale,Ljubljana,1,1,D
-09/11/03,Maribor Pivovarna LaÅ¡ko,Å martno,1,2,A
+09/11/03,Koroška Dravograd,Primorje,1,1,D
+09/11/03,Domžale,Ljubljana,1,1,D
+09/11/03,Maribor Pivovarna Laško,Šmartno,1,2,A
 09/11/03,CMC Publikum,FC Koper,0,1,A
 23/11/03,Kumho Drava,KD Olimpija,3,4,A
-23/11/03,Å martno,KoroÅ¡ka Dravograd,2,1,H
+23/11/03,Šmartno,Koroška Dravograd,2,1,H
 23/11/03,FC Koper,Mura,1,1,D
 23/11/03,Primorje,CMC Publikum,2,2,D
-23/11/03,DomÅ¾ale,Gorica,0,1,A
-23/11/03,Ljubljana,Maribor Pivovarna LaÅ¡ko,2,1,H
+23/11/03,Domžale,Gorica,0,1,A
+23/11/03,Ljubljana,Maribor Pivovarna Laško,2,1,H
 28/11/03,KD Olimpija,FC Koper,2,1,H
 29/11/03,Mura,Primorje,4,3,H
-29/11/03,KoroÅ¡ka Dravograd,Ljubljana,1,3,A
-29/11/03,CMC Publikum,Å martno,5,0,H
+29/11/03,Koroška Dravograd,Ljubljana,1,3,A
+29/11/03,CMC Publikum,Šmartno,5,0,H
 29/11/03,Gorica,Kumho Drava,3,0,H
-30/11/03,Maribor Pivovarna LaÅ¡ko,DomÅ¾ale,1,0,H
-06/03/04,Maribor Pivovarna LaÅ¡ko,Gorica,1,0,H
-07/03/04,Å martno,Mura,0,3,A
+30/11/03,Maribor Pivovarna Laško,Domžale,1,0,H
+06/03/04,Maribor Pivovarna Laško,Gorica,1,0,H
+07/03/04,Šmartno,Mura,0,3,A
 07/03/04,FC Koper,Kumho Drava,3,0,H
 13/03/04,Primorje,KD Olimpija,4,2,H
-13/03/04,DomÅ¾ale,KoroÅ¡ka Dravograd,3,0,H
+13/03/04,Domžale,Koroška Dravograd,3,0,H
 13/03/04,Ljubljana,CMC Publikum,2,1,H
 20/03/04,Gorica,FC Koper,0,0,D
 21/03/04,Mura,Ljubljana,0,1,A
 21/03/04,Kumho Drava,Primorje,0,1,A
-21/03/04,KD Olimpija,Å martno,3,0,H
-21/03/04,KoroÅ¡ka Dravograd,Maribor Pivovarna LaÅ¡ko,2,1,H
-21/03/04,CMC Publikum,DomÅ¾ale,1,1,D
-28/03/04,Å martno,Kumho Drava,1,1,D
+21/03/04,KD Olimpija,Šmartno,3,0,H
+21/03/04,Koroška Dravograd,Maribor Pivovarna Laško,2,1,H
+21/03/04,CMC Publikum,Domžale,1,1,D
+28/03/04,Šmartno,Kumho Drava,1,1,D
 28/03/04,Primorje,FC Koper,5,2,H
-28/03/04,Maribor Pivovarna LaÅ¡ko,CMC Publikum,3,0,H
-28/03/04,KoroÅ¡ka Dravograd,Gorica,0,1,A
-28/03/04,DomÅ¾ale,Mura,0,1,A
+28/03/04,Maribor Pivovarna Laško,CMC Publikum,3,0,H
+28/03/04,Koroška Dravograd,Gorica,0,1,A
+28/03/04,Domžale,Mura,0,1,A
 28/03/04,Ljubljana,KD Olimpija,0,1,A
 04/04/04,Kumho Drava,Ljubljana,3,2,H
-04/04/04,CMC Publikum,KoroÅ¡ka Dravograd,2,3,A
-04/04/04,KD Olimpija,DomÅ¾ale,4,1,H
+04/04/04,CMC Publikum,Koroška Dravograd,2,3,A
+04/04/04,KD Olimpija,Domžale,4,1,H
 04/04/04,Gorica,Primorje,2,1,H
-04/04/04,Mura,Maribor Pivovarna LaÅ¡ko,1,2,A
-04/04/04,FC Koper,Å martno,1,1,D
+04/04/04,Mura,Maribor Pivovarna Laško,1,2,A
+04/04/04,FC Koper,Šmartno,1,1,D
 09/04/04,KD Olimpija,FC Koper,2,2,D
 09/04/04,CMC Publikum,Kumho Drava,0,1,A
 10/04/04,Gorica,Mura,0,0,D
-10/04/04,Å martno,KoroÅ¡ka Dravograd,2,0,H
-10/04/04,DomÅ¾ale,Ljubljana,0,0,D
-10/04/04,Maribor Pivovarna LaÅ¡ko,Primorje,1,1,D
-14/04/04,FC Koper,Maribor Pivovarna LaÅ¡ko,1,0,H
+10/04/04,Šmartno,Koroška Dravograd,2,0,H
+10/04/04,Domžale,Ljubljana,0,0,D
+10/04/04,Maribor Pivovarna Laško,Primorje,1,1,D
+14/04/04,FC Koper,Maribor Pivovarna Laško,1,0,H
 14/04/04,Mura,Primorje,1,0,H
 14/04/04,Kumho Drava,Ljubljana,0,3,A
-14/04/04,KoroÅ¡ka Dravograd,DomÅ¾ale,0,2,A
-14/04/04,CMC Publikum,Å martno,2,1,H
+14/04/04,Koroška Dravograd,Domžale,0,2,A
+14/04/04,CMC Publikum,Šmartno,2,1,H
 14/04/04,Gorica,KD Olimpija,1,0,H
 18/04/04,Primorje,FC Koper,3,0,H
-18/04/04,Å martno,Kumho Drava,3,0,H
-18/04/04,DomÅ¾ale,CMC Publikum,2,2,D
-18/04/04,Ljubljana,KoroÅ¡ka Dravograd,2,1,H
+18/04/04,Šmartno,Kumho Drava,3,0,H
+18/04/04,Domžale,CMC Publikum,2,2,D
+18/04/04,Ljubljana,Koroška Dravograd,2,1,H
 18/04/04,KD Olimpija,Mura,2,1,H
-18/04/04,Maribor Pivovarna LaÅ¡ko,Gorica,1,2,A
+18/04/04,Maribor Pivovarna Laško,Gorica,1,2,A
 24/04/04,Gorica,Primorje,0,0,D
 24/04/04,CMC Publikum,Ljubljana,1,2,A
-24/04/04,KD Olimpija,Maribor Pivovarna LaÅ¡ko,1,2,A
-25/04/04,Å martno,DomÅ¾ale,1,1,D
-25/04/04,Kumho Drava,KoroÅ¡ka Dravograd,3,1,H
+24/04/04,KD Olimpija,Maribor Pivovarna Laško,1,2,A
+25/04/04,Šmartno,Domžale,1,1,D
+25/04/04,Kumho Drava,Koroška Dravograd,3,1,H
 25/04/04,Mura,FC Koper,2,2,D
-01/05/04,Ljubljana,Å martno,1,0,H
+01/05/04,Ljubljana,Šmartno,1,0,H
 02/05/04,Primorje,KD Olimpija,1,2,A
 02/05/04,FC Koper,Gorica,1,1,D
-02/05/04,DomÅ¾ale,Kumho Drava,5,0,H
-02/05/04,Maribor Pivovarna LaÅ¡ko,Mura,1,0,H
-05/05/04,KoroÅ¡ka Dravograd,CMC Publikum,1,4,A
+02/05/04,Domžale,Kumho Drava,5,0,H
+02/05/04,Maribor Pivovarna Laško,Mura,1,0,H
+05/05/04,Koroška Dravograd,CMC Publikum,1,4,A
 08/05/04,Mura,Gorica,1,1,D
 08/05/04,FC Koper,KD Olimpija,2,1,H
-08/05/04,Primorje,Maribor Pivovarna LaÅ¡ko,2,2,D
-08/05/04,KoroÅ¡ka Dravograd,Å martno,2,1,H
+08/05/04,Primorje,Maribor Pivovarna Laško,2,2,D
+08/05/04,Koroška Dravograd,Šmartno,2,1,H
 09/05/04,Kumho Drava,CMC Publikum,0,0,D
-09/05/04,Ljubljana,DomÅ¾ale,1,1,D
+09/05/04,Ljubljana,Domžale,1,1,D
 11/05/04,KD Olimpija,Gorica,2,1,H
-12/05/04,Å martno,CMC Publikum,3,2,H
+12/05/04,Šmartno,CMC Publikum,3,2,H
 12/05/04,Primorje,Mura,1,2,A
-12/05/04,DomÅ¾ale,KoroÅ¡ka Dravograd,4,1,H
+12/05/04,Domžale,Koroška Dravograd,4,1,H
 12/05/04,Ljubljana,Kumho Drava,2,1,H
-12/05/04,Maribor Pivovarna LaÅ¡ko,FC Koper,3,1,H
-15/05/04,Gorica,Maribor Pivovarna LaÅ¡ko,1,1,D
+12/05/04,Maribor Pivovarna Laško,FC Koper,3,1,H
+15/05/04,Gorica,Maribor Pivovarna Laško,1,1,D
 15/05/04,FC Koper,Primorje,0,0,D
-15/05/04,CMC Publikum,DomÅ¾ale,1,3,A
-16/05/04,Kumho Drava,Å martno,2,0,H
+15/05/04,CMC Publikum,Domžale,1,3,A
+16/05/04,Kumho Drava,Šmartno,2,0,H
 16/05/04,Mura,KD Olimpija,2,1,H
-16/05/04,KoroÅ¡ka Dravograd,Ljubljana,1,2,A
+16/05/04,Koroška Dravograd,Ljubljana,1,2,A
 21/05/04,Ljubljana,CMC Publikum,2,1,H
-21/05/04,DomÅ¾ale,Å martno,2,2,D
-23/05/04,KoroÅ¡ka Dravograd,Kumho Drava,3,1,H
+21/05/04,Domžale,Šmartno,2,2,D
+23/05/04,Koroška Dravograd,Kumho Drava,3,1,H
 23/05/04,FC Koper,Mura,4,1,H
 23/05/04,Primorje,Gorica,2,0,H
-23/05/04,Maribor Pivovarna LaÅ¡ko,KD Olimpija,0,0,D
-30/05/04,Å martno,Ljubljana,3,1,H
-30/05/04,Kumho Drava,DomÅ¾ale,3,1,H
-30/05/04,CMC Publikum,KoroÅ¡ka Dravograd,5,1,H
+23/05/04,Maribor Pivovarna Laško,KD Olimpija,0,0,D
+30/05/04,Šmartno,Ljubljana,3,1,H
+30/05/04,Kumho Drava,Domžale,3,1,H
+30/05/04,CMC Publikum,Koroška Dravograd,5,1,H
 30/05/04,KD Olimpija,Primorje,3,0,H
 30/05/04,Gorica,FC Koper,2,0,H
-30/05/04,Mura,Maribor Pivovarna LaÅ¡ko,2,1,H
+30/05/04,Mura,Maribor Pivovarna Laško,2,1,H

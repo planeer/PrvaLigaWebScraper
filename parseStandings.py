@@ -15,6 +15,7 @@ def main():
     for i in range(from_year, to_year + 1):
         print("Parsing year: " + str(i))
         r = requests.get(URL + str(i))
+        r.encoding = 'utf-8'
         soup = BeautifulSoup(r.text, "html.parser")
 
         # Select all teams

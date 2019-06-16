@@ -1,49 +1,49 @@
 Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 18/08/91,Rudar Velenje,Slovan Mavrica,2,0,H
-18/08/91,DomÅ¾ale,Belvedur Izola,0,2,A
+18/08/91,Domžale,Belvedur Izola,0,2,A
 18/08/91,Publikum,Primorje,3,1,H
 18/08/91,Liqui Moly Svoboda,Jadran Lama,4,1,H
 18/08/91,Steklar,Mura,3,1,H
 18/08/91,Elektroelement Zagorje,Medvode Loka,4,0,H
-18/08/91,PotroÅ¡nik Beltinci,Nafta Lendava,6,4,H
+18/08/91,Potrošnik Beltinci,Nafta Lendava,6,4,H
 18/08/91,Koper,Eurospekter Ljubljana,1,0,H
-18/08/91,Å½ivila Naklo,Oria Rudar Trbovlje,7,1,H
+18/08/91,Živila Naklo,Oria Rudar Trbovlje,7,1,H
 18/08/91,SAOP Gorica,Maribor Branik,3,0,H
 25/08/91,Slovan Mavrica,SAOP Gorica,0,2,A
 25/08/91,Nafta Lendava,Rudar Velenje,2,0,H
 25/08/91,Maribor Branik,Koper,5,0,H
-25/08/91,Oria Rudar Trbovlje,PotroÅ¡nik Beltinci,0,1,A
-25/08/91,Medvode Loka,Å½ivila Naklo,1,2,A
+25/08/91,Oria Rudar Trbovlje,Potrošnik Beltinci,0,1,A
+25/08/91,Medvode Loka,Živila Naklo,1,2,A
 25/08/91,Mura,Elektroelement Zagorje,1,1,D
 25/08/91,Jadran Lama,Steklar,0,1,A
 25/08/91,Primorje,Liqui Moly Svoboda,2,3,A
 25/08/91,Belvedur Izola,Publikum,5,1,H
-25/08/91,SCT Olimpija,DomÅ¾ale,3,0,H
+25/08/91,SCT Olimpija,Domžale,3,0,H
 28/08/91,Publikum,SCT Olimpija,0,0,D
 28/08/91,Liqui Moly Svoboda,Belvedur Izola,0,3,A
 28/08/91,Steklar,Primorje,2,1,H
 28/08/91,Elektroelement Zagorje,Jadran Lama,2,0,H
-28/08/91,Å½ivila Naklo,Mura,1,1,D
+28/08/91,Živila Naklo,Mura,1,1,D
 28/08/91,SAOP Gorica,Nafta Lendava,5,1,H
 28/08/91,Koper,Slovan Mavrica,0,1,A
 28/08/91,Eurospekter Ljubljana,Maribor Branik,2,2,D
-28/08/91,PotroÅ¡nik Beltinci,Medvode Loka,2,2,D
+28/08/91,Potrošnik Beltinci,Medvode Loka,2,2,D
 28/08/91,Rudar Velenje,Oria Rudar Trbovlje,1,0,H
 31/08/91,SCT Olimpija,Liqui Moly Svoboda,3,2,H
-01/09/91,DomÅ¾ale,Publikum,0,0,D
+01/09/91,Domžale,Publikum,0,0,D
 01/09/91,Slovan Mavrica,Eurospekter Ljubljana,0,0,D
 01/09/91,Medvode Loka,Rudar Velenje,1,1,D
 01/09/91,Nafta Lendava,Koper,1,1,D
 01/09/91,Oria Rudar Trbovlje,SAOP Gorica,3,2,H
-01/09/91,Mura,PotroÅ¡nik Beltinci,5,1,H
-01/09/91,Jadran Lama,Å½ivila Naklo,2,3,A
+01/09/91,Mura,Potrošnik Beltinci,5,1,H
+01/09/91,Jadran Lama,Živila Naklo,2,3,A
 01/09/91,Primorje,Elektroelement Zagorje,2,1,H
 01/09/91,Belvedur Izola,Steklar,3,0,H
-08/09/91,Liqui Moly Svoboda,DomÅ¾ale,2,0,H
+08/09/91,Liqui Moly Svoboda,Domžale,2,0,H
 08/09/91,Steklar,SCT Olimpija,0,0,D
 08/09/91,Elektroelement Zagorje,Belvedur Izola,0,0,D
-08/09/91,Å½ivila Naklo,Primorje,2,0,H
-08/09/91,PotroÅ¡nik Beltinci,Jadran Lama,3,1,H
+08/09/91,Živila Naklo,Primorje,2,0,H
+08/09/91,Potrošnik Beltinci,Jadran Lama,3,1,H
 08/09/91,Rudar Velenje,Mura,0,2,A
 08/09/91,SAOP Gorica,Medvode Loka,6,0,H
 08/09/91,Koper,Oria Rudar Trbovlje,1,0,H
@@ -55,16 +55,16 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 11/09/91,Oria Rudar Trbovlje,Eurospekter Ljubljana,0,2,A
 11/09/91,Medvode Loka,Koper,0,1,A
 11/09/91,Mura,SAOP Gorica,2,1,H
-11/09/91,Primorje,PotroÅ¡nik Beltinci,1,1,D
-11/09/91,Belvedur Izola,Å½ivila Naklo,1,0,H
+11/09/91,Primorje,Potrošnik Beltinci,1,1,D
+11/09/91,Belvedur Izola,Živila Naklo,1,0,H
 11/09/91,SCT Olimpija,Elektroelement Zagorje,2,0,H
-11/09/91,DomÅ¾ale,Steklar,2,2,D
+11/09/91,Domžale,Steklar,2,2,D
 14/09/91,Slovan Mavrica,Nafta Lendava,2,0,H
 15/09/91,Steklar,Publikum,0,4,A
-15/09/91,PotroÅ¡nik Beltinci,Belvedur Izola,1,2,A
-15/09/91,Å½ivila Naklo,SCT Olimpija,2,1,H
+15/09/91,Potrošnik Beltinci,Belvedur Izola,1,2,A
+15/09/91,Živila Naklo,SCT Olimpija,2,1,H
 15/09/91,Rudar Velenje,Primorje,3,0,H
-15/09/91,Elektroelement Zagorje,DomÅ¾ale,3,0,H
+15/09/91,Elektroelement Zagorje,Domžale,3,0,H
 15/09/91,SAOP Gorica,Jadran Lama,5,0,H
 15/09/91,Koper,Mura,2,1,H
 15/09/91,Eurospekter Ljubljana,Medvode Loka,1,0,H
@@ -75,13 +75,13 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 22/09/91,Medvode Loka,Maribor Branik,2,4,A
 22/09/91,Publikum,Elektroelement Zagorje,2,1,H
 22/09/91,Primorje,SAOP Gorica,1,1,D
-22/09/91,SCT Olimpija,PotroÅ¡nik Beltinci,6,0,H
-22/09/91,DomÅ¾ale,Å½ivila Naklo,0,0,D
+22/09/91,SCT Olimpija,Potrošnik Beltinci,6,0,H
+22/09/91,Domžale,Živila Naklo,0,0,D
 22/09/91,Mura,Eurospekter Ljubljana,3,0,H
 22/09/91,Jadran Lama,Koper,1,0,H
-25/09/91,Å½ivila Naklo,Publikum,0,0,D
+25/09/91,Živila Naklo,Publikum,0,0,D
 25/09/91,Elektroelement Zagorje,Liqui Moly Svoboda,2,0,H
-25/09/91,PotroÅ¡nik Beltinci,DomÅ¾ale,2,0,H
+25/09/91,Potrošnik Beltinci,Domžale,2,0,H
 25/09/91,Rudar Velenje,SCT Olimpija,0,1,A
 25/09/91,SAOP Gorica,Belvedur Izola,2,2,D
 25/09/91,Koper,Primorje,1,0,H
@@ -90,40 +90,40 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 25/09/91,Slovan Mavrica,Medvode Loka,0,1,A
 25/09/91,Nafta Lendava,Oria Rudar Trbovlje,3,2,H
 28/09/91,Jadran Lama,Maribor Branik,1,3,A
-29/09/91,Liqui Moly Svoboda,Å½ivila Naklo,0,1,A
+29/09/91,Liqui Moly Svoboda,Živila Naklo,0,1,A
 29/09/91,Steklar,Elektroelement Zagorje,4,2,H
 29/09/91,Primorje,Eurospekter Ljubljana,1,0,H
 29/09/91,Belvedur Izola,Koper,1,0,H
 29/09/91,SCT Olimpija,SAOP Gorica,1,1,D
-29/09/91,DomÅ¾ale,Rudar Velenje,1,1,D
-29/09/91,Publikum,PotroÅ¡nik Beltinci,3,0,H
+29/09/91,Domžale,Rudar Velenje,1,1,D
+29/09/91,Publikum,Potrošnik Beltinci,3,0,H
 29/09/91,Medvode Loka,Nafta Lendava,2,1,H
 29/09/91,Mura,Slovan Mavrica,1,2,A
-06/10/91,PotroÅ¡nik Beltinci,Liqui Moly Svoboda,3,0,H
+06/10/91,Potrošnik Beltinci,Liqui Moly Svoboda,3,0,H
 06/10/91,Slovan Mavrica,Jadran Lama,5,0,H
 06/10/91,Rudar Velenje,Publikum,3,1,H
-06/10/91,Å½ivila Naklo,Steklar,2,1,H
-06/10/91,SAOP Gorica,DomÅ¾ale,1,0,H
+06/10/91,Živila Naklo,Steklar,2,1,H
+06/10/91,SAOP Gorica,Domžale,1,0,H
 06/10/91,Koper,SCT Olimpija,1,1,D
 06/10/91,Maribor Branik,Primorje,6,2,H
 06/10/91,Oria Rudar Trbovlje,Medvode Loka,2,1,H
 06/10/91,Nafta Lendava,Mura,2,3,A
 06/10/91,Eurospekter Ljubljana,Belvedur Izola,2,1,H
 12/10/91,Liqui Moly Svoboda,Rudar Velenje,1,0,H
-13/10/91,Steklar,PotroÅ¡nik Beltinci,2,1,H
-13/10/91,Elektroelement Zagorje,Å½ivila Naklo,1,0,H
+13/10/91,Steklar,Potrošnik Beltinci,2,1,H
+13/10/91,Elektroelement Zagorje,Živila Naklo,1,0,H
 13/10/91,Publikum,SAOP Gorica,0,0,D
 13/10/91,Mura,Oria Rudar Trbovlje,1,0,H
 13/10/91,Jadran Lama,Nafta Lendava,0,1,A
 13/10/91,Primorje,Slovan Mavrica,0,5,A
 13/10/91,Belvedur Izola,Maribor Branik,1,0,H
 13/10/91,SCT Olimpija,Eurospekter Ljubljana,3,0,H
-13/10/91,DomÅ¾ale,Koper,0,1,A
+13/10/91,Domžale,Koper,0,1,A
 16/10/91,Koper,Publikum,4,1,H
-16/10/91,PotroÅ¡nik Beltinci,Elektroelement Zagorje,3,2,H
+16/10/91,Potrošnik Beltinci,Elektroelement Zagorje,3,2,H
 16/10/91,Rudar Velenje,Steklar,6,2,H
 16/10/91,SAOP Gorica,Liqui Moly Svoboda,2,2,D
-16/10/91,Eurospekter Ljubljana,DomÅ¾ale,2,1,H
+16/10/91,Eurospekter Ljubljana,Domžale,2,1,H
 16/10/91,Maribor Branik,SCT Olimpija,2,1,H
 16/10/91,Slovan Mavrica,Belvedur Izola,1,1,D
 16/10/91,Nafta Lendava,Primorje,2,1,H
@@ -132,90 +132,90 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 19/10/91,Liqui Moly Svoboda,Koper,1,0,H
 20/10/91,Steklar,SAOP Gorica,0,0,D
 20/10/91,Elektroelement Zagorje,Rudar Velenje,4,0,H
-20/10/91,Å½ivila Naklo,PotroÅ¡nik Beltinci,1,0,H
+20/10/91,Živila Naklo,Potrošnik Beltinci,1,0,H
 20/10/91,Publikum,Eurospekter Ljubljana,2,1,H
 20/10/91,Jadran Lama,Medvode Loka,1,0,H
 20/10/91,Primorje,Oria Rudar Trbovlje,2,1,H
 20/10/91,Belvedur Izola,Nafta Lendava,4,0,H
 20/10/91,SCT Olimpija,Slovan Mavrica,1,0,H
-20/10/91,DomÅ¾ale,Maribor Branik,0,1,A
-27/10/91,Slovan Mavrica,DomÅ¾ale,1,0,H
+20/10/91,Domžale,Maribor Branik,0,1,A
+27/10/91,Slovan Mavrica,Domžale,1,0,H
 27/10/91,Nafta Lendava,SCT Olimpija,1,0,H
 27/10/91,Oria Rudar Trbovlje,Belvedur Izola,1,0,H
 27/10/91,Medvode Loka,Primorje,1,0,H
 27/10/91,Mura,Jadran Lama,0,0,D
 27/10/91,Maribor Branik,Publikum,3,0,H
-27/10/91,Rudar Velenje,Å½ivila Naklo,1,3,A
+27/10/91,Rudar Velenje,Živila Naklo,1,3,A
 27/10/91,Koper,Steklar,2,1,H
 27/10/91,SAOP Gorica,Elektroelement Zagorje,2,1,H
 27/10/91,Eurospekter Ljubljana,Liqui Moly Svoboda,0,0,D
 02/11/91,Liqui Moly Svoboda,Maribor Branik,3,5,A
 03/11/91,Steklar,Eurospekter Ljubljana,1,1,D
 03/11/91,Elektroelement Zagorje,Koper,0,1,A
-03/11/91,PotroÅ¡nik Beltinci,Rudar Velenje,2,2,D
+03/11/91,Potrošnik Beltinci,Rudar Velenje,2,2,D
 03/11/91,Publikum,Slovan Mavrica,1,0,H
 03/11/91,Primorje,Mura,4,0,H
 03/11/91,Belvedur Izola,Medvode Loka,1,0,H
 03/11/91,SCT Olimpija,Oria Rudar Trbovlje,2,0,H
-03/11/91,DomÅ¾ale,Nafta Lendava,2,0,H
-03/11/91,Å½ivila Naklo,SAOP Gorica,2,2,D
+03/11/91,Domžale,Nafta Lendava,2,0,H
+03/11/91,Živila Naklo,SAOP Gorica,2,2,D
 10/11/91,Slovan Mavrica,Liqui Moly Svoboda,3,0,H
-10/11/91,Oria Rudar Trbovlje,DomÅ¾ale,6,2,H
+10/11/91,Oria Rudar Trbovlje,Domžale,6,2,H
 10/11/91,Medvode Loka,SCT Olimpija,1,5,A
 10/11/91,Mura,Belvedur Izola,2,0,H
 10/11/91,Jadran Lama,Primorje,0,0,D
 10/11/91,Nafta Lendava,Publikum,2,2,D
-10/11/91,SAOP Gorica,PotroÅ¡nik Beltinci,2,1,H
-10/11/91,Koper,Å½ivila Naklo,0,1,A
+10/11/91,SAOP Gorica,Potrošnik Beltinci,2,1,H
+10/11/91,Koper,Živila Naklo,0,1,A
 10/11/91,Eurospekter Ljubljana,Elektroelement Zagorje,3,1,H
 10/11/91,Maribor Branik,Steklar,1,0,H
 16/11/91,Publikum,Oria Rudar Trbovlje,2,1,H
 17/11/91,Belvedur Izola,Jadran Lama,2,1,H
 17/11/91,SCT Olimpija,Mura,4,1,H
-17/11/91,DomÅ¾ale,Medvode Loka,2,0,H
+17/11/91,Domžale,Medvode Loka,2,0,H
 17/11/91,Liqui Moly Svoboda,Nafta Lendava,3,0,H
 17/11/91,Steklar,Slovan Mavrica,1,1,D
 17/11/91,Elektroelement Zagorje,Maribor Branik,2,0,H
-17/11/91,Å½ivila Naklo,Eurospekter Ljubljana,1,0,H
-17/11/91,PotroÅ¡nik Beltinci,Koper,1,3,A
+17/11/91,Živila Naklo,Eurospekter Ljubljana,1,0,H
+17/11/91,Potrošnik Beltinci,Koper,1,3,A
 17/11/91,Rudar Velenje,SAOP Gorica,4,3,H
 24/11/91,Medvode Loka,Publikum,3,1,H
 24/11/91,Koper,Rudar Velenje,2,0,H
-24/11/91,Eurospekter Ljubljana,PotroÅ¡nik Beltinci,3,0,H
-24/11/91,Maribor Branik,Å½ivila Naklo,4,1,H
+24/11/91,Eurospekter Ljubljana,Potrošnik Beltinci,3,0,H
+24/11/91,Maribor Branik,Živila Naklo,4,1,H
 24/11/91,Slovan Mavrica,Elektroelement Zagorje,1,1,D
 24/11/91,Nafta Lendava,Steklar,0,1,A
 24/11/91,Oria Rudar Trbovlje,Liqui Moly Svoboda,3,3,D
-24/11/91,Mura,DomÅ¾ale,1,0,H
+24/11/91,Mura,Domžale,1,0,H
 24/11/91,Jadran Lama,SCT Olimpija,0,4,A
 27/11/91,Primorje,Belvedur Izola,1,1,D
 01/12/91,Publikum,Mura,1,0,H
 01/12/91,SCT Olimpija,Primorje,5,0,H
-01/12/91,DomÅ¾ale,Jadran Lama,2,0,H
+01/12/91,Domžale,Jadran Lama,2,0,H
 01/12/91,Liqui Moly Svoboda,Medvode Loka,4,0,H
 01/12/91,Steklar,Oria Rudar Trbovlje,5,2,H
 01/12/91,Elektroelement Zagorje,Nafta Lendava,3,2,H
-01/12/91,Å½ivila Naklo,Slovan Mavrica,3,1,H
-01/12/91,PotroÅ¡nik Beltinci,Maribor Branik,0,0,D
+01/12/91,Živila Naklo,Slovan Mavrica,3,1,H
+01/12/91,Potrošnik Beltinci,Maribor Branik,0,0,D
 01/12/91,Rudar Velenje,Eurospekter Ljubljana,1,1,D
 01/12/91,SAOP Gorica,Koper,0,0,D
 07/12/91,Jadran Lama,Publikum,2,3,A
 07/12/91,Mura,Liqui Moly Svoboda,4,0,H
-08/12/91,Primorje,DomÅ¾ale,2,1,H
+08/12/91,Primorje,Domžale,2,1,H
 08/12/91,Belvedur Izola,SCT Olimpija,1,1,D
 08/12/91,Eurospekter Ljubljana,SAOP Gorica,1,1,D
 08/12/91,Maribor Branik,Rudar Velenje,5,2,H
-08/12/91,Slovan Mavrica,PotroÅ¡nik Beltinci,5,0,H
-08/12/91,Nafta Lendava,Å½ivila Naklo,1,1,D
+08/12/91,Slovan Mavrica,Potrošnik Beltinci,5,0,H
+08/12/91,Nafta Lendava,Živila Naklo,1,1,D
 08/12/91,Oria Rudar Trbovlje,Elektroelement Zagorje,0,1,A
 08/12/91,Medvode Loka,Steklar,0,3,A
 01/03/92,Primorje,Publikum,0,0,D
 01/03/92,Jadran Lama,Liqui Moly Svoboda,0,1,A
-01/03/92,Belvedur Izola,DomÅ¾ale,3,0,H
+01/03/92,Belvedur Izola,Domžale,3,0,H
 01/03/92,Mura,Steklar,5,1,H
 01/03/92,Medvode Loka,Elektroelement Zagorje,1,0,H
-01/03/92,Oria Rudar Trbovlje,Å½ivila Naklo,2,0,H
-01/03/92,Nafta Lendava,PotroÅ¡nik Beltinci,1,1,D
+01/03/92,Oria Rudar Trbovlje,Živila Naklo,2,0,H
+01/03/92,Nafta Lendava,Potrošnik Beltinci,1,1,D
 01/03/92,Slovan Mavrica,Rudar Velenje,2,2,D
 01/03/92,Maribor Branik,SAOP Gorica,1,1,D
 01/03/92,Eurospekter Ljubljana,Koper,0,1,A
@@ -223,56 +223,56 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 08/03/92,Koper,Maribor Branik,0,1,A
 08/03/92,SAOP Gorica,Slovan Mavrica,1,0,H
 08/03/92,Rudar Velenje,Nafta Lendava,3,2,H
-08/03/92,PotroÅ¡nik Beltinci,Oria Rudar Trbovlje,1,1,D
-08/03/92,Å½ivila Naklo,Medvode Loka,0,0,D
+08/03/92,Potrošnik Beltinci,Oria Rudar Trbovlje,1,1,D
+08/03/92,Živila Naklo,Medvode Loka,0,0,D
 08/03/92,Elektroelement Zagorje,Mura,1,2,A
 08/03/92,Steklar,Jadran Lama,2,0,H
 08/03/92,Liqui Moly Svoboda,Primorje,0,2,A
-08/03/92,DomÅ¾ale,SCT Olimpija,0,1,A
+08/03/92,Domžale,SCT Olimpija,0,1,A
 14/03/92,Slovan Mavrica,Koper,0,0,D
 15/03/92,Maribor Branik,Eurospekter Ljubljana,4,0,H
 15/03/92,SCT Olimpija,Publikum,6,0,H
 15/03/92,Belvedur Izola,Liqui Moly Svoboda,1,1,D
 15/03/92,Primorje,Steklar,1,1,D
 15/03/92,Jadran Lama,Elektroelement Zagorje,0,0,D
-15/03/92,Mura,Å½ivila Naklo,1,1,D
-15/03/92,Medvode Loka,PotroÅ¡nik Beltinci,0,2,A
+15/03/92,Mura,Živila Naklo,1,1,D
+15/03/92,Medvode Loka,Potrošnik Beltinci,0,2,A
 15/03/92,Oria Rudar Trbovlje,Rudar Velenje,2,0,H
 15/03/92,Nafta Lendava,SAOP Gorica,1,0,H
 21/03/92,Eurospekter Ljubljana,Slovan Mavrica,0,0,D
 22/03/92,Koper,Nafta Lendava,1,1,D
 22/03/92,SAOP Gorica,Oria Rudar Trbovlje,2,2,D
 22/03/92,Rudar Velenje,Medvode Loka,1,1,D
-22/03/92,PotroÅ¡nik Beltinci,Mura,2,0,H
-22/03/92,Å½ivila Naklo,Jadran Lama,1,1,D
+22/03/92,Potrošnik Beltinci,Mura,2,0,H
+22/03/92,Živila Naklo,Jadran Lama,1,1,D
 22/03/92,Steklar,Belvedur Izola,0,0,D
 22/03/92,Liqui Moly Svoboda,SCT Olimpija,0,1,A
 22/03/92,Elektroelement Zagorje,Primorje,0,0,D
-22/03/92,Publikum,DomÅ¾ale,1,1,D
+22/03/92,Publikum,Domžale,1,1,D
 28/03/92,SCT Olimpija,Steklar,4,1,H
 29/03/92,Belvedur Izola,Elektroelement Zagorje,2,0,H
-29/03/92,Primorje,Å½ivila Naklo,1,1,D
-29/03/92,Jadran Lama,PotroÅ¡nik Beltinci,3,1,H
+29/03/92,Primorje,Živila Naklo,1,1,D
+29/03/92,Jadran Lama,Potrošnik Beltinci,3,1,H
 29/03/92,Mura,Rudar Velenje,2,3,A
 29/03/92,Medvode Loka,SAOP Gorica,1,0,H
 29/03/92,Oria Rudar Trbovlje,Koper,1,1,D
 29/03/92,Nafta Lendava,Eurospekter Ljubljana,3,0,H
 29/03/92,Slovan Mavrica,Maribor Branik,0,0,D
-29/03/92,DomÅ¾ale,Liqui Moly Svoboda,0,0,D
+29/03/92,Domžale,Liqui Moly Svoboda,0,0,D
 01/04/92,Maribor Branik,Nafta Lendava,4,0,H
 01/04/92,Eurospekter Ljubljana,Oria Rudar Trbovlje,3,2,H
 01/04/92,Koper,Medvode Loka,4,0,H
 01/04/92,SAOP Gorica,Mura,3,0,H
 01/04/92,Rudar Velenje,Jadran Lama,3,1,H
-01/04/92,PotroÅ¡nik Beltinci,Primorje,1,1,D
-01/04/92,Å½ivila Naklo,Belvedur Izola,0,0,D
+01/04/92,Potrošnik Beltinci,Primorje,1,1,D
+01/04/92,Živila Naklo,Belvedur Izola,0,0,D
 01/04/92,Elektroelement Zagorje,SCT Olimpija,0,1,A
-01/04/92,Steklar,DomÅ¾ale,3,1,H
+01/04/92,Steklar,Domžale,3,1,H
 01/04/92,Liqui Moly Svoboda,Publikum,0,0,D
 05/04/92,Publikum,Steklar,3,1,H
-05/04/92,DomÅ¾ale,Elektroelement Zagorje,3,2,H
-05/04/92,SCT Olimpija,Å½ivila Naklo,3,1,H
-05/04/92,Belvedur Izola,PotroÅ¡nik Beltinci,1,0,H
+05/04/92,Domžale,Elektroelement Zagorje,3,2,H
+05/04/92,SCT Olimpija,Živila Naklo,3,1,H
+05/04/92,Belvedur Izola,Potrošnik Beltinci,1,0,H
 05/04/92,Primorje,Rudar Velenje,2,0,H
 05/04/92,Jadran Lama,SAOP Gorica,1,1,D
 05/04/92,Mura,Koper,0,0,D
@@ -285,13 +285,13 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 12/04/92,Koper,Jadran Lama,1,0,H
 12/04/92,SAOP Gorica,Primorje,2,1,H
 12/04/92,Rudar Velenje,Belvedur Izola,1,5,A
-12/04/92,PotroÅ¡nik Beltinci,SCT Olimpija,0,1,A
-12/04/92,Å½ivila Naklo,DomÅ¾ale,0,0,D
+12/04/92,Potrošnik Beltinci,SCT Olimpija,0,1,A
+12/04/92,Živila Naklo,Domžale,0,0,D
 12/04/92,Steklar,Liqui Moly Svoboda,0,1,A
 12/04/92,Elektroelement Zagorje,Publikum,1,0,H
-15/04/92,Publikum,Å½ivila Naklo,1,1,D
+15/04/92,Publikum,Živila Naklo,1,1,D
 15/04/92,Liqui Moly Svoboda,Elektroelement Zagorje,0,0,D
-15/04/92,DomÅ¾ale,PotroÅ¡nik Beltinci,0,0,D
+15/04/92,Domžale,Potrošnik Beltinci,0,0,D
 15/04/92,SCT Olimpija,Rudar Velenje,2,0,H
 15/04/92,Belvedur Izola,SAOP Gorica,2,0,H
 15/04/92,Primorje,Koper,1,0,H
@@ -304,28 +304,28 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 19/04/92,Eurospekter Ljubljana,Primorje,2,0,H
 19/04/92,Koper,Belvedur Izola,1,1,D
 19/04/92,SAOP Gorica,SCT Olimpija,0,2,A
-19/04/92,Rudar Velenje,DomÅ¾ale,5,0,H
-19/04/92,Å½ivila Naklo,Liqui Moly Svoboda,0,1,A
+19/04/92,Rudar Velenje,Domžale,5,0,H
+19/04/92,Živila Naklo,Liqui Moly Svoboda,0,1,A
 19/04/92,Elektroelement Zagorje,Steklar,2,2,D
-19/04/92,PotroÅ¡nik Beltinci,Publikum,2,1,H
+19/04/92,Potrošnik Beltinci,Publikum,2,1,H
 19/04/92,Nafta Lendava,Medvode Loka,1,0,H
-25/04/92,Liqui Moly Svoboda,PotroÅ¡nik Beltinci,1,0,H
-26/04/92,DomÅ¾ale,SAOP Gorica,2,2,D
+25/04/92,Liqui Moly Svoboda,Potrošnik Beltinci,1,0,H
+26/04/92,Domžale,SAOP Gorica,2,2,D
 26/04/92,SCT Olimpija,Koper,3,1,H
 26/04/92,Belvedur Izola,Eurospekter Ljubljana,1,1,D
 26/04/92,Primorje,Maribor Branik,0,0,D
 26/04/92,Jadran Lama,Slovan Mavrica,3,2,H
 26/04/92,Mura,Nafta Lendava,2,2,D
 26/04/92,Medvode Loka,Oria Rudar Trbovlje,0,1,A
-26/04/92,Steklar,Å½ivila Naklo,1,1,D
+26/04/92,Steklar,Živila Naklo,1,1,D
 26/04/92,Publikum,Rudar Velenje,1,2,A
 02/05/92,Slovan Mavrica,Primorje,1,3,A
 03/05/92,Maribor Branik,Belvedur Izola,2,1,H
 03/05/92,Eurospekter Ljubljana,SCT Olimpija,0,1,A
-03/05/92,Koper,DomÅ¾ale,1,1,D
+03/05/92,Koper,Domžale,1,1,D
 03/05/92,Rudar Velenje,Liqui Moly Svoboda,1,1,D
-03/05/92,PotroÅ¡nik Beltinci,Steklar,3,0,H
-03/05/92,Å½ivila Naklo,Elektroelement Zagorje,1,1,D
+03/05/92,Potrošnik Beltinci,Steklar,3,0,H
+03/05/92,Živila Naklo,Elektroelement Zagorje,1,1,D
 03/05/92,SAOP Gorica,Publikum,2,0,H
 03/05/92,Oria Rudar Trbovlje,Mura,0,1,A
 03/05/92,Nafta Lendava,Jadran Lama,3,0,H
@@ -334,10 +334,10 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 06/05/92,Jadran Lama,Oria Rudar Trbovlje,0,1,A
 06/05/92,Mura,Medvode Loka,3,0,H
 06/05/92,Publikum,Koper,1,0,H
-06/05/92,Elektroelement Zagorje,PotroÅ¡nik Beltinci,2,0,H
+06/05/92,Elektroelement Zagorje,Potrošnik Beltinci,2,0,H
 06/05/92,Steklar,Rudar Velenje,4,2,H
 06/05/92,Liqui Moly Svoboda,SAOP Gorica,1,0,H
-06/05/92,DomÅ¾ale,Eurospekter Ljubljana,0,1,A
+06/05/92,Domžale,Eurospekter Ljubljana,0,1,A
 06/05/92,SCT Olimpija,Maribor Branik,2,0,H
 10/05/92,Rudar Velenje,Elektroelement Zagorje,2,0,H
 10/05/92,Eurospekter Ljubljana,Publikum,3,0,H
@@ -345,77 +345,77 @@ Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
 10/05/92,Oria Rudar Trbovlje,Primorje,4,2,H
 10/05/92,Nafta Lendava,Belvedur Izola,1,0,H
 10/05/92,Slovan Mavrica,SCT Olimpija,1,1,D
-10/05/92,Maribor Branik,DomÅ¾ale,3,1,H
+10/05/92,Maribor Branik,Domžale,3,1,H
 10/05/92,Koper,Liqui Moly Svoboda,1,1,D
 10/05/92,SAOP Gorica,Steklar,1,0,H
-10/05/92,PotroÅ¡nik Beltinci,Å½ivila Naklo,2,1,H
+10/05/92,Potrošnik Beltinci,Živila Naklo,2,1,H
 16/05/92,Liqui Moly Svoboda,Eurospekter Ljubljana,1,2,A
-17/05/92,DomÅ¾ale,Slovan Mavrica,1,0,H
+17/05/92,Domžale,Slovan Mavrica,1,0,H
 17/05/92,SCT Olimpija,Nafta Lendava,2,0,H
 17/05/92,Belvedur Izola,Oria Rudar Trbovlje,2,0,H
 17/05/92,Primorje,Medvode Loka,1,2,A
 17/05/92,Jadran Lama,Mura,0,1,A
 17/05/92,Publikum,Maribor Branik,0,0,D
-17/05/92,Å½ivila Naklo,Rudar Velenje,3,2,H
+17/05/92,Živila Naklo,Rudar Velenje,3,2,H
 17/05/92,Elektroelement Zagorje,SAOP Gorica,0,2,A
 17/05/92,Steklar,Koper,0,0,D
 20/05/92,Slovan Mavrica,Publikum,1,0,H
 20/05/92,Mura,Primorje,1,1,D
 20/05/92,Medvode Loka,Belvedur Izola,0,2,A
 20/05/92,Oria Rudar Trbovlje,SCT Olimpija,0,3,A
-20/05/92,Nafta Lendava,DomÅ¾ale,1,1,D
+20/05/92,Nafta Lendava,Domžale,1,1,D
 20/05/92,Maribor Branik,Liqui Moly Svoboda,3,1,H
 20/05/92,Eurospekter Ljubljana,Steklar,9,2,H
 20/05/92,Koper,Elektroelement Zagorje,2,1,H
-20/05/92,SAOP Gorica,Å½ivila Naklo,0,0,D
-20/05/92,Rudar Velenje,PotroÅ¡nik Beltinci,1,1,D
+20/05/92,SAOP Gorica,Živila Naklo,0,0,D
+20/05/92,Rudar Velenje,Potrošnik Beltinci,1,1,D
 24/05/92,Publikum,Nafta Lendava,1,0,H
-24/05/92,PotroÅ¡nik Beltinci,SAOP Gorica,1,0,H
-24/05/92,Å½ivila Naklo,Koper,0,0,D
+24/05/92,Potrošnik Beltinci,SAOP Gorica,1,0,H
+24/05/92,Živila Naklo,Koper,0,0,D
 24/05/92,Elektroelement Zagorje,Eurospekter Ljubljana,2,1,H
 24/05/92,Steklar,Maribor Branik,0,0,D
 24/05/92,Liqui Moly Svoboda,Slovan Mavrica,1,1,D
-24/05/92,DomÅ¾ale,Oria Rudar Trbovlje,1,1,D
+24/05/92,Domžale,Oria Rudar Trbovlje,1,1,D
 24/05/92,SCT Olimpija,Medvode Loka,6,0,H
 24/05/92,Belvedur Izola,Mura,2,1,H
 24/05/92,Primorje,Jadran Lama,1,0,H
 30/05/92,Mura,SCT Olimpija,2,1,H
 30/05/92,Slovan Mavrica,Steklar,5,2,H
 30/05/92,Maribor Branik,Elektroelement Zagorje,0,0,D
-30/05/92,Koper,PotroÅ¡nik Beltinci,1,2,A
+30/05/92,Koper,Potrošnik Beltinci,1,2,A
 30/05/92,SAOP Gorica,Rudar Velenje,1,1,D
 30/05/92,Jadran Lama,Belvedur Izola,1,3,A
-31/05/92,Eurospekter Ljubljana,Å½ivila Naklo,2,2,D
-31/05/92,Medvode Loka,DomÅ¾ale,1,0,H
+31/05/92,Eurospekter Ljubljana,Živila Naklo,2,2,D
+31/05/92,Medvode Loka,Domžale,1,0,H
 31/05/92,Nafta Lendava,Liqui Moly Svoboda,4,2,H
 31/05/92,Oria Rudar Trbovlje,Publikum,0,0,D
 07/06/92,Publikum,Medvode Loka,3,1,H
 07/06/92,Rudar Velenje,Koper,1,1,D
-07/06/92,PotroÅ¡nik Beltinci,Eurospekter Ljubljana,0,0,D
-07/06/92,Å½ivila Naklo,Maribor Branik,1,0,H
+07/06/92,Potrošnik Beltinci,Eurospekter Ljubljana,0,0,D
+07/06/92,Živila Naklo,Maribor Branik,1,0,H
 07/06/92,Elektroelement Zagorje,Slovan Mavrica,3,1,H
 07/06/92,Steklar,Nafta Lendava,1,4,A
 07/06/92,Liqui Moly Svoboda,Oria Rudar Trbovlje,1,3,A
-07/06/92,DomÅ¾ale,Mura,0,0,D
+07/06/92,Domžale,Mura,0,0,D
 07/06/92,SCT Olimpija,Jadran Lama,12,0,H
 07/06/92,Belvedur Izola,Primorje,2,0,H
 14/06/92,Mura,Publikum,3,1,H
 14/06/92,Primorje,SCT Olimpija,0,2,A
-14/06/92,Jadran Lama,DomÅ¾ale,1,1,D
-14/06/92,Maribor Branik,PotroÅ¡nik Beltinci,1,0,H
+14/06/92,Jadran Lama,Domžale,1,1,D
+14/06/92,Maribor Branik,Potrošnik Beltinci,1,0,H
 14/06/92,Medvode Loka,Liqui Moly Svoboda,0,4,A
 14/06/92,Oria Rudar Trbovlje,Steklar,2,1,H
 14/06/92,Nafta Lendava,Elektroelement Zagorje,1,0,H
-14/06/92,Slovan Mavrica,Å½ivila Naklo,2,1,H
+14/06/92,Slovan Mavrica,Živila Naklo,2,1,H
 14/06/92,Eurospekter Ljubljana,Rudar Velenje,3,1,H
 14/06/92,Koper,SAOP Gorica,1,2,A
 21/06/92,Publikum,Jadran Lama,2,0,H
 21/06/92,SAOP Gorica,Eurospekter Ljubljana,2,2,D
 21/06/92,Rudar Velenje,Maribor Branik,1,0,H
-21/06/92,PotroÅ¡nik Beltinci,Slovan Mavrica,1,0,H
-21/06/92,Å½ivila Naklo,Nafta Lendava,1,1,D
+21/06/92,Potrošnik Beltinci,Slovan Mavrica,1,0,H
+21/06/92,Živila Naklo,Nafta Lendava,1,1,D
 21/06/92,Elektroelement Zagorje,Oria Rudar Trbovlje,0,0,D
 21/06/92,Steklar,Medvode Loka,4,0,H
 21/06/92,Liqui Moly Svoboda,Mura,2,1,H
-21/06/92,DomÅ¾ale,Primorje,0,3,A
+21/06/92,Domžale,Primorje,0,3,A
 21/06/92,SCT Olimpija,Belvedur Izola,4,0,H
