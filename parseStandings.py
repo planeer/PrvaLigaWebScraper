@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import re
+from team_dict import teams_dict
 
 
 def main():
@@ -32,6 +33,10 @@ def main():
                     team = team_td.get_text().strip()
                     if team[0] == "*":
                         team = team[1:].strip()
+
+                    team_name = teams_dict.get(team)
+                    if team_name != None:
+                        team = team_name
 
                     if not seasons.loc[seasons["Team"] == team].empty:
                         seasons.loc[seasons["Team"] == team, ((i-1) % 100)] = int(position)
