@@ -30,7 +30,62 @@ def getDate(date_string):
             return date_obj.strftime("%d/%m/%y")
 
 def main():
-    data = []
+
+    teams_dict = {
+        "Olimpija": "Olimpija Ljubljana",
+        "KD Olimpija": "Olimpija Ljubljana",
+        "Vega Olimpija": "Olimpija Ljubljana",
+        "SCT Olimpija": "Olimpija Ljubljana",
+        "Rudar": "Rudar Velenje",
+        "Rudar V.": "Rudar Velenje",
+        "BS Tehnik Domžale": "Domžale",
+        "HIT Gorica": "Gorica",
+        "Hit Gorica": "Gorica",
+        "ND Gorica": "Gorica",
+        "SAOP Gorica": "Gorica",
+        "Maribor Pivovarna Laško": "Maribor",
+        "Maribor Teatanic": "Maribor",
+        "Maribor Branik": "Maribor",
+        "Triglav": "Triglav Kranj",
+        "Živila Triglav": "Triglav Kranj",
+        "Triglav Gorenjska": "Triglav Kranj",
+        "CM Celje": "Celje",
+        "MIK CM Celje": "Celje",
+        "CMC Publikum": "Celje",
+        "Publikum": "Celje",
+        "Protonavto Publikum": "Celje",
+        "Biostart Publikum": "Celje",
+        "Luka Koper": "Koper",
+        "Anet Koper": "Koper",
+        "FC Koper": "Koper",
+        "Sport Line Koper": "Koper",
+        "Istrabenz Koper": "Koper",
+        "Krka Novoterm": "Krka",
+        "Studio D Novo mesto": "Krka",
+        "Nafta Lendava": "Nafta",
+        "Labod Drava Ptuj": "Labod Drava",
+        "Drava Ptuj": "Labod Drava",
+        "Drava": "Labod Drava",
+        "Kumho Drava": "Labod Drava",
+        "AM Cosmos Ljubljana": "Ljubljana",
+        "Eurospekter Ljubljana": "Ljubljana",
+        "Železničar Oscar": "Ljubljana",
+        "Elektroelement Zagorje": "Zagorje",
+        "Era Šmartno": "Šmartno",
+        "Dravograd": "Koroška Dravograd",
+        "Korotan": "Relax Korotan",
+        "Mag Korotan": "Relax Korotan",
+        "Korotan Suvel": "Relax Korotan",
+        "AS Beltinci": "Potrošnik Beltinci",
+        "Beltinci": "Potrošnik Beltinci",
+        "Vevče": "Set Vevče",
+        "Belvedur Izola": "Izola",
+        "Istragas Jadran": "Jadran Dekani",
+        "Jadran Lama": "Jadran Dekani",
+        "Kompas Holidays Svoboda": "Optimizem Svoboda",
+        "Liqui Moly Svoboda": "Optimizem Svoboda",
+    }
+
     URL = "https://www.prvaliga.si/tekmovanja/default.asp?id_menu=101&id_sezone="
     from_year = 1992
     to_year = 2019
@@ -44,6 +99,7 @@ def main():
         # Select all played games
         league_table = soup.find("table", {"class": "tekme"}).find('tbody').select("tr.odigrano.klub_all.hidden-xs")
         
+        data = []
         for j, row in enumerate(league_table):
             # Get data for each game
             home_team = row.find("td", {"class": "text-right"}).get_text().strip()
@@ -59,6 +115,14 @@ def main():
             date = row.find("td", {"class": "text-left"}).findNext("td").get_text().strip()
             result = re.search("([0-9])(.*)([0-9])", date)
             date = getDate(result.group().strip())
+
+            home_team_name = teams_dict.get(home_team)
+            if home_team_name != None:
+                home_team = home_team_name
+
+            away_team_name = teams_dict.get(away_team)
+            if away_team_name != None:
+                away_team = away_team_name
 
             data.append([date, home_team, away_team, home_team_goals, away_team_goals, ftr])
 
